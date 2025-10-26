@@ -1,0 +1,21 @@
+{
+  "customers": [
+    {
+      "id": "_ojyp3y1wf",
+      "firstName": "रामेश्वर",
+      "lastName": "नेहरा",
+      "amount": 500,
+      "village": "Kalana",
+      "date": "2025-10-25",
+      "paymentDone": false
+    }
+  ],
+  "history": [
+    {
+      "userId": "_ojyp3y1wf",
+      "type": "User Creation",
+      "message": "User created with amount 500 and village Kalana",
+      "timestamp": "2025-10-26T17:07:09.566Z"
+    }
+  ]
+}
