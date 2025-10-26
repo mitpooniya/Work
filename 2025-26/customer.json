@@ -8,6 +8,15 @@
       "village": "Kalana",
       "date": "2025-10-25",
       "paymentDone": false
+    },
+    {
+      "id": "_x88h3wbjs",
+      "firstName": "रामजी",
+      "lastName": "खाती",
+      "amount": 1400,
+      "village": "Kalana",
+      "date": "2025-10-26",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -16,6 +25,12 @@
       "type": "User Creation",
       "message": "User created with amount 500 and village Kalana",
       "timestamp": "2025-10-26T17:07:09.566Z"
+    },
+    {
+      "userId": "_x88h3wbjs",
+      "type": "User Creation",
+      "message": "User created with amount 1400 and village Kalana",
+      "timestamp": "2025-10-26T17:12:33.145Z"
     }
   ]
 }
