@@ -26,6 +26,15 @@
       "village": "Kalana",
       "date": "2025-10-26",
       "paymentDone": false
+    },
+    {
+      "id": "_63pet0e7d",
+      "firstName": "बनवारी",
+      "lastName": "छिप्पा",
+      "amount": 1000,
+      "village": "Kalana",
+      "date": "2025-10-28",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -46,6 +55,12 @@
       "type": "User Creation",
       "message": "User created with amount 900 and village Kalana",
       "timestamp": "2025-10-26T17:33:08.742Z"
+    },
+    {
+      "userId": "_63pet0e7d",
+      "type": "User Creation",
+      "message": "User created with amount 1000 and village Kalana",
+      "timestamp": "2025-10-28T14:28:10.254Z"
     }
   ]
 }
