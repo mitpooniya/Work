@@ -53,6 +53,15 @@
       "village": "Dungrana",
       "date": "2025-10-29",
       "paymentDone": false
+    },
+    {
+      "id": "_inu74xn97",
+      "firstName": "हसराज",
+      "lastName": "ठेकेदार (भाई)",
+      "amount": 700,
+      "village": "Kalana",
+      "date": "2025-11-01",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -91,6 +100,12 @@
       "type": "User Creation",
       "message": "User created with amount 700 and village Dungrana",
       "timestamp": "2025-10-29T16:43:36.194Z"
+    },
+    {
+      "userId": "_inu74xn97",
+      "type": "User Creation",
+      "message": "User created with amount 700 and village Kalana",
+      "timestamp": "2025-11-01T14:26:43.065Z"
     }
   ]
 }
