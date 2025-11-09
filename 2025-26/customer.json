@@ -179,6 +179,15 @@
       "village": "Dungrana",
       "date": "2025-11-08",
       "paymentDone": false
+    },
+    {
+      "id": "_f4zu6j1xo",
+      "firstName": "रामेशर",
+      "lastName": "सहू",
+      "amount": 3500,
+      "village": "Rakhi",
+      "date": "2025-11-09",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -301,6 +310,12 @@
       "type": "User Creation",
       "message": "User created with amount 2000 and village Dungrana",
       "timestamp": "2025-11-09T14:38:29.630Z"
+    },
+    {
+      "userId": "_f4zu6j1xo",
+      "type": "User Creation",
+      "message": "User created with amount 3500 and village Rakhi",
+      "timestamp": "2025-11-09T14:39:42.698Z"
     }
   ]
 }
