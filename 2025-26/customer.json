@@ -170,6 +170,15 @@
       "village": "Dungrana",
       "date": "2025-11-08",
       "paymentDone": false
+    },
+    {
+      "id": "_dkxfz8ye3",
+      "firstName": "धर्मपाल",
+      "lastName": "मोठसरा",
+      "amount": 2000,
+      "village": "Dungrana",
+      "date": "2025-11-08",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -286,6 +295,12 @@
       "type": "User Creation",
       "message": "User created with amount 1500 and village Dungrana",
       "timestamp": "2025-11-09T14:37:41.816Z"
+    },
+    {
+      "userId": "_dkxfz8ye3",
+      "type": "User Creation",
+      "message": "User created with amount 2000 and village Dungrana",
+      "timestamp": "2025-11-09T14:38:29.630Z"
     }
   ]
 }
