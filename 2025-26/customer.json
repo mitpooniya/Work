@@ -188,6 +188,15 @@
       "village": "Rakhi",
       "date": "2025-11-09",
       "paymentDone": false
+    },
+    {
+      "id": "_kvhsomosl",
+      "firstName": "धन्नाराम",
+      "lastName": "कंस्वा",
+      "amount": 3400,
+      "village": "Dungrana",
+      "date": "2025-11-12",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -316,6 +325,12 @@
       "type": "User Creation",
       "message": "User created with amount 3500 and village Rakhi",
       "timestamp": "2025-11-09T14:39:42.698Z"
+    },
+    {
+      "userId": "_kvhsomosl",
+      "type": "User Creation",
+      "message": "User created with amount 3400 and village Dungrana",
+      "timestamp": "2025-11-13T15:47:17.809Z"
     }
   ]
 }
