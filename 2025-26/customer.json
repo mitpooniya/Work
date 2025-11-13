@@ -52,7 +52,7 @@
       "amount": 700,
       "village": "Dungrana",
       "date": "2025-10-29",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_inu74xn97",
@@ -382,6 +382,12 @@
       "type": "Payment Status Change",
       "message": "Payment Status changed to DONE",
       "timestamp": "2025-11-13T15:50:33.274Z"
+    },
+    {
+      "userId": "_mhnadrng5",
+      "type": "Payment Status Change",
+      "message": "Payment Status changed to DONE",
+      "timestamp": "2025-11-13T15:50:54.875Z"
     }
   ]
 }
