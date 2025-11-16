@@ -184,10 +184,10 @@
       "id": "_f4zu6j1xo",
       "firstName": "रामेशर",
       "lastName": "सहू",
-      "amount": 3500,
+      "amount": 2900,
       "village": "Rakhi",
       "date": "2025-11-09",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_kvhsomosl",
@@ -469,6 +469,12 @@
       "type": "Payment Status Change",
       "message": "Payment Status changed to DONE",
       "timestamp": "2025-11-16T14:54:18.172Z"
+    },
+    {
+      "userId": "_f4zu6j1xo",
+      "type": "Payment Status Change",
+      "message": "Amount changed from 3500 to 2900; Payment Status changed to DONE",
+      "timestamp": "2025-11-16T14:55:16.443Z"
     }
   ]
 }
