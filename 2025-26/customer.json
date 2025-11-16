@@ -233,6 +233,15 @@
       "village": "Kalana",
       "date": "2025-11-14",
       "paymentDone": false
+    },
+    {
+      "id": "_d2wihdiia",
+      "firstName": "मंगलाराम",
+      "lastName": "शर्मा",
+      "amount": 1800,
+      "village": "Kalana",
+      "date": "2025-11-14",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -403,6 +412,12 @@
       "type": "User Creation",
       "message": "User created with amount 1700 and village Kalana",
       "timestamp": "2025-11-16T14:49:40.287Z"
+    },
+    {
+      "userId": "_d2wihdiia",
+      "type": "User Creation",
+      "message": "User created with amount 1800 and village Kalana",
+      "timestamp": "2025-11-16T14:50:56.422Z"
     }
   ]
 }
