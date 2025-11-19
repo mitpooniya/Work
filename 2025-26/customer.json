@@ -269,6 +269,15 @@
       "village": "Kalana",
       "date": "2025-11-16",
       "paymentDone": false
+    },
+    {
+      "id": "_1ht98vqfq",
+      "firstName": "निहाल सिंह",
+      "lastName": "महला",
+      "amount": 500,
+      "village": "Dungrana",
+      "date": "2025-11-17",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -475,6 +484,12 @@
       "type": "Payment Status Change",
       "message": "Amount changed from 3500 to 2900; Payment Status changed to DONE",
       "timestamp": "2025-11-16T14:55:16.443Z"
+    },
+    {
+      "userId": "_1ht98vqfq",
+      "type": "User Creation",
+      "message": "User created with amount 500 and village Dungrana",
+      "timestamp": "2025-11-19T17:58:26.006Z"
     }
   ]
 }
