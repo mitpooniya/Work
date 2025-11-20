@@ -95,6 +95,12 @@
       "inCash": 2400,
       "dieselExp": 1000,
       "otherExp": 800
+    },
+    {
+      "date": "2025-11-20",
+      "inCash": 0,
+      "dieselExp": 1000,
+      "otherExp": 0
     }
   ]
 }
