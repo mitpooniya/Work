@@ -314,6 +314,15 @@
       "village": "Kalana",
       "date": "2025-11-19",
       "paymentDone": false
+    },
+    {
+      "id": "_22bjmivm5",
+      "firstName": "लीलाराम",
+      "lastName": "झाझरिया",
+      "amount": 1000,
+      "village": "Dungrana",
+      "date": "2025-11-20",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -556,6 +565,12 @@
       "type": "Payment Status Change",
       "message": "Payment Status changed to DONE",
       "timestamp": "2025-11-19T18:02:18.446Z"
+    },
+    {
+      "userId": "_22bjmivm5",
+      "type": "User Creation",
+      "message": "User created with amount 1000 and village Dungrana",
+      "timestamp": "2025-11-20T14:20:35.524Z"
     }
   ]
 }
