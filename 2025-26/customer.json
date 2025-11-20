@@ -323,6 +323,15 @@
       "village": "Dungrana",
       "date": "2025-11-20",
       "paymentDone": false
+    },
+    {
+      "id": "_4j7q5j6jv",
+      "firstName": "हरिसिंह",
+      "lastName": "कुम्हार",
+      "amount": 1500,
+      "village": "Kalana",
+      "date": "2025-11-20",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -571,6 +580,12 @@
       "type": "User Creation",
       "message": "User created with amount 1000 and village Dungrana",
       "timestamp": "2025-11-20T14:20:35.524Z"
+    },
+    {
+      "userId": "_4j7q5j6jv",
+      "type": "User Creation",
+      "message": "User created with amount 1500 and village Kalana",
+      "timestamp": "2025-11-20T14:21:03.850Z"
     }
   ]
 }
