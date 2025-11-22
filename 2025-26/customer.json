@@ -350,6 +350,15 @@
       "village": "Kalana",
       "date": "2025-11-21",
       "paymentDone": false
+    },
+    {
+      "id": "_f4wfgyz05",
+      "firstName": "मगतु",
+      "lastName": "छिप्पा",
+      "amount": 600,
+      "village": "Dungrana",
+      "date": "2025-11-22",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -628,6 +637,12 @@
       "type": "User Creation",
       "message": "User created with amount 2100 and village Kalana",
       "timestamp": "2025-11-22T14:38:47.764Z"
+    },
+    {
+      "userId": "_f4wfgyz05",
+      "type": "User Creation",
+      "message": "User created with amount 600 and village Dungrana",
+      "timestamp": "2025-11-22T14:40:37.435Z"
     }
   ]
 }
