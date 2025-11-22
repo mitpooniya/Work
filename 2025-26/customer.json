@@ -332,6 +332,15 @@
       "village": "Kalana",
       "date": "2025-11-20",
       "paymentDone": false
+    },
+    {
+      "id": "_3fe96yg96",
+      "firstName": "शंकर",
+      "lastName": "दईया",
+      "amount": 2500,
+      "village": "Kalana",
+      "date": "2025-11-21",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -598,6 +607,12 @@
       "type": "Payment Status Change",
       "message": "Payment Status changed to DONE",
       "timestamp": "2025-11-22T14:36:08.987Z"
+    },
+    {
+      "userId": "_3fe96yg96",
+      "type": "User Creation",
+      "message": "User created with amount 2500 and village Kalana",
+      "timestamp": "2025-11-22T14:37:52.096Z"
     }
   ]
 }
