@@ -310,10 +310,10 @@
       "id": "_grwt954f5",
       "firstName": "मांगेराम",
       "lastName": "नेहरा",
-      "amount": 2700,
+      "amount": 2500,
       "village": "Kalana",
       "date": "2025-11-19",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_22bjmivm5",
@@ -586,6 +586,12 @@
       "type": "User Creation",
       "message": "User created with amount 1500 and village Kalana",
       "timestamp": "2025-11-20T14:21:03.850Z"
+    },
+    {
+      "userId": "_grwt954f5",
+      "type": "Payment Status Change",
+      "message": "Amount changed from 2700 to 2500; Payment Status changed to DONE",
+      "timestamp": "2025-11-22T04:35:31.940Z"
     }
   ]
 }
