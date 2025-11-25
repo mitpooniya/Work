@@ -422,6 +422,15 @@
       "village": "Dungrana",
       "date": "2025-11-24",
       "paymentDone": false
+    },
+    {
+      "id": "_e7mg82833",
+      "firstName": "महेन्द्र",
+      "lastName": "कालीरावणा",
+      "amount": 500,
+      "village": "Kalana",
+      "date": "2025-11-25",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -754,6 +763,12 @@
       "type": "User Creation",
       "message": "User created with amount 800 and village Dungrana",
       "timestamp": "2025-11-25T13:26:29.159Z"
+    },
+    {
+      "userId": "_e7mg82833",
+      "type": "User Creation",
+      "message": "User created with amount 500 and village Kalana",
+      "timestamp": "2025-11-25T13:27:37.730Z"
     }
   ]
 }
