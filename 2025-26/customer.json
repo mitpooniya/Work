@@ -319,7 +319,7 @@
       "id": "_22bjmivm5",
       "firstName": "लीलाराम",
       "lastName": "झाझरिया",
-      "amount": 1000,
+      "amount": 2500,
       "village": "Dungrana",
       "date": "2025-11-20",
       "paymentDone": false
@@ -769,6 +769,12 @@
       "type": "User Creation",
       "message": "User created with amount 500 and village Kalana",
       "timestamp": "2025-11-25T13:27:37.730Z"
+    },
+    {
+      "userId": "_22bjmivm5",
+      "type": "User Update",
+      "message": "Amount changed from 1000 to 2500",
+      "timestamp": "2025-11-25T13:28:09.150Z"
     }
   ]
 }
