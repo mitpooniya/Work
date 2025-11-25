@@ -394,7 +394,7 @@
       "amount": 1000,
       "village": "Dungrana",
       "date": "2025-11-24",
-      "paymentDone": false
+      "paymentDone": true
     }
   ],
   "history": [
@@ -703,6 +703,12 @@
       "type": "User Creation",
       "message": "User created with amount 1000 and village Dungrana",
       "timestamp": "2025-11-25T13:23:48.104Z"
+    },
+    {
+      "userId": "_r9muwiwsj",
+      "type": "Payment Status Change",
+      "message": "Payment Status changed to DONE",
+      "timestamp": "2025-11-25T13:23:54.387Z"
     }
   ]
 }
