@@ -395,6 +395,15 @@
       "village": "Dungrana",
       "date": "2025-11-24",
       "paymentDone": true
+    },
+    {
+      "id": "_j9v6kjum1",
+      "firstName": "भालाराम",
+      "lastName": "मूण्ड",
+      "amount": 100,
+      "village": "Dungrana",
+      "date": "2025-11-24",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -709,6 +718,12 @@
       "type": "Payment Status Change",
       "message": "Payment Status changed to DONE",
       "timestamp": "2025-11-25T13:23:54.387Z"
+    },
+    {
+      "userId": "_j9v6kjum1",
+      "type": "User Creation",
+      "message": "User created with amount 100 and village Dungrana",
+      "timestamp": "2025-11-25T13:25:06.904Z"
     }
   ]
 }
