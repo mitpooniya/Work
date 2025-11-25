@@ -386,6 +386,15 @@
       "village": "Kalana",
       "date": "2025-11-23",
       "paymentDone": false
+    },
+    {
+      "id": "_r9muwiwsj",
+      "firstName": "पन्ना्राम",
+      "lastName": "चमार",
+      "amount": 1000,
+      "village": "Dungrana",
+      "date": "2025-11-24",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -688,6 +697,12 @@
       "type": "User Creation",
       "message": "User created with amount 1200 and village Kalana",
       "timestamp": "2025-11-25T13:22:56.738Z"
+    },
+    {
+      "userId": "_r9muwiwsj",
+      "type": "User Creation",
+      "message": "User created with amount 1000 and village Dungrana",
+      "timestamp": "2025-11-25T13:23:48.104Z"
     }
   ]
 }
