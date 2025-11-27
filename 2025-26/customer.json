@@ -400,10 +400,10 @@
       "id": "_j9v6kjum1",
       "firstName": "भालाराम",
       "lastName": "मूण्ड",
-      "amount": 100,
+      "amount": 1000,
       "village": "Dungrana",
       "date": "2025-11-24",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_g5d6n7z1f",
@@ -775,6 +775,12 @@
       "type": "User Update",
       "message": "Amount changed from 1000 to 2500",
       "timestamp": "2025-11-25T13:28:09.150Z"
+    },
+    {
+      "userId": "_j9v6kjum1",
+      "type": "Payment Status Change",
+      "message": "Amount changed from 100 to 1000; Payment Status changed to DONE",
+      "timestamp": "2025-11-27T12:57:25.229Z"
     }
   ]
 }
