@@ -449,6 +449,15 @@
       "village": "Kalana",
       "date": "2025-11-30",
       "paymentDone": false
+    },
+    {
+      "id": "_soiramkxb",
+      "firstName": "महावीर",
+      "lastName": "कालीरावण",
+      "amount": 800,
+      "village": "Kalana",
+      "date": "2025-12-04",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -823,6 +832,12 @@
       "type": "User Creation",
       "message": "User created with amount 500 and village Kalana",
       "timestamp": "2025-11-30T16:21:05.073Z"
+    },
+    {
+      "userId": "_soiramkxb",
+      "type": "User Creation",
+      "message": "User created with amount 800 and village Kalana",
+      "timestamp": "2025-12-05T13:47:05.646Z"
     }
   ]
 }
