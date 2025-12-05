@@ -211,7 +211,7 @@
       "id": "_1nw1c2tl8",
       "firstName": "मानाराम",
       "lastName": "कंस्वा",
-      "amount": 800,
+      "amount": 2000,
       "village": "Kalana",
       "date": "2025-11-13",
       "paymentDone": false
@@ -838,6 +838,12 @@
       "type": "User Creation",
       "message": "User created with amount 800 and village Kalana",
       "timestamp": "2025-12-05T13:47:05.646Z"
+    },
+    {
+      "userId": "_1nw1c2tl8",
+      "type": "User Update",
+      "message": "Amount changed from 800 to 2000",
+      "timestamp": "2025-12-05T13:47:53.548Z"
     }
   ]
 }
