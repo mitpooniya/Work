@@ -485,6 +485,15 @@
       "village": "Kalana",
       "date": "2025-12-06",
       "paymentDone": false
+    },
+    {
+      "id": "_n39ia6zml",
+      "firstName": "लादू",
+      "lastName": "नाई",
+      "amount": 1700,
+      "village": "Kalana",
+      "date": "2025-12-08",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -895,6 +904,12 @@
       "type": "User Creation",
       "message": "User created with amount 500 and village Kalana",
       "timestamp": "2025-12-08T14:08:49.508Z"
+    },
+    {
+      "userId": "_n39ia6zml",
+      "type": "User Creation",
+      "message": "User created with amount 1700 and village Kalana",
+      "timestamp": "2025-12-08T14:09:37.310Z"
     }
   ]
 }
