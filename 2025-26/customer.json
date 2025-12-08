@@ -458,6 +458,15 @@
       "village": "Kalana",
       "date": "2025-12-04",
       "paymentDone": false
+    },
+    {
+      "id": "_a7atxtzfh",
+      "firstName": "श्योराम",
+      "lastName": "कुम्हार",
+      "amount": 1500,
+      "village": "Dungrana",
+      "date": "2025-12-06",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -850,6 +859,12 @@
       "type": "Payment Status Change",
       "message": "Payment Status changed to DONE",
       "timestamp": "2025-12-08T09:05:08.385Z"
+    },
+    {
+      "userId": "_a7atxtzfh",
+      "type": "User Creation",
+      "message": "User created with amount 1500 and village Dungrana",
+      "timestamp": "2025-12-08T14:07:16.205Z"
     }
   ]
 }
