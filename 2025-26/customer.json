@@ -521,6 +521,15 @@
       "village": "Kalana",
       "date": "2025-12-09",
       "paymentDone": false
+    },
+    {
+      "id": "_oredihwzy",
+      "firstName": "मोतीराम",
+      "lastName": "महला",
+      "amount": 1500,
+      "village": "Dungrana",
+      "date": "2025-12-11",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -967,6 +976,12 @@
       "type": "User Creation",
       "message": "User created with amount 500 and village Kalana",
       "timestamp": "2025-12-13T00:41:51.727Z"
+    },
+    {
+      "userId": "_oredihwzy",
+      "type": "User Creation",
+      "message": "User created with amount 1500 and village Dungrana",
+      "timestamp": "2025-12-13T00:42:51.154Z"
     }
   ]
 }
