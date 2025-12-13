@@ -466,7 +466,7 @@
       "amount": 1500,
       "village": "Dungrana",
       "date": "2025-12-06",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_e7j4tdr7j",
@@ -1048,6 +1048,12 @@
       "type": "User Update",
       "message": "Last Name changed from कुम्हार to ठाकर",
       "timestamp": "2025-12-13T00:48:43.258Z"
+    },
+    {
+      "userId": "_a7atxtzfh",
+      "type": "Payment Status Change",
+      "message": "Payment Status changed to DONE",
+      "timestamp": "2025-12-13T13:35:20.134Z"
     }
   ]
 }
