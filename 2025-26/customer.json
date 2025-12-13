@@ -548,6 +548,15 @@
       "village": "Kalana",
       "date": "2025-12-11",
       "paymentDone": false
+    },
+    {
+      "id": "_njjmlfucg",
+      "firstName": "ब्रिजाराम",
+      "lastName": "कुम्हार",
+      "amount": 1000,
+      "village": "Kalana",
+      "date": "2025-12-12",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -1012,6 +1021,12 @@
       "type": "User Creation",
       "message": "User created with amount 500 and village Kalana",
       "timestamp": "2025-12-13T00:45:23.010Z"
+    },
+    {
+      "userId": "_njjmlfucg",
+      "type": "User Creation",
+      "message": "User created with amount 1000 and village Kalana",
+      "timestamp": "2025-12-13T00:47:27.379Z"
     }
   ]
 }
