@@ -575,6 +575,15 @@
       "village": "Kalana",
       "date": "2025-12-13",
       "paymentDone": false
+    },
+    {
+      "id": "_gujbyohxy",
+      "firstName": "कुरड़ाराम",
+      "lastName": "गोदारा",
+      "amount": 700,
+      "village": "Dungrana",
+      "date": "2025-12-13",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -1075,6 +1084,12 @@
       "type": "User Creation",
       "message": "User created with amount 800 and village Kalana",
       "timestamp": "2025-12-13T13:37:54.857Z"
+    },
+    {
+      "userId": "_gujbyohxy",
+      "type": "User Creation",
+      "message": "User created with amount 700 and village Dungrana",
+      "timestamp": "2025-12-13T13:38:40.416Z"
     }
   ]
 }
