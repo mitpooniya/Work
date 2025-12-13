@@ -566,6 +566,15 @@
       "village": "Dungrana",
       "date": "2025-12-12",
       "paymentDone": false
+    },
+    {
+      "id": "_seoo18322",
+      "firstName": "दोलताराम",
+      "lastName": "सिंदडिंया",
+      "amount": 800,
+      "village": "Kalana",
+      "date": "2025-12-13",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -1060,6 +1069,12 @@
       "type": "User Update",
       "message": "Amount changed from 1200 to 2000",
       "timestamp": "2025-12-13T13:35:43.245Z"
+    },
+    {
+      "userId": "_seoo18322",
+      "type": "User Creation",
+      "message": "User created with amount 800 and village Kalana",
+      "timestamp": "2025-12-13T13:37:54.857Z"
     }
   ]
 }
