@@ -611,6 +611,15 @@
       "village": "Kalana",
       "date": "2025-12-14",
       "paymentDone": false
+    },
+    {
+      "id": "_hziptqpvj",
+      "firstName": "रामपत",
+      "lastName": "खालीया",
+      "amount": 700,
+      "village": "Dungrana",
+      "date": "2025-12-15",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -1153,6 +1162,12 @@
       "type": "User Creation",
       "message": "User created with amount 500 and village Kalana",
       "timestamp": "2025-12-18T14:07:28.817Z"
+    },
+    {
+      "userId": "_hziptqpvj",
+      "type": "User Creation",
+      "message": "User created with amount 700 and village Dungrana",
+      "timestamp": "2025-12-18T14:11:32.104Z"
     }
   ]
 }
