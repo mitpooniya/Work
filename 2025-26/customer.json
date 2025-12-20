@@ -692,6 +692,15 @@
       "village": "Rakhi",
       "date": "2025-12-19",
       "paymentDone": false
+    },
+    {
+      "id": "_71ghn88cd",
+      "firstName": "अमरसिंह",
+      "lastName": "धाणक",
+      "amount": 400,
+      "village": "Kalana",
+      "date": "2025-12-19",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -1300,6 +1309,12 @@
       "type": "User Creation",
       "message": "User created with amount 800 and village Rakhi",
       "timestamp": "2025-12-20T17:17:00.956Z"
+    },
+    {
+      "userId": "_71ghn88cd",
+      "type": "User Creation",
+      "message": "User created with amount 400 and village Kalana",
+      "timestamp": "2025-12-20T17:18:04.948Z"
     }
   ]
 }
