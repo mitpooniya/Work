@@ -683,6 +683,15 @@
       "village": "Kalana",
       "date": "2025-12-19",
       "paymentDone": false
+    },
+    {
+      "id": "_8cg331ipf",
+      "firstName": "लिलाराम",
+      "lastName": "कंस्वा",
+      "amount": 800,
+      "village": "Rakhi",
+      "date": "2025-12-19",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -1285,6 +1294,12 @@
       "type": "User Creation",
       "message": "User created with amount 1000 and village Kalana",
       "timestamp": "2025-12-20T17:16:11.055Z"
+    },
+    {
+      "userId": "_8cg331ipf",
+      "type": "User Creation",
+      "message": "User created with amount 800 and village Rakhi",
+      "timestamp": "2025-12-20T17:17:00.956Z"
     }
   ]
 }
