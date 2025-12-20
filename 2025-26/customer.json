@@ -674,6 +674,15 @@
       "village": "Dungrana",
       "date": "2025-12-18",
       "paymentDone": false
+    },
+    {
+      "id": "_rk2zi6rwa",
+      "firstName": "सुनिल",
+      "lastName": "कंस्वा",
+      "amount": 1000,
+      "village": "Kalana",
+      "date": "2025-12-19",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -1270,6 +1279,12 @@
       "type": "User Update",
       "message": "Last Name changed from चमार to चौपड़ा",
       "timestamp": "2025-12-18T15:49:20.542Z"
+    },
+    {
+      "userId": "_rk2zi6rwa",
+      "type": "User Creation",
+      "message": "User created with amount 1000 and village Kalana",
+      "timestamp": "2025-12-20T17:16:11.055Z"
     }
   ]
 }
