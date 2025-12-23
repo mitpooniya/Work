@@ -698,7 +698,7 @@
       "firstName": "अमरसिंह",
       "lastName": "धाणक",
       "amount": 400,
-      "village": "Kalana",
+      "village": "Rakhi",
       "date": "2025-12-19",
       "paymentDone": false
     },
@@ -1351,6 +1351,12 @@
       "type": "Payment Status Change",
       "message": "Payment Status changed to DONE",
       "timestamp": "2025-12-20T17:23:02.103Z"
+    },
+    {
+      "userId": "_71ghn88cd",
+      "type": "User Update",
+      "message": "Village changed from Kalana to Rakhi",
+      "timestamp": "2025-12-23T14:33:29.302Z"
     }
   ]
 }
