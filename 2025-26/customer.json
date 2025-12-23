@@ -746,6 +746,15 @@
       "village": "Kalana",
       "date": "2025-12-22",
       "paymentDone": false
+    },
+    {
+      "id": "_hgwpypoww",
+      "firstName": "कुरड़ाराम",
+      "lastName": "नाई",
+      "amount": 2500,
+      "village": "Kalana",
+      "date": "2025-12-23",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -1402,6 +1411,12 @@
       "type": "User Creation",
       "message": "User created with amount 2000 and village Kalana",
       "timestamp": "2025-12-23T14:36:01.323Z"
+    },
+    {
+      "userId": "_hgwpypoww",
+      "type": "User Creation",
+      "message": "User created with amount 2500 and village Kalana",
+      "timestamp": "2025-12-23T14:36:32.921Z"
     }
   ]
 }
