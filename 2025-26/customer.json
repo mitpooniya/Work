@@ -719,6 +719,15 @@
       "village": "Kalana",
       "date": "2025-12-20",
       "paymentDone": false
+    },
+    {
+      "id": "_l1cutcq7b",
+      "firstName": "महावीर",
+      "lastName": "खाती",
+      "amount": 1200,
+      "village": "Dungrana",
+      "date": "2025-12-21",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -1357,6 +1366,12 @@
       "type": "User Update",
       "message": "Village changed from Kalana to Rakhi",
       "timestamp": "2025-12-23T14:33:29.302Z"
+    },
+    {
+      "userId": "_l1cutcq7b",
+      "type": "User Creation",
+      "message": "User created with amount 1200 and village Dungrana",
+      "timestamp": "2025-12-23T14:34:41.675Z"
     }
   ]
 }
