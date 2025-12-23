@@ -737,6 +737,15 @@
       "village": "Dungrana",
       "date": "2025-12-21",
       "paymentDone": false
+    },
+    {
+      "id": "_alcbk18ab",
+      "firstName": "हरदत",
+      "lastName": "नेहरा",
+      "amount": 2000,
+      "village": "Kalana",
+      "date": "2025-12-22",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -1387,6 +1396,12 @@
       "type": "User Creation",
       "message": "User created with amount 300 and village Dungrana",
       "timestamp": "2025-12-23T14:35:18.149Z"
+    },
+    {
+      "userId": "_alcbk18ab",
+      "type": "User Creation",
+      "message": "User created with amount 2000 and village Kalana",
+      "timestamp": "2025-12-23T14:36:01.323Z"
     }
   ]
 }
