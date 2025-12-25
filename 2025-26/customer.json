@@ -673,7 +673,7 @@
       "amount": 800,
       "village": "Dungrana",
       "date": "2025-12-18",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_rk2zi6rwa",
@@ -1465,6 +1465,12 @@
       "type": "User Creation",
       "message": "User created with amount 500 and village Kalana",
       "timestamp": "2025-12-24T14:42:54.235Z"
+    },
+    {
+      "userId": "_g766ec6p5",
+      "type": "Payment Status Change",
+      "message": "Payment Status changed to DONE",
+      "timestamp": "2025-12-25T16:16:11.533Z"
     }
   ]
 }
