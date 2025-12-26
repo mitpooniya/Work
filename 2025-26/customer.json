@@ -782,6 +782,15 @@
       "village": "Kalana",
       "date": "2025-12-25",
       "paymentDone": false
+    },
+    {
+      "id": "_ge6ezx13r",
+      "firstName": "भालाराम",
+      "lastName": "ठाकर",
+      "amount": 1000,
+      "village": "Kalana",
+      "date": "2025-12-25",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -1492,6 +1501,12 @@
       "type": "User Creation",
       "message": "User created with amount 1400 and village Kalana",
       "timestamp": "2025-12-26T17:03:25.811Z"
+    },
+    {
+      "userId": "_ge6ezx13r",
+      "type": "User Creation",
+      "message": "User created with amount 1000 and village Kalana",
+      "timestamp": "2025-12-26T17:04:04.479Z"
     }
   ]
 }
