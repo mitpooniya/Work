@@ -800,6 +800,15 @@
       "village": "Kalana",
       "date": "2025-12-25",
       "paymentDone": false
+    },
+    {
+      "id": "_ag4qdptd5",
+      "firstName": "महेन्द्र",
+      "lastName": "खाती",
+      "amount": 1500,
+      "village": "Kalana",
+      "date": "2025-12-26",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -1522,6 +1531,12 @@
       "type": "User Creation",
       "message": "User created with amount 500 and village Kalana",
       "timestamp": "2025-12-26T17:04:45.429Z"
+    },
+    {
+      "userId": "_ag4qdptd5",
+      "type": "User Creation",
+      "message": "User created with amount 1500 and village Kalana",
+      "timestamp": "2025-12-26T17:05:45.202Z"
     }
   ]
 }
