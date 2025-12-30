@@ -854,6 +854,15 @@
       "village": "Dungrana",
       "date": "2025-12-29",
       "paymentDone": false
+    },
+    {
+      "id": "_0nq8lkok0",
+      "firstName": "प्रताप",
+      "lastName": "धाणक",
+      "amount": 1700,
+      "village": "Dungrana",
+      "date": "2025-12-29",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -1612,6 +1621,12 @@
       "type": "User Creation",
       "message": "User created with amount 700 and village Dungrana",
       "timestamp": "2025-12-30T17:45:12.026Z"
+    },
+    {
+      "userId": "_0nq8lkok0",
+      "type": "User Creation",
+      "message": "User created with amount 1700 and village Dungrana",
+      "timestamp": "2025-12-30T17:45:39.821Z"
     }
   ]
 }
