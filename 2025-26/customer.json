@@ -818,6 +818,15 @@
       "village": "Kalana",
       "date": "2025-12-26",
       "paymentDone": false
+    },
+    {
+      "id": "_xl5q0cyw1",
+      "firstName": "रामचन्द्र",
+      "lastName": "बैनीवाल",
+      "amount": 700,
+      "village": "Dungrana",
+      "date": "2025-12-29",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -1552,6 +1561,12 @@
       "type": "User Creation",
       "message": "User created with amount 1000 and village Kalana",
       "timestamp": "2025-12-26T17:06:22.749Z"
+    },
+    {
+      "userId": "_xl5q0cyw1",
+      "type": "User Creation",
+      "message": "User created with amount 700 and village Dungrana",
+      "timestamp": "2025-12-30T17:43:35.697Z"
     }
   ]
 }
