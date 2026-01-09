@@ -853,7 +853,7 @@
       "amount": 700,
       "village": "Dungrana",
       "date": "2025-12-29",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_0nq8lkok0",
@@ -1657,6 +1657,12 @@
       "type": "User Creation",
       "message": "User created with amount 1000 and village Rakhi",
       "timestamp": "2026-01-01T15:33:23.319Z"
+    },
+    {
+      "userId": "_0lrcmuq7q",
+      "type": "Payment Status Change",
+      "message": "Payment Status changed to DONE",
+      "timestamp": "2026-01-09T14:16:22.044Z"
     }
   ]
 }
