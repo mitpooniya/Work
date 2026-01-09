@@ -890,6 +890,15 @@
       "village": "Dungrana",
       "date": "2026-01-09",
       "paymentDone": false
+    },
+    {
+      "id": "_xmr2ao7bi",
+      "firstName": "सतवीर",
+      "lastName": "पुनिया",
+      "amount": 900,
+      "village": "Dungrana",
+      "date": "2026-01-09",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -1684,6 +1693,12 @@
       "type": "User Creation",
       "message": "User created with amount 1500 and village Dungrana",
       "timestamp": "2026-01-09T14:17:54.986Z"
+    },
+    {
+      "userId": "_xmr2ao7bi",
+      "type": "User Creation",
+      "message": "User created with amount 900 and village Dungrana",
+      "timestamp": "2026-01-09T14:18:25.719Z"
     }
   ]
 }
