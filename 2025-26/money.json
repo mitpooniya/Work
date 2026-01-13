@@ -251,6 +251,12 @@
       "inCash": 2000,
       "dieselExp": 0,
       "otherExp": 0
+    },
+    {
+      "date": "2026-01-13",
+      "inCash": 900,
+      "dieselExp": 0,
+      "otherExp": 0
     }
   ]
 }
