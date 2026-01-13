@@ -355,7 +355,7 @@
       "id": "_f4wfgyz05",
       "firstName": "मगतु",
       "lastName": "छिप्पा",
-      "amount": 600,
+      "amount": 2000,
       "village": "Dungrana",
       "date": "2025-11-22",
       "paymentDone": false
@@ -1723,6 +1723,12 @@
       "type": "Payment Status Change",
       "message": "Payment Status changed to DONE",
       "timestamp": "2026-01-11T15:12:55.653Z"
+    },
+    {
+      "userId": "_f4wfgyz05",
+      "type": "User Update",
+      "message": "Amount changed from 600 to 2000",
+      "timestamp": "2026-01-13T02:34:38.175Z"
     }
   ]
 }
