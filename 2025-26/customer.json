@@ -508,10 +508,10 @@
       "id": "_v57n4atgh",
       "firstName": "रामकार",
       "lastName": "सिदड़िया",
-      "amount": 1500,
+      "amount": 1000,
       "village": "Kalana",
       "date": "2025-12-08",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_2o2c9peyg",
@@ -1741,6 +1741,12 @@
       "type": "User Update",
       "message": "Amount changed from 1800 to 700",
       "timestamp": "2026-01-13T13:30:20.527Z"
+    },
+    {
+      "userId": "_v57n4atgh",
+      "type": "Payment Status Change",
+      "message": "Amount changed from 1500 to 1000; Payment Status changed to DONE",
+      "timestamp": "2026-01-15T14:07:27.350Z"
     }
   ]
 }
