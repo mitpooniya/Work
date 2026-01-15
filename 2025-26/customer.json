@@ -899,6 +899,15 @@
       "village": "Dungrana",
       "date": "2026-01-09",
       "paymentDone": false
+    },
+    {
+      "id": "_wj7pytosl",
+      "firstName": "बलाराम",
+      "lastName": "जाखड़",
+      "amount": 1500,
+      "village": "Kalana",
+      "date": "2026-01-15",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -1753,6 +1762,12 @@
       "type": "Payment Status Change",
       "message": "Payment Status changed to DONE",
       "timestamp": "2026-01-15T14:07:58.581Z"
+    },
+    {
+      "userId": "_wj7pytosl",
+      "type": "User Creation",
+      "message": "User created with amount 1500 and village Kalana",
+      "timestamp": "2026-01-15T14:09:45.098Z"
     }
   ]
 }
