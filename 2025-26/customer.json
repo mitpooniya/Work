@@ -917,6 +917,15 @@
       "village": "Kalana",
       "date": "2026-01-15",
       "paymentDone": false
+    },
+    {
+      "id": "_virin77v1",
+      "firstName": "महावीर",
+      "lastName": "कुम्हार",
+      "amount": 1700,
+      "village": "Dungrana",
+      "date": "2026-01-16",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -1789,6 +1798,12 @@
       "type": "Payment Status Change",
       "message": "Payment Status changed to DONE",
       "timestamp": "2026-01-17T09:37:10.232Z"
+    },
+    {
+      "userId": "_virin77v1",
+      "type": "User Creation",
+      "message": "User created with amount 1700 and village Dungrana",
+      "timestamp": "2026-01-17T17:06:27.236Z"
     }
   ]
 }
