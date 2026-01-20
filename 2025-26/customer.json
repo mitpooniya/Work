@@ -769,7 +769,7 @@
       "id": "_9c39frnnn",
       "firstName": "हरिसिंह",
       "lastName": "धाणक",
-      "amount": 500,
+      "amount": 1100,
       "village": "Kalana",
       "date": "2025-12-24",
       "paymentDone": false
@@ -1915,6 +1915,12 @@
       "type": "User Update",
       "message": "Amount changed from 2500 to 4000",
       "timestamp": "2026-01-20T14:35:48.756Z"
+    },
+    {
+      "userId": "_9c39frnnn",
+      "type": "User Update",
+      "message": "Amount changed from 500 to 1100",
+      "timestamp": "2026-01-20T14:37:26.575Z"
     }
   ]
 }
