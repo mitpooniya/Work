@@ -962,6 +962,15 @@
       "village": "Kalana",
       "date": "2026-01-18",
       "paymentDone": false
+    },
+    {
+      "id": "_72jcf85zn",
+      "firstName": "भूराराम",
+      "lastName": "चौपड़ा",
+      "amount": 500,
+      "village": "Dungrana",
+      "date": "2026-01-19",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -1864,6 +1873,12 @@
       "type": "User Creation",
       "message": "User created with amount 500 and village Kalana",
       "timestamp": "2026-01-20T02:42:38.204Z"
+    },
+    {
+      "userId": "_72jcf85zn",
+      "type": "User Creation",
+      "message": "User created with amount 500 and village Dungrana",
+      "timestamp": "2026-01-20T02:43:19.987Z"
     }
   ]
 }
