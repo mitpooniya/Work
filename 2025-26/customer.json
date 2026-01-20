@@ -953,6 +953,15 @@
       "village": "Dungrana",
       "date": "2026-01-18",
       "paymentDone": false
+    },
+    {
+      "id": "_5gd0i12sv",
+      "firstName": "भंवर",
+      "lastName": "गुज़र",
+      "amount": 500,
+      "village": "Kalana",
+      "date": "2026-01-18",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -1849,6 +1858,12 @@
       "type": "User Creation",
       "message": "User created with amount 2000 and village Dungrana",
       "timestamp": "2026-01-20T02:41:53.708Z"
+    },
+    {
+      "userId": "_5gd0i12sv",
+      "type": "User Creation",
+      "message": "User created with amount 500 and village Kalana",
+      "timestamp": "2026-01-20T02:42:38.204Z"
     }
   ]
 }
