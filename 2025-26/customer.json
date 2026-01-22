@@ -961,7 +961,7 @@
       "amount": 500,
       "village": "Kalana",
       "date": "2026-01-18",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_72jcf85zn",
@@ -1927,6 +1927,12 @@
       "type": "Payment Status Change",
       "message": "Payment Status changed to DONE",
       "timestamp": "2026-01-20T14:38:32.248Z"
+    },
+    {
+      "userId": "_5gd0i12sv",
+      "type": "Payment Status Change",
+      "message": "Payment Status changed to DONE",
+      "timestamp": "2026-01-22T04:05:34.105Z"
     }
   ]
 }
