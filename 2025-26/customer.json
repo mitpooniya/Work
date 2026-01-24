@@ -998,6 +998,15 @@
       "village": "Kalana",
       "date": "2026-01-20",
       "paymentDone": false
+    },
+    {
+      "id": "_7g9hygyyw",
+      "firstName": "जयकरण",
+      "lastName": "कुम्हार",
+      "amount": 1200,
+      "village": "Dungrana",
+      "date": "2026-01-22",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -1966,6 +1975,12 @@
       "type": "User Creation",
       "message": "User created with amount 2000 and village Kalana",
       "timestamp": "2026-01-24T11:34:26.572Z"
+    },
+    {
+      "userId": "_7g9hygyyw",
+      "type": "User Creation",
+      "message": "User created with amount 1200 and village Dungrana",
+      "timestamp": "2026-01-24T11:35:31.454Z"
     }
   ]
 }
