@@ -989,6 +989,15 @@
       "village": "Kalana",
       "date": "2026-01-19",
       "paymentDone": false
+    },
+    {
+      "id": "_dzpxwyr4u",
+      "firstName": "महेन्द्र",
+      "lastName": "कुम्हार",
+      "amount": 2000,
+      "village": "Kalana",
+      "date": "2026-01-20",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -1951,6 +1960,12 @@
       "type": "Payment Status Change",
       "message": "Payment Status changed to DONE",
       "timestamp": "2026-01-24T11:32:50.581Z"
+    },
+    {
+      "userId": "_dzpxwyr4u",
+      "type": "User Creation",
+      "message": "User created with amount 2000 and village Kalana",
+      "timestamp": "2026-01-24T11:34:26.572Z"
     }
   ]
 }
