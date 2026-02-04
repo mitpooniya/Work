@@ -1007,6 +1007,15 @@
       "village": "Dungrana",
       "date": "2026-01-22",
       "paymentDone": true
+    },
+    {
+      "id": "_w3tki0ub6",
+      "firstName": "धोलू",
+      "lastName": "ढाका",
+      "amount": 2500,
+      "village": "Kalana",
+      "date": "2026-02-04",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2005,6 +2014,12 @@
       "type": "Payment Status Change",
       "message": "Payment Status changed to DONE",
       "timestamp": "2026-02-04T14:55:57.828Z"
+    },
+    {
+      "userId": "_w3tki0ub6",
+      "type": "User Creation",
+      "message": "User created with amount 2500 and village Kalana",
+      "timestamp": "2026-02-04T14:58:19.236Z"
     }
   ]
 }
