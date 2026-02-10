@@ -1034,6 +1034,15 @@
       "village": "Rakhi",
       "date": "2026-02-07",
       "paymentDone": false
+    },
+    {
+      "id": "_a4fzqw8f0",
+      "firstName": "इन्द्र",
+      "lastName": "लाम्बा",
+      "amount": 500,
+      "village": "Kalana",
+      "date": "2026-02-08",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2056,6 +2065,12 @@
       "type": "User Creation",
       "message": "User created with amount 1000 and village Rakhi",
       "timestamp": "2026-02-10T16:04:09.205Z"
+    },
+    {
+      "userId": "_a4fzqw8f0",
+      "type": "User Creation",
+      "message": "User created with amount 500 and village Kalana",
+      "timestamp": "2026-02-10T16:04:59.659Z"
     }
   ]
 }
