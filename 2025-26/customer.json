@@ -1025,6 +1025,15 @@
       "village": "Kalana",
       "date": "2026-02-04",
       "paymentDone": false
+    },
+    {
+      "id": "_rnc47fxj4",
+      "firstName": "0",
+      "lastName": "साहरण",
+      "amount": 1000,
+      "village": "Rakhi",
+      "date": "2026-02-07",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2041,6 +2050,12 @@
       "type": "Payment Status Change",
       "message": "Payment Status changed to DONE",
       "timestamp": "2026-02-05T13:51:56.416Z"
+    },
+    {
+      "userId": "_rnc47fxj4",
+      "type": "User Creation",
+      "message": "User created with amount 1000 and village Rakhi",
+      "timestamp": "2026-02-10T16:04:09.205Z"
     }
   ]
 }
