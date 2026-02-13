@@ -1043,6 +1043,15 @@
       "village": "Kalana",
       "date": "2026-02-08",
       "paymentDone": false
+    },
+    {
+      "id": "_z3ic8pts3",
+      "firstName": "मनीराम",
+      "lastName": "कुम्हार",
+      "amount": 500,
+      "village": "Dungrana",
+      "date": "2026-02-12",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2089,6 +2098,12 @@
       "type": "User Update",
       "message": "Amount changed from 2600 to 5000",
       "timestamp": "2026-02-13T15:33:01.638Z"
+    },
+    {
+      "userId": "_z3ic8pts3",
+      "type": "User Creation",
+      "message": "User created with amount 500 and village Dungrana",
+      "timestamp": "2026-02-13T15:33:46.226Z"
     }
   ]
 }
