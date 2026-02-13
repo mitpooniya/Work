@@ -634,7 +634,7 @@
       "id": "_shxp3757h",
       "firstName": "जयलाल",
       "lastName": "चौपड़ा",
-      "amount": 2600,
+      "amount": 5000,
       "village": "Kalana",
       "date": "2025-12-15",
       "paymentDone": false
@@ -2083,6 +2083,12 @@
       "type": "Payment Status Change",
       "message": "Payment Status changed to DONE",
       "timestamp": "2026-02-10T16:07:09.298Z"
+    },
+    {
+      "userId": "_shxp3757h",
+      "type": "User Update",
+      "message": "Amount changed from 2600 to 5000",
+      "timestamp": "2026-02-13T15:33:01.638Z"
     }
   ]
 }
