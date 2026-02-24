@@ -706,7 +706,7 @@
       "id": "_nbd7v0nno",
       "firstName": "अमरचंद",
       "lastName": "दईया",
-      "amount": 1600,
+      "amount": 2100,
       "village": "Kalana",
       "date": "2025-12-20",
       "paymentDone": false
@@ -2143,6 +2143,12 @@
       "type": "Payment Status Change",
       "message": "Payment Status changed to DONE",
       "timestamp": "2026-02-13T15:36:58.853Z"
+    },
+    {
+      "userId": "_nbd7v0nno",
+      "type": "User Update",
+      "message": "Amount changed from 1600 to 2100",
+      "timestamp": "2026-02-24T15:06:01.348Z"
     }
   ]
 }
