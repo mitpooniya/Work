@@ -1061,6 +1061,15 @@
       "village": "Kalana",
       "date": "2026-02-13",
       "paymentDone": false
+    },
+    {
+      "id": "_8u36zz9ev",
+      "firstName": "मुंशी",
+      "lastName": "धाणक",
+      "amount": 2000,
+      "village": "Kalana",
+      "date": "2026-02-14",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2167,6 +2176,12 @@
       "type": "Payment Status Change",
       "message": "Payment Status changed to DONE",
       "timestamp": "2026-02-24T15:10:46.377Z"
+    },
+    {
+      "userId": "_8u36zz9ev",
+      "type": "User Creation",
+      "message": "User created with amount 2000 and village Kalana",
+      "timestamp": "2026-02-24T15:13:18.567Z"
     }
   ]
 }
