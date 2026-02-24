@@ -1070,6 +1070,15 @@
       "village": "Kalana",
       "date": "2026-02-14",
       "paymentDone": false
+    },
+    {
+      "id": "_cr943semw",
+      "firstName": "लिछु",
+      "lastName": "खाती",
+      "amount": 3000,
+      "village": "Kalana",
+      "date": "2026-02-24",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2182,6 +2191,12 @@
       "type": "User Creation",
       "message": "User created with amount 2000 and village Kalana",
       "timestamp": "2026-02-24T15:13:18.567Z"
+    },
+    {
+      "userId": "_cr943semw",
+      "type": "User Creation",
+      "message": "User created with amount 3000 and village Kalana",
+      "timestamp": "2026-02-24T15:14:17.489Z"
     }
   ]
 }
