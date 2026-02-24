@@ -733,7 +733,7 @@
       "id": "_fjp2q2pu5",
       "firstName": "रत्ना",
       "lastName": "बिछड़",
-      "amount": 300,
+      "amount": 1500,
       "village": "Dungrana",
       "date": "2025-12-21",
       "paymentDone": false
@@ -2218,6 +2218,12 @@
       "type": "User Update",
       "message": "Amount changed from 900 to 300",
       "timestamp": "2026-02-24T15:20:58.996Z"
+    },
+    {
+      "userId": "_fjp2q2pu5",
+      "type": "User Update",
+      "message": "Amount changed from 300 to 1500",
+      "timestamp": "2026-02-24T15:23:05.134Z"
     }
   ]
 }
