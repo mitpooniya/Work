@@ -1079,6 +1079,15 @@
       "village": "Kalana",
       "date": "2026-02-24",
       "paymentDone": false
+    },
+    {
+      "id": "_ct7ep5024",
+      "firstName": "रामचन्द्र",
+      "lastName": "पडगङ",
+      "amount": 500,
+      "village": "Kalana",
+      "date": "2026-02-24",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2197,6 +2206,12 @@
       "type": "User Creation",
       "message": "User created with amount 3000 and village Kalana",
       "timestamp": "2026-02-24T15:14:17.489Z"
+    },
+    {
+      "userId": "_ct7ep5024",
+      "type": "User Creation",
+      "message": "User created with amount 500 and village Kalana",
+      "timestamp": "2026-02-24T15:15:13.450Z"
     }
   ]
 }
