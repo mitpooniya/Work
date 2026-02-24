@@ -895,7 +895,7 @@
       "id": "_xmr2ao7bi",
       "firstName": "सतवीर",
       "lastName": "पुनिया",
-      "amount": 900,
+      "amount": 300,
       "village": "Dungrana",
       "date": "2026-01-09",
       "paymentDone": false
@@ -2212,6 +2212,12 @@
       "type": "User Creation",
       "message": "User created with amount 500 and village Kalana",
       "timestamp": "2026-02-24T15:15:13.450Z"
+    },
+    {
+      "userId": "_xmr2ao7bi",
+      "type": "User Update",
+      "message": "Amount changed from 900 to 300",
+      "timestamp": "2026-02-24T15:20:58.996Z"
     }
   ]
 }
