@@ -1088,6 +1088,15 @@
       "village": "Kalana",
       "date": "2026-02-24",
       "paymentDone": false
+    },
+    {
+      "id": "_ix9vx274c",
+      "firstName": "महावीर",
+      "lastName": "जाखड़",
+      "amount": 1000,
+      "village": "Kalana",
+      "date": "2026-02-26",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2230,6 +2239,12 @@
       "type": "Payment Status Change",
       "message": "Payment Status changed to DONE",
       "timestamp": "2026-02-27T14:45:20.729Z"
+    },
+    {
+      "userId": "_ix9vx274c",
+      "type": "User Creation",
+      "message": "User created with amount 1000 and village Kalana",
+      "timestamp": "2026-02-27T14:47:57.900Z"
     }
   ]
 }
