@@ -1120,7 +1120,7 @@
       "id": "_lc0ly6gu3",
       "firstName": "ख्याली",
       "lastName": "कुम्हार",
-      "amount": 500,
+      "amount": 0,
       "village": "Kalana",
       "date": "2026-03-01",
       "paymentDone": false
@@ -2317,6 +2317,12 @@
       "type": "User Creation",
       "message": "User created with amount 1000 and village Dungrana",
       "timestamp": "2026-03-02T01:20:52.738Z"
+    },
+    {
+      "userId": "_lc0ly6gu3",
+      "type": "User Update",
+      "message": "Amount changed from 500 to 0",
+      "timestamp": "2026-03-02T01:21:43.792Z"
     }
   ]
 }
