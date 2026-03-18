@@ -1133,6 +1133,15 @@
       "village": "Dungrana",
       "date": "2026-03-01",
       "paymentDone": false
+    },
+    {
+      "id": "_0hetc2488",
+      "firstName": "जगाराम",
+      "lastName": "कुम्हार",
+      "amount": 2400,
+      "village": "Kalana",
+      "date": "2026-03-15",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2335,6 +2344,12 @@
       "type": "User Update",
       "message": "First Name changed from ख्याली to बलवान; Last Name changed from कुम्हार to चोपड़ा; Amount changed from 0 to 500; Date changed from 2026-03-01 to 2026-03-15",
       "timestamp": "2026-03-18T07:06:10.602Z"
+    },
+    {
+      "userId": "_0hetc2488",
+      "type": "User Creation",
+      "message": "User created with amount 2400 and village Kalana",
+      "timestamp": "2026-03-18T07:06:56.900Z"
     }
   ]
 }
