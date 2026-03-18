@@ -1118,11 +1118,11 @@
     },
     {
       "id": "_lc0ly6gu3",
-      "firstName": "ख्याली",
-      "lastName": "कुम्हार",
-      "amount": 0,
+      "firstName": "बलवान",
+      "lastName": "चोपड़ा",
+      "amount": 500,
       "village": "Kalana",
-      "date": "2026-03-01",
+      "date": "2026-03-15",
       "paymentDone": false
     },
     {
@@ -2329,6 +2329,12 @@
       "type": "Payment Status Change",
       "message": "Payment Status changed to DONE",
       "timestamp": "2026-03-18T07:02:20.387Z"
+    },
+    {
+      "userId": "_lc0ly6gu3",
+      "type": "User Update",
+      "message": "First Name changed from ख्याली to बलवान; Last Name changed from कुम्हार to चोपड़ा; Amount changed from 0 to 500; Date changed from 2026-03-01 to 2026-03-15",
+      "timestamp": "2026-03-18T07:06:10.602Z"
     }
   ]
 }
