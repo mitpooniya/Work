@@ -1174,7 +1174,7 @@
       "id": "_t3hamdhig",
       "firstName": "महावीर",
       "lastName": "कस्वा",
-      "amount": 708,
+      "amount": 700,
       "village": "Kalana",
       "date": "2026-04-05",
       "paymentDone": false
@@ -2410,6 +2410,12 @@
       "type": "User Creation",
       "message": "User created with amount 708 and village Kalana",
       "timestamp": "2026-04-07T08:13:59.760Z"
+    },
+    {
+      "userId": "_t3hamdhig",
+      "type": "User Update",
+      "message": "Amount changed from 708 to 700",
+      "timestamp": "2026-04-07T08:14:19.226Z"
     }
   ]
 }
