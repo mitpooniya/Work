@@ -1169,6 +1169,15 @@
       "village": "Dungrana",
       "date": "2026-04-05",
       "paymentDone": false
+    },
+    {
+      "id": "_t3hamdhig",
+      "firstName": "महावीर",
+      "lastName": "कस्वा",
+      "amount": 708,
+      "village": "Kalana",
+      "date": "2026-04-05",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2395,6 +2404,12 @@
       "type": "User Creation",
       "message": "User created with amount 1000 and village Dungrana",
       "timestamp": "2026-04-07T08:13:17.678Z"
+    },
+    {
+      "userId": "_t3hamdhig",
+      "type": "User Creation",
+      "message": "User created with amount 708 and village Kalana",
+      "timestamp": "2026-04-07T08:13:59.760Z"
     }
   ]
 }
