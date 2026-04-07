@@ -1178,6 +1178,15 @@
       "village": "Kalana",
       "date": "2026-04-05",
       "paymentDone": false
+    },
+    {
+      "id": "_ce5yvn446",
+      "firstName": "च्याण",
+      "lastName": "ताखर",
+      "amount": 508,
+      "village": "Dungrana",
+      "date": "2026-04-06",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2422,6 +2431,12 @@
       "type": "User Update",
       "message": "First Name changed from जगाराम to रामजी; Last Name changed from कुम्हार to बिजारणियां; Amount changed from 2400 to 800; Village changed from Kalana to Dungrana; Date changed from 2026-03-15 to 2026-04-06",
       "timestamp": "2026-04-07T08:15:53.407Z"
+    },
+    {
+      "userId": "_ce5yvn446",
+      "type": "User Creation",
+      "message": "User created with amount 508 and village Dungrana",
+      "timestamp": "2026-04-07T08:16:42.485Z"
     }
   ]
 }
