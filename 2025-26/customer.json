@@ -1141,7 +1141,7 @@
       "amount": 2400,
       "village": "Kalana",
       "date": "2026-03-15",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_y57kleh3m",
@@ -2437,6 +2437,12 @@
       "type": "User Creation",
       "message": "User created with amount 508 and village Dungrana",
       "timestamp": "2026-04-07T08:16:42.485Z"
+    },
+    {
+      "userId": "_0hetc2488",
+      "type": "Payment Status Change",
+      "message": "Payment Status changed to DONE",
+      "timestamp": "2026-04-07T08:17:20.635Z"
     }
   ]
 }
