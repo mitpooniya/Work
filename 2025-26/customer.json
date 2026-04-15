@@ -1196,6 +1196,15 @@
       "village": "Rakhi",
       "date": "2026-04-10",
       "paymentDone": false
+    },
+    {
+      "id": "_9ftxtmez6",
+      "firstName": "सांवरमल",
+      "lastName": "किराडा",
+      "amount": 2000,
+      "village": "Other",
+      "date": "2026-04-12",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2470,6 +2479,12 @@
       "type": "User Creation",
       "message": "User created with amount 3000 and village Rakhi",
       "timestamp": "2026-04-15T12:14:39.260Z"
+    },
+    {
+      "userId": "_9ftxtmez6",
+      "type": "User Creation",
+      "message": "User created with amount 2000 and village Other",
+      "timestamp": "2026-04-15T12:15:40.982Z"
     }
   ]
 }
