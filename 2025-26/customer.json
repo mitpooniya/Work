@@ -1187,6 +1187,15 @@
       "village": "Dungrana",
       "date": "2026-04-06",
       "paymentDone": false
+    },
+    {
+      "id": "_hxiqadgy1",
+      "firstName": "नौरंग",
+      "lastName": "पुनिया",
+      "amount": 3000,
+      "village": "Rakhi",
+      "date": "2026-04-10",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2455,6 +2464,12 @@
       "type": "Payment Status Change",
       "message": "Payment Status changed to DONE",
       "timestamp": "2026-04-07T08:20:45.576Z"
+    },
+    {
+      "userId": "_hxiqadgy1",
+      "type": "User Creation",
+      "message": "User created with amount 3000 and village Rakhi",
+      "timestamp": "2026-04-15T12:14:39.260Z"
     }
   ]
 }
