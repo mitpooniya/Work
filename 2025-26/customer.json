@@ -1241,6 +1241,15 @@
       "village": "Dungrana",
       "date": "2026-04-16",
       "paymentDone": false
+    },
+    {
+      "id": "_7nsxbrpue",
+      "firstName": "मोहरसिंह",
+      "lastName": "स्वामी",
+      "amount": 1000,
+      "village": "Kalana",
+      "date": "2026-04-16",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2563,6 +2572,12 @@
       "type": "User Creation",
       "message": "User created with amount 2000 and village Dungrana",
       "timestamp": "2026-04-17T02:12:05.523Z"
+    },
+    {
+      "userId": "_7nsxbrpue",
+      "type": "User Creation",
+      "message": "User created with amount 1000 and village Kalana",
+      "timestamp": "2026-04-17T02:13:10.326Z"
     }
   ]
 }
