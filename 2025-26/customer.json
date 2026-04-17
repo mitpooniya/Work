@@ -1232,6 +1232,15 @@
       "village": "Kalana",
       "date": "2026-04-14",
       "paymentDone": false
+    },
+    {
+      "id": "_30yxgu183",
+      "firstName": "धर्मपाल",
+      "lastName": "गोदारा",
+      "amount": 2000,
+      "village": "Dungrana",
+      "date": "2026-04-16",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2548,6 +2557,12 @@
       "type": "Payment Status Change",
       "message": "Payment Status changed to DONE",
       "timestamp": "2026-04-17T02:10:31.048Z"
+    },
+    {
+      "userId": "_30yxgu183",
+      "type": "User Creation",
+      "message": "User created with amount 2000 and village Dungrana",
+      "timestamp": "2026-04-17T02:12:05.523Z"
     }
   ]
 }
