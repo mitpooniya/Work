@@ -1,823 +1,391 @@
 {
   "customers": [
     {
-      "id": "_ojyp3y1wf",
+      "id": "_30yxgu183",
+      "firstName": "धर्मपाल",
+      "lastName": "गोदारा",
+      "amount": 2000,
+      "village": "Dungrana",
+      "date": "2026-04-16",
+      "paymentDone": false
+    },
+    {
+      "id": "_7nsxbrpue",
+      "firstName": "मोहरसिंह",
+      "lastName": "स्वामी",
+      "amount": 1000,
+      "village": "Kalana",
+      "date": "2026-04-16",
+      "paymentDone": false
+    },
+    {
+      "id": "_s4jntte5x",
+      "firstName": "प्रोषतम",
+      "lastName": "साहरण",
+      "amount": 500,
+      "village": "Dungrana",
+      "date": "2026-04-14",
+      "paymentDone": false
+    },
+    {
+      "id": "_8heqz7trc",
       "firstName": "रामेश्वर",
       "lastName": "नेहरा",
-      "amount": 500,
+      "amount": 1600,
       "village": "Kalana",
-      "date": "2025-10-25",
-      "paymentDone": true
-    },
-    {
-      "id": "_x88h3wbjs",
-      "firstName": "रामजी",
-      "lastName": "खाती",
-      "amount": 1400,
-      "village": "Kalana",
-      "date": "2025-10-26",
-      "paymentDone": true
-    },
-    {
-      "id": "_xpjhcx6jm",
-      "firstName": "भागाराम",
-      "lastName": "कालीरावणा",
-      "amount": 900,
-      "village": "Kalana",
-      "date": "2025-10-26",
+      "date": "2026-04-14",
       "paymentDone": false
     },
     {
-      "id": "_63pet0e7d",
-      "firstName": "बनवारी",
-      "lastName": "छिप्पा",
-      "amount": 1000,
-      "village": "Kalana",
-      "date": "2025-10-28",
-      "paymentDone": true
-    },
-    {
-      "id": "_7mpdssjc4",
-      "firstName": "सुभाष",
-      "lastName": "चौपड़ा",
-      "amount": 1500,
-      "village": "Kalana",
-      "date": "2025-10-28",
-      "paymentDone": false
-    },
-    {
-      "id": "_mhnadrng5",
-      "firstName": "सादू",
-      "lastName": "कुम्हार",
-      "amount": 700,
-      "village": "Dungrana",
-      "date": "2025-10-29",
-      "paymentDone": true
-    },
-    {
-      "id": "_inu74xn97",
-      "firstName": "हसराज",
-      "lastName": "ठेकेदार (भाई)",
-      "amount": 700,
-      "village": "Kalana",
-      "date": "2025-11-01",
-      "paymentDone": true
-    },
-    {
-      "id": "_jtdgf0edz",
+      "id": "_ui1xxvt4q",
       "firstName": "प्रकाश",
-      "lastName": "ठाकर",
-      "amount": 700,
-      "village": "Kalana",
-      "date": "2025-11-01",
-      "paymentDone": true
-    },
-    {
-      "id": "_0k96nv56i",
-      "firstName": "पालाराम",
-      "lastName": "कस्वा",
-      "amount": 1500,
-      "village": "Kalana",
-      "date": "2025-11-02",
-      "paymentDone": false
-    },
-    {
-      "id": "_r8uj4r33v",
-      "firstName": "लीलाराम",
-      "lastName": "चोपड़ा",
-      "amount": 1100,
-      "village": "Dungrana",
-      "date": "2025-11-04",
-      "paymentDone": true
-    },
-    {
-      "id": "_xliw163nx",
-      "firstName": "भागाराम",
-      "lastName": "घोटवाल",
-      "amount": 1800,
-      "village": "Kalana",
-      "date": "2025-11-05",
-      "paymentDone": true
-    },
-    {
-      "id": "_zvt4v3oa1",
-      "firstName": "रामकार",
-      "lastName": "कुम्हार",
-      "amount": 1200,
-      "village": "Dungrana",
-      "date": "2025-11-06",
-      "paymentDone": true
-    },
-    {
-      "id": "_ia3v34j1w",
-      "firstName": "सतीश",
-      "lastName": "शर्मा",
-      "amount": 1000,
-      "village": "Kalana",
-      "date": "2025-11-06",
-      "paymentDone": false
-    },
-    {
-      "id": "_l2tsl0dro",
-      "firstName": "वीरभान",
-      "lastName": "महला",
-      "amount": 1500,
-      "village": "Dungrana",
-      "date": "2025-11-07",
-      "paymentDone": true
-    },
-    {
-      "id": "_p5qjh02p7",
-      "firstName": "लीलाराम",
-      "lastName": "महला",
-      "amount": 1400,
-      "village": "Dungrana",
-      "date": "2025-11-07",
-      "paymentDone": true
-    },
-    {
-      "id": "_v9dgdvmr9",
-      "firstName": "रामस्वरूप",
-      "lastName": "कुम्हार",
-      "amount": 1500,
-      "village": "Kalana",
-      "date": "2025-11-07",
-      "paymentDone": false
-    },
-    {
-      "id": "_0mljiixhm",
-      "firstName": "भंवरलाल",
-      "lastName": "सिद्डिया",
-      "amount": 1000,
-      "village": "Kalana",
-      "date": "2025-11-07",
-      "paymentDone": false
-    },
-    {
-      "id": "_o8vz9cggi",
-      "firstName": "मनोहर",
-      "lastName": "डाक्टर",
-      "amount": 1000,
-      "village": "Dungrana",
-      "date": "2025-11-08",
-      "paymentDone": false
-    },
-    {
-      "id": "_p0j37ep1l",
-      "firstName": "धर्माराम",
-      "lastName": "लोर",
-      "amount": 1500,
-      "village": "Dungrana",
-      "date": "2025-11-08",
-      "paymentDone": false
-    },
-    {
-      "id": "_dkxfz8ye3",
-      "firstName": "धर्मपाल",
-      "lastName": "मोठसरा",
-      "amount": 2000,
-      "village": "Dungrana",
-      "date": "2025-11-08",
-      "paymentDone": false
-    },
-    {
-      "id": "_f4zu6j1xo",
-      "firstName": "रामेशर",
-      "lastName": "सहू",
-      "amount": 2900,
-      "village": "Rakhi",
-      "date": "2025-11-09",
-      "paymentDone": true
-    },
-    {
-      "id": "_kvhsomosl",
-      "firstName": "धन्नाराम",
-      "lastName": "कंस्वा",
-      "amount": 3400,
-      "village": "Dungrana",
-      "date": "2025-11-12",
-      "paymentDone": true
-    },
-    {
-      "id": "_erqwzrdao",
-      "firstName": "भागाराम",
-      "lastName": "कंस्वा",
-      "amount": 2000,
-      "village": "Kalana",
-      "date": "2025-11-12",
-      "paymentDone": false
-    },
-    {
-      "id": "_1nw1c2tl8",
-      "firstName": "मानाराम",
-      "lastName": "कंस्वा",
-      "amount": 2000,
-      "village": "Kalana",
-      "date": "2025-11-13",
-      "paymentDone": true
-    },
-    {
-      "id": "_ctp1pvxcn",
-      "firstName": "पृथ्वी",
-      "lastName": "गुज़र",
-      "amount": 600,
-      "village": "Kalana",
-      "date": "2025-11-13",
-      "paymentDone": true
-    },
-    {
-      "id": "_9b4smbjmt",
-      "firstName": "भादर",
-      "lastName": "कुम्हार",
-      "amount": 1700,
-      "village": "Kalana",
-      "date": "2025-11-14",
-      "paymentDone": true
-    },
-    {
-      "id": "_d2wihdiia",
-      "firstName": "मंगलाराम",
-      "lastName": "शर्मा",
-      "amount": 1800,
-      "village": "Kalana",
-      "date": "2025-11-14",
-      "paymentDone": false
-    },
-    {
-      "id": "_okhnmg13d",
-      "firstName": "रोशन",
-      "lastName": "स्वामी",
-      "amount": 1500,
-      "village": "Kalana",
-      "date": "2025-11-14",
-      "paymentDone": false
-    },
-    {
-      "id": "_jes1x527z",
-      "firstName": "जगदीश",
-      "lastName": "महला",
-      "amount": 2200,
-      "village": "Dungrana",
-      "date": "2025-11-16",
-      "paymentDone": true
-    },
-    {
-      "id": "_ojrhbvlfa",
-      "firstName": "सुरजभान",
-      "lastName": "कड़वासरा",
-      "amount": 1200,
-      "village": "Kalana",
-      "date": "2025-11-16",
-      "paymentDone": true
-    },
-    {
-      "id": "_1ht98vqfq",
-      "firstName": "निहाल सिंह",
-      "lastName": "महला",
-      "amount": 500,
-      "village": "Dungrana",
-      "date": "2025-11-17",
-      "paymentDone": false
-    },
-    {
-      "id": "_asf0bwobz",
-      "firstName": "भूप",
-      "lastName": "महला",
-      "amount": 1200,
-      "village": "Dungrana",
-      "date": "2025-11-17",
-      "paymentDone": false
-    },
-    {
-      "id": "_a3ostda7e",
-      "firstName": "गिरधारी",
-      "lastName": "कुम्हार",
-      "amount": 1200,
-      "village": "Kalana",
-      "date": "2025-11-17",
-      "paymentDone": false
-    },
-    {
-      "id": "_b8bt9rzf3",
-      "firstName": "कालू",
-      "lastName": "कुम्हार",
-      "amount": 1200,
-      "village": "Kalana",
-      "date": "2025-11-17",
-      "paymentDone": false
-    },
-    {
-      "id": "_grwt954f5",
-      "firstName": "मांगेराम",
-      "lastName": "नेहरा",
-      "amount": 2500,
-      "village": "Kalana",
-      "date": "2025-11-19",
-      "paymentDone": true
-    },
-    {
-      "id": "_22bjmivm5",
-      "firstName": "लीलाराम",
-      "lastName": "झाझरिया",
-      "amount": 2500,
-      "village": "Dungrana",
-      "date": "2025-11-20",
-      "paymentDone": true
-    },
-    {
-      "id": "_4j7q5j6jv",
-      "firstName": "हरिसिंह",
-      "lastName": "कुम्हार",
-      "amount": 1500,
-      "village": "Kalana",
-      "date": "2025-11-20",
-      "paymentDone": false
-    },
-    {
-      "id": "_3fe96yg96",
-      "firstName": "शंकर",
-      "lastName": "दईया",
-      "amount": 2500,
-      "village": "Kalana",
-      "date": "2025-11-21",
-      "paymentDone": true
-    },
-    {
-      "id": "_oahbqphf9",
-      "firstName": "काशी",
-      "lastName": "दईया",
-      "amount": 2100,
-      "village": "Kalana",
-      "date": "2025-11-21",
-      "paymentDone": true
-    },
-    {
-      "id": "_f4wfgyz05",
-      "firstName": "मगतु",
-      "lastName": "छिप्पा",
-      "amount": 2000,
-      "village": "Dungrana",
-      "date": "2025-11-22",
-      "paymentDone": false
-    },
-    {
-      "id": "_pw3r6kl6v",
-      "firstName": "भंवरलाल",
-      "lastName": "कुम्हार",
-      "amount": 1000,
-      "village": "Kalana",
-      "date": "2025-11-22",
-      "paymentDone": false
-    },
-    {
-      "id": "_75hh1aaen",
-      "firstName": "कृष्ण",
       "lastName": "खाती",
-      "amount": 900,
-      "village": "Dungrana",
-      "date": "2025-11-23",
-      "paymentDone": true
-    },
-    {
-      "id": "_wysvzzc12",
-      "firstName": "सुरेन्द्र",
-      "lastName": "कंस्वा",
       "amount": 1200,
-      "village": "Kalana",
-      "date": "2025-11-23",
-      "paymentDone": true
-    },
-    {
-      "id": "_r9muwiwsj",
-      "firstName": "पन्ना्राम",
-      "lastName": "चमार",
-      "amount": 1000,
       "village": "Dungrana",
-      "date": "2025-11-24",
-      "paymentDone": true
-    },
-    {
-      "id": "_j9v6kjum1",
-      "firstName": "भालाराम",
-      "lastName": "मूण्ड",
-      "amount": 1000,
-      "village": "Dungrana",
-      "date": "2025-11-24",
-      "paymentDone": true
-    },
-    {
-      "id": "_g5d6n7z1f",
-      "firstName": "प्रेम",
-      "lastName": "चौपड़ा",
-      "amount": 900,
-      "village": "Dungrana",
-      "date": "2025-11-24",
-      "paymentDone": true
-    },
-    {
-      "id": "_t5pyujnx0",
-      "firstName": "भरताराम",
-      "lastName": "चमार",
-      "amount": 800,
-      "village": "Dungrana",
-      "date": "2025-11-24",
-      "paymentDone": true
-    },
-    {
-      "id": "_e7mg82833",
-      "firstName": "महेन्द्र",
-      "lastName": "कालीरावणा",
-      "amount": 500,
-      "village": "Kalana",
-      "date": "2025-11-25",
-      "paymentDone": true
-    },
-    {
-      "id": "_hh4a137qz",
-      "firstName": "साबाराम",
-      "lastName": "धाणक",
-      "amount": 6500,
-      "village": "Kalana",
-      "date": "2025-11-29",
+      "date": "2026-04-13",
       "paymentDone": false
     },
     {
-      "id": "_npsu13x9c",
-      "firstName": "रामनिवास",
-      "lastName": "जाखड़",
-      "amount": 500,
-      "village": "Kalana",
-      "date": "2025-11-30",
-      "paymentDone": false
-    },
-    {
-      "id": "_soiramkxb",
-      "firstName": "महावीर",
-      "lastName": "कालीरावण",
-      "amount": 800,
-      "village": "Kalana",
-      "date": "2025-12-04",
-      "paymentDone": false
-    },
-    {
-      "id": "_a7atxtzfh",
-      "firstName": "श्योराम",
-      "lastName": "कुम्हार",
-      "amount": 1500,
-      "village": "Dungrana",
-      "date": "2025-12-06",
-      "paymentDone": true
-    },
-    {
-      "id": "_e7j4tdr7j",
-      "firstName": "हरदत",
-      "lastName": "नेहरा /श्योराम",
-      "amount": 600,
-      "village": "Kalana",
-      "date": "2025-12-06",
-      "paymentDone": true
-    },
-    {
-      "id": "_r11u4e4hv",
-      "firstName": "सुभाष",
-      "lastName": "नेहरा",
-      "amount": 500,
-      "village": "Kalana",
-      "date": "2025-12-06",
-      "paymentDone": false
-    },
-    {
-      "id": "_n39ia6zml",
-      "firstName": "लादू",
-      "lastName": "नाई",
-      "amount": 1700,
-      "village": "Kalana",
-      "date": "2025-12-08",
-      "paymentDone": false
-    },
-    {
-      "id": "_gttxz619e",
-      "firstName": "बज्राराम",
-      "lastName": "नाई",
+      "id": "_9ftxtmez6",
+      "firstName": "सांवरमल",
+      "lastName": "किराडा",
       "amount": 2000,
-      "village": "Kalana",
-      "date": "2025-12-08",
-      "paymentDone": true
-    },
-    {
-      "id": "_v57n4atgh",
-      "firstName": "रामकार",
-      "lastName": "सिदड़िया",
-      "amount": 1000,
-      "village": "Kalana",
-      "date": "2025-12-08",
-      "paymentDone": true
-    },
-    {
-      "id": "_2o2c9peyg",
-      "firstName": "महेंद्र",
-      "lastName": "नेहरा",
-      "amount": 500,
-      "village": "Kalana",
-      "date": "2025-12-09",
+      "village": "Other",
+      "date": "2026-04-12",
       "paymentDone": false
     },
     {
-      "id": "_oredihwzy",
-      "firstName": "मोतीराम",
-      "lastName": "महला",
-      "amount": 1500,
-      "village": "Dungrana",
-      "date": "2025-12-11",
+      "id": "_hxiqadgy1",
+      "firstName": "नौरंग",
+      "lastName": "पुनिया",
+      "amount": 3000,
+      "village": "Rakhi",
+      "date": "2026-04-10",
       "paymentDone": false
     },
     {
-      "id": "_0f4i8f7lj",
-      "firstName": "राम",
-      "lastName": "साहरण",
-      "amount": 1200,
-      "village": "Dungrana",
-      "date": "2025-12-11",
-      "paymentDone": true
-    },
-    {
-      "id": "_7s64u5f7q",
-      "firstName": "बन्ताराम",
-      "lastName": "ठाकर",
-      "amount": 500,
-      "village": "Kalana",
-      "date": "2025-12-11",
-      "paymentDone": true
-    },
-    {
-      "id": "_njjmlfucg",
-      "firstName": "ब्रिजाराम",
-      "lastName": "कुम्हार",
-      "amount": 1000,
-      "village": "Kalana",
-      "date": "2025-12-12",
-      "paymentDone": false
-    },
-    {
-      "id": "_4fviemuqn",
-      "firstName": "प्रहलाद",
-      "lastName": "बैनिवाल",
-      "amount": 1500,
-      "village": "Dungrana",
-      "date": "2025-12-12",
-      "paymentDone": true
-    },
-    {
-      "id": "_seoo18322",
-      "firstName": "दोलताराम",
-      "lastName": "सिंदडिंया",
+      "id": "_y57kleh3m",
+      "firstName": "रामजी",
+      "lastName": "बिजारणियां",
       "amount": 800,
-      "village": "Kalana",
-      "date": "2025-12-13",
-      "paymentDone": true
-    },
-    {
-      "id": "_gujbyohxy",
-      "firstName": "कुरड़ाराम",
-      "lastName": "गोदारा",
-      "amount": 700,
       "village": "Dungrana",
-      "date": "2025-12-13",
+      "date": "2026-04-06",
+      "paymentDone": false
+    },
+    {
+      "id": "_ce5yvn446",
+      "firstName": "च्याण",
+      "lastName": "ताखर",
+      "amount": 508,
+      "village": "Dungrana",
+      "date": "2026-04-06",
+      "paymentDone": false
+    },
+    {
+      "id": "_5raculh5d",
+      "firstName": "दलीप",
+      "lastName": "चोपड़ा",
+      "amount": 800,
+      "village": "Dungrana",
+      "date": "2026-04-05",
+      "paymentDone": false
+    },
+    {
+      "id": "_jucic3u9n",
+      "firstName": "कृष्ण",
+      "lastName": "धाणक",
+      "amount": 1000,
+      "village": "Dungrana",
+      "date": "2026-04-05",
       "paymentDone": true
     },
     {
-      "id": "_vdtwpo9zi",
+      "id": "_t3hamdhig",
+      "firstName": "महावीर",
+      "lastName": "कस्वा",
+      "amount": 700,
+      "village": "Kalana",
+      "date": "2026-04-05",
+      "paymentDone": false
+    },
+    {
+      "id": "_lc0ly6gu3",
+      "firstName": "बलवान",
+      "lastName": "चोपड़ा",
+      "amount": 500,
+      "village": "Kalana",
+      "date": "2026-03-15",
+      "paymentDone": true
+    },
+    {
+      "id": "_0hetc2488",
       "firstName": "जगाराम",
       "lastName": "कुम्हार",
-      "amount": 4000,
+      "amount": 2400,
       "village": "Kalana",
-      "date": "2025-12-14",
-      "paymentDone": false
+      "date": "2026-03-15",
+      "paymentDone": true
     },
     {
-      "id": "_p0uxzm35h",
-      "firstName": "कुरड़ाराम",
+      "id": "_fg68g79e4",
+      "firstName": "ख्याली",
       "lastName": "कुम्हार",
-      "amount": 400,
-      "village": "Kalana",
-      "date": "2025-12-14",
-      "paymentDone": false
-    },
-    {
-      "id": "_ff9289y6f",
-      "firstName": "माडाराम",
-      "lastName": "नेहरा",
       "amount": 500,
       "village": "Kalana",
-      "date": "2025-12-14",
+      "date": "2026-03-01",
       "paymentDone": false
     },
     {
-      "id": "_hziptqpvj",
-      "firstName": "रामपत",
-      "lastName": "खालीया",
-      "amount": 700,
-      "village": "Dungrana",
-      "date": "2025-12-15",
-      "paymentDone": true
-    },
-    {
-      "id": "_xmkjkbfak",
-      "firstName": "ॠशी",
-      "lastName": "चौपड़ा",
-      "amount": 600,
-      "village": "Kalana",
-      "date": "2025-12-15",
-      "paymentDone": false
-    },
-    {
-      "id": "_shxp3757h",
-      "firstName": "जयलाल",
-      "lastName": "चौपड़ा",
-      "amount": 5000,
-      "village": "Kalana",
-      "date": "2025-12-15",
-      "paymentDone": false
-    },
-    {
-      "id": "_ifzoayvi6",
-      "firstName": "अमीलाल",
-      "lastName": "लोर",
-      "amount": 1300,
-      "village": "Gunjasari",
-      "date": "2025-12-17",
-      "paymentDone": true
-    },
-    {
-      "id": "_uoprpk10h",
-      "firstName": "जगदीश",
-      "lastName": "भाम्मी",
-      "amount": 500,
-      "village": "Dungrana",
-      "date": "2025-12-17",
-      "paymentDone": true
-    },
-    {
-      "id": "_ea44552li",
-      "firstName": "मोटाराम",
-      "lastName": "बिछड़",
-      "amount": 1500,
-      "village": "Dungrana",
-      "date": "2025-12-18",
-      "paymentDone": false
-    },
-    {
-      "id": "_g766ec6p5",
-      "firstName": "कुरड़ाराम",
-      "lastName": "सरपंच",
-      "amount": 800,
-      "village": "Dungrana",
-      "date": "2025-12-18",
-      "paymentDone": true
-    },
-    {
-      "id": "_rk2zi6rwa",
-      "firstName": "सुनिल",
-      "lastName": "कंस्वा",
+      "id": "_57qc0zzdm",
+      "firstName": "गुगन",
+      "lastName": "कुम्हार",
       "amount": 1000,
-      "village": "Kalana",
-      "date": "2025-12-19",
+      "village": "Dungrana",
+      "date": "2026-03-01",
       "paymentDone": false
     },
     {
-      "id": "_8cg331ipf",
-      "firstName": "लिलाराम",
-      "lastName": "कंस्वा",
-      "amount": 800,
-      "village": "Rakhi",
-      "date": "2025-12-19",
-      "paymentDone": false
-    },
-    {
-      "id": "_71ghn88cd",
-      "firstName": "अमरसिंह",
-      "lastName": "धाणक",
-      "amount": 400,
-      "village": "Rakhi",
-      "date": "2025-12-19",
-      "paymentDone": false
-    },
-    {
-      "id": "_nbd7v0nno",
-      "firstName": "अमरचंद",
-      "lastName": "दईया",
-      "amount": 2100,
-      "village": "Kalana",
-      "date": "2025-12-20",
-      "paymentDone": false
-    },
-    {
-      "id": "_l0n3t1rln",
-      "firstName": "सोहनलाल",
-      "lastName": "सरपंच",
-      "amount": 1000,
-      "village": "Kalana",
-      "date": "2025-12-20",
-      "paymentDone": true
-    },
-    {
-      "id": "_l1cutcq7b",
+      "id": "_ix9vx274c",
       "firstName": "महावीर",
+      "lastName": "जाखड़",
+      "amount": 1000,
+      "village": "Kalana",
+      "date": "2026-02-26",
+      "paymentDone": false
+    },
+    {
+      "id": "_aofbhsca9",
+      "firstName": "विकास",
+      "lastName": "मोठसरा",
+      "amount": 1000,
+      "village": "Dungrana",
+      "date": "2026-02-26",
+      "paymentDone": false
+    },
+    {
+      "id": "_cr943semw",
+      "firstName": "लिछु",
       "lastName": "खाती",
-      "amount": 1200,
-      "village": "Dungrana",
-      "date": "2025-12-21",
+      "amount": 3000,
+      "village": "Kalana",
+      "date": "2026-02-24",
       "paymentDone": false
     },
     {
-      "id": "_fjp2q2pu5",
-      "firstName": "रत्ना",
-      "lastName": "बिछड़",
-      "amount": 1500,
-      "village": "Dungrana",
-      "date": "2025-12-21",
+      "id": "_ct7ep5024",
+      "firstName": "रामचन्द्र",
+      "lastName": "पडगङ",
+      "amount": 500,
+      "village": "Kalana",
+      "date": "2026-02-24",
       "paymentDone": false
     },
     {
-      "id": "_alcbk18ab",
-      "firstName": "हरदत",
-      "lastName": "नेहरा",
+      "id": "_8u36zz9ev",
+      "firstName": "मुंशी",
+      "lastName": "धाणक",
       "amount": 2000,
       "village": "Kalana",
-      "date": "2025-12-22",
-      "paymentDone": true
-    },
-    {
-      "id": "_hgwpypoww",
-      "firstName": "कुरड़ाराम",
-      "lastName": "नाई",
-      "amount": 2500,
-      "village": "Kalana",
-      "date": "2025-12-23",
-      "paymentDone": true
-    },
-    {
-      "id": "_izv5d2mcq",
-      "firstName": "भगवाना",
-      "lastName": "नाई",
-      "amount": 600,
-      "village": "Kalana",
-      "date": "2025-12-23",
-      "paymentDone": true
-    },
-    {
-      "id": "_9c39frnnn",
-      "firstName": "हरिसिंह",
-      "lastName": "धाणक",
-      "amount": 1100,
-      "village": "Kalana",
-      "date": "2025-12-24",
+      "date": "2026-02-14",
       "paymentDone": false
     },
     {
-      "id": "_50gea1b6a",
-      "firstName": "रामू",
-      "lastName": "बिजारणियां",
-      "amount": 1400,
+      "id": "_f224f2rdl",
+      "firstName": "दानाराम",
+      "lastName": "चोपड़ा",
+      "amount": 1200,
       "village": "Kalana",
-      "date": "2025-12-25",
+      "date": "2026-02-13",
+      "paymentDone": false
+    },
+    {
+      "id": "_z3ic8pts3",
+      "firstName": "मनीराम",
+      "lastName": "कुम्हार",
+      "amount": 500,
+      "village": "Dungrana",
+      "date": "2026-02-12",
       "paymentDone": true
     },
     {
-      "id": "_ge6ezx13r",
-      "firstName": "भालाराम",
-      "lastName": "ठाकर",
-      "amount": 1000,
-      "village": "Kalana",
-      "date": "2025-12-25",
-      "paymentDone": true
-    },
-    {
-      "id": "_uwiji6ewg",
-      "firstName": "सुभाष",
-      "lastName": "धाणक",
+      "id": "_a4fzqw8f0",
+      "firstName": "इन्द्र",
+      "lastName": "लाम्बा",
       "amount": 500,
       "village": "Kalana",
-      "date": "2025-12-25",
+      "date": "2026-02-08",
       "paymentDone": false
     },
     {
-      "id": "_ag4qdptd5",
-      "firstName": "महेन्द्र",
-      "lastName": "खाती",
-      "amount": 1500,
-      "village": "Kalana",
-      "date": "2025-12-26",
+      "id": "_rnc47fxj4",
+      "firstName": "0",
+      "lastName": "साहरण",
+      "amount": 1000,
+      "village": "Rakhi",
+      "date": "2026-02-07",
       "paymentDone": true
     },
     {
-      "id": "_tt7ke68f4",
-      "firstName": "गांधी",
+      "id": "_w3tki0ub6",
+      "firstName": "धोलू",
       "lastName": "ढाका",
-      "amount": 1000,
+      "amount": 2500,
       "village": "Kalana",
-      "date": "2025-12-26",
+      "date": "2026-02-04",
       "paymentDone": false
+    },
+    {
+      "id": "_3jnzuefku",
+      "firstName": "राजेन्द्र",
+      "lastName": "ढाका",
+      "amount": 2000,
+      "village": "Kalana",
+      "date": "2026-02-04",
+      "paymentDone": false
+    },
+    {
+      "id": "_7g9hygyyw",
+      "firstName": "जयकरण",
+      "lastName": "कुम्हार",
+      "amount": 1200,
+      "village": "Dungrana",
+      "date": "2026-01-22",
+      "paymentDone": true
+    },
+    {
+      "id": "_dzpxwyr4u",
+      "firstName": "महेन्द्र",
+      "lastName": "कुम्हार",
+      "amount": 2000,
+      "village": "Kalana",
+      "date": "2026-01-20",
+      "paymentDone": false
+    },
+    {
+      "id": "_72jcf85zn",
+      "firstName": "भूराराम",
+      "lastName": "चौपड़ा",
+      "amount": 500,
+      "village": "Dungrana",
+      "date": "2026-01-19",
+      "paymentDone": true
+    },
+    {
+      "id": "_kfl8jc6kl",
+      "firstName": "इंद्राज",
+      "lastName": "चौपड़ा",
+      "amount": 500,
+      "village": "Dungrana",
+      "date": "2026-01-19",
+      "paymentDone": false
+    },
+    {
+      "id": "_rfrnq2dc4",
+      "firstName": "चोखाराम",
+      "lastName": "चौपड़ा",
+      "amount": 600,
+      "village": "Kalana",
+      "date": "2026-01-19",
+      "paymentDone": false
+    },
+    {
+      "id": "_v9m4sknn1",
+      "firstName": "पहलाद",
+      "lastName": "चौपड़ा",
+      "amount": 2000,
+      "village": "Dungrana",
+      "date": "2026-01-18",
+      "paymentDone": true
+    },
+    {
+      "id": "_5gd0i12sv",
+      "firstName": "भंवर",
+      "lastName": "गुज़र",
+      "amount": 500,
+      "village": "Kalana",
+      "date": "2026-01-18",
+      "paymentDone": true
+    },
+    {
+      "id": "_tr2bdkn3i",
+      "firstName": "इंद्राज",
+      "lastName": "चोपड़ा",
+      "amount": 1100,
+      "village": "Kalana",
+      "date": "2026-01-17",
+      "paymentDone": false
+    },
+    {
+      "id": "_dyjq1v2b2",
+      "firstName": "लीलू",
+      "lastName": "पेंटर",
+      "amount": 1500,
+      "village": "Kalana",
+      "date": "2026-01-17",
+      "paymentDone": false
+    },
+    {
+      "id": "_virin77v1",
+      "firstName": "महावीर",
+      "lastName": "कुम्हार",
+      "amount": 1700,
+      "village": "Dungrana",
+      "date": "2026-01-16",
+      "paymentDone": true
+    },
+    {
+      "id": "_wj7pytosl",
+      "firstName": "बलाराम",
+      "lastName": "जाखड़",
+      "amount": 1500,
+      "village": "Kalana",
+      "date": "2026-01-15",
+      "paymentDone": false
+    },
+    {
+      "id": "_swg7ip5za",
+      "firstName": "मेहरचंद",
+      "lastName": "चोपड़ा",
+      "amount": 500,
+      "village": "Kalana",
+      "date": "2026-01-15",
+      "paymentDone": true
+    },
+    {
+      "id": "_kqvh9e1um",
+      "firstName": "बंशी",
+      "lastName": "पुनिया",
+      "amount": 1500,
+      "village": "Dungrana",
+      "date": "2026-01-09",
+      "paymentDone": false
+    },
+    {
+      "id": "_xmr2ao7bi",
+      "firstName": "सतवीर",
+      "lastName": "पुनिया",
+      "amount": 300,
+      "village": "Dungrana",
+      "date": "2026-01-09",
+      "paymentDone": false
+    },
+    {
+      "id": "_degbvf1l3",
+      "firstName": "हीराराम",
+      "lastName": "कंस्वा",
+      "amount": 1000,
+      "village": "Rakhi",
+      "date": "2025-12-31",
+      "paymentDone": false
+    },
+    {
+      "id": "_jyxs05bwj",
+      "firstName": "कमलेश",
+      "lastName": "ठाकर",
+      "amount": 700,
+      "village": "Kalana",
+      "date": "2025-12-30",
+      "paymentDone": true
     },
     {
       "id": "_xl5q0cyw1",
@@ -865,390 +433,831 @@
       "paymentDone": false
     },
     {
-      "id": "_jyxs05bwj",
-      "firstName": "कमलेश",
-      "lastName": "ठाकर",
-      "amount": 700,
+      "id": "_ag4qdptd5",
+      "firstName": "महेन्द्र",
+      "lastName": "खाती",
+      "amount": 1500,
       "village": "Kalana",
-      "date": "2025-12-30",
+      "date": "2025-12-26",
       "paymentDone": true
     },
     {
-      "id": "_degbvf1l3",
-      "firstName": "हीराराम",
-      "lastName": "कंस्वा",
+      "id": "_tt7ke68f4",
+      "firstName": "गांधी",
+      "lastName": "ढाका",
       "amount": 1000,
-      "village": "Rakhi",
-      "date": "2025-12-31",
-      "paymentDone": false
-    },
-    {
-      "id": "_kqvh9e1um",
-      "firstName": "बंशी",
-      "lastName": "पुनिया",
-      "amount": 1500,
-      "village": "Dungrana",
-      "date": "2026-01-09",
-      "paymentDone": false
-    },
-    {
-      "id": "_xmr2ao7bi",
-      "firstName": "सतवीर",
-      "lastName": "पुनिया",
-      "amount": 300,
-      "village": "Dungrana",
-      "date": "2026-01-09",
-      "paymentDone": false
-    },
-    {
-      "id": "_wj7pytosl",
-      "firstName": "बलाराम",
-      "lastName": "जाखड़",
-      "amount": 1500,
       "village": "Kalana",
-      "date": "2026-01-15",
+      "date": "2025-12-26",
       "paymentDone": false
     },
     {
-      "id": "_swg7ip5za",
-      "firstName": "मेहरचंद",
-      "lastName": "चोपड़ा",
+      "id": "_50gea1b6a",
+      "firstName": "रामू",
+      "lastName": "बिजारणियां",
+      "amount": 1400,
+      "village": "Kalana",
+      "date": "2025-12-25",
+      "paymentDone": true
+    },
+    {
+      "id": "_ge6ezx13r",
+      "firstName": "भालाराम",
+      "lastName": "ठाकर",
+      "amount": 1000,
+      "village": "Kalana",
+      "date": "2025-12-25",
+      "paymentDone": true
+    },
+    {
+      "id": "_uwiji6ewg",
+      "firstName": "सुभाष",
+      "lastName": "धाणक",
       "amount": 500,
       "village": "Kalana",
-      "date": "2026-01-15",
-      "paymentDone": true
+      "date": "2025-12-25",
+      "paymentDone": false
     },
     {
-      "id": "_virin77v1",
-      "firstName": "महावीर",
-      "lastName": "कुम्हार",
-      "amount": 1700,
-      "village": "Dungrana",
-      "date": "2026-01-16",
-      "paymentDone": true
-    },
-    {
-      "id": "_tr2bdkn3i",
-      "firstName": "इंद्राज",
-      "lastName": "चोपड़ा",
+      "id": "_9c39frnnn",
+      "firstName": "हरिसिंह",
+      "lastName": "धाणक",
       "amount": 1100,
       "village": "Kalana",
-      "date": "2026-01-17",
+      "date": "2025-12-24",
       "paymentDone": false
     },
     {
-      "id": "_dyjq1v2b2",
-      "firstName": "लीलू",
-      "lastName": "पेंटर",
-      "amount": 1500,
+      "id": "_hgwpypoww",
+      "firstName": "कुरड़ाराम",
+      "lastName": "नाई",
+      "amount": 2500,
       "village": "Kalana",
-      "date": "2026-01-17",
-      "paymentDone": false
+      "date": "2025-12-23",
+      "paymentDone": true
     },
     {
-      "id": "_v9m4sknn1",
-      "firstName": "पहलाद",
-      "lastName": "चौपड़ा",
+      "id": "_izv5d2mcq",
+      "firstName": "भगवाना",
+      "lastName": "नाई",
+      "amount": 600,
+      "village": "Kalana",
+      "date": "2025-12-23",
+      "paymentDone": true
+    },
+    {
+      "id": "_alcbk18ab",
+      "firstName": "हरदत",
+      "lastName": "नेहरा",
       "amount": 2000,
-      "village": "Dungrana",
-      "date": "2026-01-18",
-      "paymentDone": true
-    },
-    {
-      "id": "_5gd0i12sv",
-      "firstName": "भंवर",
-      "lastName": "गुज़र",
-      "amount": 500,
       "village": "Kalana",
-      "date": "2026-01-18",
+      "date": "2025-12-22",
       "paymentDone": true
     },
     {
-      "id": "_72jcf85zn",
-      "firstName": "भूराराम",
-      "lastName": "चौपड़ा",
-      "amount": 500,
+      "id": "_l1cutcq7b",
+      "firstName": "महावीर",
+      "lastName": "खाती",
+      "amount": 1200,
       "village": "Dungrana",
-      "date": "2026-01-19",
-      "paymentDone": true
-    },
-    {
-      "id": "_kfl8jc6kl",
-      "firstName": "इंद्राज",
-      "lastName": "चौपड़ा",
-      "amount": 500,
-      "village": "Dungrana",
-      "date": "2026-01-19",
+      "date": "2025-12-21",
       "paymentDone": false
     },
     {
-      "id": "_rfrnq2dc4",
-      "firstName": "चोखाराम",
+      "id": "_fjp2q2pu5",
+      "firstName": "रत्ना",
+      "lastName": "बिछड़",
+      "amount": 1500,
+      "village": "Dungrana",
+      "date": "2025-12-21",
+      "paymentDone": false
+    },
+    {
+      "id": "_nbd7v0nno",
+      "firstName": "अमरचंद",
+      "lastName": "दईया",
+      "amount": 2100,
+      "village": "Kalana",
+      "date": "2025-12-20",
+      "paymentDone": false
+    },
+    {
+      "id": "_l0n3t1rln",
+      "firstName": "सोहनलाल",
+      "lastName": "सरपंच",
+      "amount": 1000,
+      "village": "Kalana",
+      "date": "2025-12-20",
+      "paymentDone": true
+    },
+    {
+      "id": "_rk2zi6rwa",
+      "firstName": "सुनिल",
+      "lastName": "कंस्वा",
+      "amount": 1000,
+      "village": "Kalana",
+      "date": "2025-12-19",
+      "paymentDone": false
+    },
+    {
+      "id": "_8cg331ipf",
+      "firstName": "लिलाराम",
+      "lastName": "कंस्वा",
+      "amount": 800,
+      "village": "Rakhi",
+      "date": "2025-12-19",
+      "paymentDone": false
+    },
+    {
+      "id": "_71ghn88cd",
+      "firstName": "अमरसिंह",
+      "lastName": "धाणक",
+      "amount": 400,
+      "village": "Rakhi",
+      "date": "2025-12-19",
+      "paymentDone": false
+    },
+    {
+      "id": "_ea44552li",
+      "firstName": "मोटाराम",
+      "lastName": "बिछड़",
+      "amount": 1500,
+      "village": "Dungrana",
+      "date": "2025-12-18",
+      "paymentDone": false
+    },
+    {
+      "id": "_g766ec6p5",
+      "firstName": "कुरड़ाराम",
+      "lastName": "सरपंच",
+      "amount": 800,
+      "village": "Dungrana",
+      "date": "2025-12-18",
+      "paymentDone": true
+    },
+    {
+      "id": "_ifzoayvi6",
+      "firstName": "अमीलाल",
+      "lastName": "लोर",
+      "amount": 1300,
+      "village": "Gunjasari",
+      "date": "2025-12-17",
+      "paymentDone": true
+    },
+    {
+      "id": "_uoprpk10h",
+      "firstName": "जगदीश",
+      "lastName": "भाम्मी",
+      "amount": 500,
+      "village": "Dungrana",
+      "date": "2025-12-17",
+      "paymentDone": true
+    },
+    {
+      "id": "_hziptqpvj",
+      "firstName": "रामपत",
+      "lastName": "खालीया",
+      "amount": 700,
+      "village": "Dungrana",
+      "date": "2025-12-15",
+      "paymentDone": true
+    },
+    {
+      "id": "_xmkjkbfak",
+      "firstName": "ॠशी",
       "lastName": "चौपड़ा",
       "amount": 600,
       "village": "Kalana",
-      "date": "2026-01-19",
+      "date": "2025-12-15",
       "paymentDone": false
     },
     {
-      "id": "_dzpxwyr4u",
-      "firstName": "महेन्द्र",
-      "lastName": "कुम्हार",
-      "amount": 2000,
+      "id": "_shxp3757h",
+      "firstName": "जयलाल",
+      "lastName": "चौपड़ा",
+      "amount": 5000,
       "village": "Kalana",
-      "date": "2026-01-20",
+      "date": "2025-12-15",
       "paymentDone": false
     },
     {
-      "id": "_7g9hygyyw",
-      "firstName": "जयकरण",
-      "lastName": "कुम्हार",
-      "amount": 1200,
-      "village": "Dungrana",
-      "date": "2026-01-22",
-      "paymentDone": true
-    },
-    {
-      "id": "_w3tki0ub6",
-      "firstName": "धोलू",
-      "lastName": "ढाका",
-      "amount": 2500,
-      "village": "Kalana",
-      "date": "2026-02-04",
-      "paymentDone": false
-    },
-    {
-      "id": "_3jnzuefku",
-      "firstName": "राजेन्द्र",
-      "lastName": "ढाका",
-      "amount": 2000,
-      "village": "Kalana",
-      "date": "2026-02-04",
-      "paymentDone": false
-    },
-    {
-      "id": "_rnc47fxj4",
-      "firstName": "0",
-      "lastName": "साहरण",
-      "amount": 1000,
-      "village": "Rakhi",
-      "date": "2026-02-07",
-      "paymentDone": true
-    },
-    {
-      "id": "_a4fzqw8f0",
-      "firstName": "इन्द्र",
-      "lastName": "लाम्बा",
-      "amount": 500,
-      "village": "Kalana",
-      "date": "2026-02-08",
-      "paymentDone": false
-    },
-    {
-      "id": "_z3ic8pts3",
-      "firstName": "मनीराम",
-      "lastName": "कुम्हार",
-      "amount": 500,
-      "village": "Dungrana",
-      "date": "2026-02-12",
-      "paymentDone": true
-    },
-    {
-      "id": "_f224f2rdl",
-      "firstName": "दानाराम",
-      "lastName": "चोपड़ा",
-      "amount": 1200,
-      "village": "Kalana",
-      "date": "2026-02-13",
-      "paymentDone": false
-    },
-    {
-      "id": "_8u36zz9ev",
-      "firstName": "मुंशी",
-      "lastName": "धाणक",
-      "amount": 2000,
-      "village": "Kalana",
-      "date": "2026-02-14",
-      "paymentDone": false
-    },
-    {
-      "id": "_cr943semw",
-      "firstName": "लिछु",
-      "lastName": "खाती",
-      "amount": 3000,
-      "village": "Kalana",
-      "date": "2026-02-24",
-      "paymentDone": false
-    },
-    {
-      "id": "_ct7ep5024",
-      "firstName": "रामचन्द्र",
-      "lastName": "पडगङ",
-      "amount": 500,
-      "village": "Kalana",
-      "date": "2026-02-24",
-      "paymentDone": false
-    },
-    {
-      "id": "_ix9vx274c",
-      "firstName": "महावीर",
-      "lastName": "जाखड़",
-      "amount": 1000,
-      "village": "Kalana",
-      "date": "2026-02-26",
-      "paymentDone": false
-    },
-    {
-      "id": "_aofbhsca9",
-      "firstName": "विकास",
-      "lastName": "मोठसरा",
-      "amount": 1000,
-      "village": "Dungrana",
-      "date": "2026-02-26",
-      "paymentDone": false
-    },
-    {
-      "id": "_fg68g79e4",
-      "firstName": "ख्याली",
-      "lastName": "कुम्हार",
-      "amount": 500,
-      "village": "Kalana",
-      "date": "2026-03-01",
-      "paymentDone": false
-    },
-    {
-      "id": "_lc0ly6gu3",
-      "firstName": "बलवान",
-      "lastName": "चोपड़ा",
-      "amount": 500,
-      "village": "Kalana",
-      "date": "2026-03-15",
-      "paymentDone": true
-    },
-    {
-      "id": "_57qc0zzdm",
-      "firstName": "गुगन",
-      "lastName": "कुम्हार",
-      "amount": 1000,
-      "village": "Dungrana",
-      "date": "2026-03-01",
-      "paymentDone": false
-    },
-    {
-      "id": "_0hetc2488",
+      "id": "_vdtwpo9zi",
       "firstName": "जगाराम",
       "lastName": "कुम्हार",
-      "amount": 2400,
+      "amount": 4000,
       "village": "Kalana",
-      "date": "2026-03-15",
-      "paymentDone": true
-    },
-    {
-      "id": "_y57kleh3m",
-      "firstName": "रामजी",
-      "lastName": "बिजारणियां",
-      "amount": 800,
-      "village": "Dungrana",
-      "date": "2026-04-06",
+      "date": "2025-12-14",
       "paymentDone": false
     },
     {
-      "id": "_5raculh5d",
-      "firstName": "दलीप",
-      "lastName": "चोपड़ा",
-      "amount": 800,
-      "village": "Dungrana",
-      "date": "2026-04-05",
+      "id": "_p0uxzm35h",
+      "firstName": "कुरड़ाराम",
+      "lastName": "कुम्हार",
+      "amount": 400,
+      "village": "Kalana",
+      "date": "2025-12-14",
       "paymentDone": false
     },
     {
-      "id": "_jucic3u9n",
-      "firstName": "कृष्ण",
-      "lastName": "धाणक",
-      "amount": 1000,
-      "village": "Dungrana",
-      "date": "2026-04-05",
+      "id": "_ff9289y6f",
+      "firstName": "माडाराम",
+      "lastName": "नेहरा",
+      "amount": 500,
+      "village": "Kalana",
+      "date": "2025-12-14",
+      "paymentDone": false
+    },
+    {
+      "id": "_seoo18322",
+      "firstName": "दोलताराम",
+      "lastName": "सिंदडिंया",
+      "amount": 800,
+      "village": "Kalana",
+      "date": "2025-12-13",
       "paymentDone": true
     },
     {
-      "id": "_t3hamdhig",
-      "firstName": "महावीर",
-      "lastName": "कस्वा",
+      "id": "_gujbyohxy",
+      "firstName": "कुरड़ाराम",
+      "lastName": "गोदारा",
       "amount": 700,
-      "village": "Kalana",
-      "date": "2026-04-05",
-      "paymentDone": false
-    },
-    {
-      "id": "_ce5yvn446",
-      "firstName": "च्याण",
-      "lastName": "ताखर",
-      "amount": 508,
       "village": "Dungrana",
-      "date": "2026-04-06",
+      "date": "2025-12-13",
+      "paymentDone": true
+    },
+    {
+      "id": "_njjmlfucg",
+      "firstName": "ब्रिजाराम",
+      "lastName": "कुम्हार",
+      "amount": 1000,
+      "village": "Kalana",
+      "date": "2025-12-12",
       "paymentDone": false
     },
     {
-      "id": "_hxiqadgy1",
-      "firstName": "नौरंग",
-      "lastName": "पुनिया",
-      "amount": 3000,
-      "village": "Rakhi",
-      "date": "2026-04-10",
+      "id": "_4fviemuqn",
+      "firstName": "प्रहलाद",
+      "lastName": "बैनिवाल",
+      "amount": 1500,
+      "village": "Dungrana",
+      "date": "2025-12-12",
+      "paymentDone": true
+    },
+    {
+      "id": "_oredihwzy",
+      "firstName": "मोतीराम",
+      "lastName": "महला",
+      "amount": 1500,
+      "village": "Dungrana",
+      "date": "2025-12-11",
       "paymentDone": false
     },
     {
-      "id": "_9ftxtmez6",
-      "firstName": "सांवरमल",
-      "lastName": "किराडा",
-      "amount": 2000,
-      "village": "Other",
-      "date": "2026-04-12",
-      "paymentDone": false
-    },
-    {
-      "id": "_ui1xxvt4q",
-      "firstName": "प्रकाश",
-      "lastName": "खाती",
+      "id": "_0f4i8f7lj",
+      "firstName": "राम",
+      "lastName": "साहरण",
       "amount": 1200,
       "village": "Dungrana",
-      "date": "2026-04-13",
-      "paymentDone": false
+      "date": "2025-12-11",
+      "paymentDone": true
     },
     {
-      "id": "_s4jntte5x",
-      "firstName": "प्रोषतम",
-      "lastName": "साहरण",
+      "id": "_7s64u5f7q",
+      "firstName": "बन्ताराम",
+      "lastName": "ठाकर",
       "amount": 500,
-      "village": "Dungrana",
-      "date": "2026-04-14",
-      "paymentDone": false
-    },
-    {
-      "id": "_8heqz7trc",
-      "firstName": "रामेश्वर",
-      "lastName": "नेहरा",
-      "amount": 1600,
       "village": "Kalana",
-      "date": "2026-04-14",
+      "date": "2025-12-11",
+      "paymentDone": true
+    },
+    {
+      "id": "_2o2c9peyg",
+      "firstName": "महेंद्र",
+      "lastName": "नेहरा",
+      "amount": 500,
+      "village": "Kalana",
+      "date": "2025-12-09",
       "paymentDone": false
     },
     {
-      "id": "_30yxgu183",
-      "firstName": "धर्मपाल",
-      "lastName": "गोदारा",
+      "id": "_n39ia6zml",
+      "firstName": "लादू",
+      "lastName": "नाई",
+      "amount": 1700,
+      "village": "Kalana",
+      "date": "2025-12-08",
+      "paymentDone": false
+    },
+    {
+      "id": "_gttxz619e",
+      "firstName": "बज्राराम",
+      "lastName": "नाई",
       "amount": 2000,
-      "village": "Dungrana",
-      "date": "2026-04-16",
-      "paymentDone": false
+      "village": "Kalana",
+      "date": "2025-12-08",
+      "paymentDone": true
     },
     {
-      "id": "_7nsxbrpue",
-      "firstName": "मोहरसिंह",
-      "lastName": "स्वामी",
+      "id": "_v57n4atgh",
+      "firstName": "रामकार",
+      "lastName": "सिदड़िया",
       "amount": 1000,
       "village": "Kalana",
-      "date": "2026-04-16",
+      "date": "2025-12-08",
+      "paymentDone": true
+    },
+    {
+      "id": "_a7atxtzfh",
+      "firstName": "श्योराम",
+      "lastName": "कुम्हार",
+      "amount": 1500,
+      "village": "Dungrana",
+      "date": "2025-12-06",
+      "paymentDone": true
+    },
+    {
+      "id": "_e7j4tdr7j",
+      "firstName": "हरदत",
+      "lastName": "नेहरा /श्योराम",
+      "amount": 600,
+      "village": "Kalana",
+      "date": "2025-12-06",
+      "paymentDone": true
+    },
+    {
+      "id": "_r11u4e4hv",
+      "firstName": "सुभाष",
+      "lastName": "नेहरा",
+      "amount": 500,
+      "village": "Kalana",
+      "date": "2025-12-06",
+      "paymentDone": false
+    },
+    {
+      "id": "_soiramkxb",
+      "firstName": "महावीर",
+      "lastName": "कालीरावण",
+      "amount": 800,
+      "village": "Kalana",
+      "date": "2025-12-04",
+      "paymentDone": false
+    },
+    {
+      "id": "_npsu13x9c",
+      "firstName": "रामनिवास",
+      "lastName": "जाखड़",
+      "amount": 500,
+      "village": "Kalana",
+      "date": "2025-11-30",
+      "paymentDone": false
+    },
+    {
+      "id": "_hh4a137qz",
+      "firstName": "साबाराम",
+      "lastName": "धाणक",
+      "amount": 6500,
+      "village": "Kalana",
+      "date": "2025-11-29",
+      "paymentDone": false
+    },
+    {
+      "id": "_e7mg82833",
+      "firstName": "महेन्द्र",
+      "lastName": "कालीरावणा",
+      "amount": 500,
+      "village": "Kalana",
+      "date": "2025-11-25",
+      "paymentDone": true
+    },
+    {
+      "id": "_r9muwiwsj",
+      "firstName": "पन्ना्राम",
+      "lastName": "चमार",
+      "amount": 1000,
+      "village": "Dungrana",
+      "date": "2025-11-24",
+      "paymentDone": true
+    },
+    {
+      "id": "_j9v6kjum1",
+      "firstName": "भालाराम",
+      "lastName": "मूण्ड",
+      "amount": 1000,
+      "village": "Dungrana",
+      "date": "2025-11-24",
+      "paymentDone": true
+    },
+    {
+      "id": "_g5d6n7z1f",
+      "firstName": "प्रेम",
+      "lastName": "चौपड़ा",
+      "amount": 900,
+      "village": "Dungrana",
+      "date": "2025-11-24",
+      "paymentDone": true
+    },
+    {
+      "id": "_t5pyujnx0",
+      "firstName": "भरताराम",
+      "lastName": "चमार",
+      "amount": 800,
+      "village": "Dungrana",
+      "date": "2025-11-24",
+      "paymentDone": true
+    },
+    {
+      "id": "_75hh1aaen",
+      "firstName": "कृष्ण",
+      "lastName": "खाती",
+      "amount": 900,
+      "village": "Dungrana",
+      "date": "2025-11-23",
+      "paymentDone": true
+    },
+    {
+      "id": "_wysvzzc12",
+      "firstName": "सुरेन्द्र",
+      "lastName": "कंस्वा",
+      "amount": 1200,
+      "village": "Kalana",
+      "date": "2025-11-23",
+      "paymentDone": true
+    },
+    {
+      "id": "_f4wfgyz05",
+      "firstName": "मगतु",
+      "lastName": "छिप्पा",
+      "amount": 2000,
+      "village": "Dungrana",
+      "date": "2025-11-22",
+      "paymentDone": false
+    },
+    {
+      "id": "_pw3r6kl6v",
+      "firstName": "भंवरलाल",
+      "lastName": "कुम्हार",
+      "amount": 1000,
+      "village": "Kalana",
+      "date": "2025-11-22",
+      "paymentDone": false
+    },
+    {
+      "id": "_3fe96yg96",
+      "firstName": "शंकर",
+      "lastName": "दईया",
+      "amount": 2500,
+      "village": "Kalana",
+      "date": "2025-11-21",
+      "paymentDone": true
+    },
+    {
+      "id": "_oahbqphf9",
+      "firstName": "काशी",
+      "lastName": "दईया",
+      "amount": 2100,
+      "village": "Kalana",
+      "date": "2025-11-21",
+      "paymentDone": true
+    },
+    {
+      "id": "_22bjmivm5",
+      "firstName": "लीलाराम",
+      "lastName": "झाझरिया",
+      "amount": 2500,
+      "village": "Dungrana",
+      "date": "2025-11-20",
+      "paymentDone": true
+    },
+    {
+      "id": "_4j7q5j6jv",
+      "firstName": "हरिसिंह",
+      "lastName": "कुम्हार",
+      "amount": 1500,
+      "village": "Kalana",
+      "date": "2025-11-20",
+      "paymentDone": false
+    },
+    {
+      "id": "_grwt954f5",
+      "firstName": "मांगेराम",
+      "lastName": "नेहरा",
+      "amount": 2500,
+      "village": "Kalana",
+      "date": "2025-11-19",
+      "paymentDone": true
+    },
+    {
+      "id": "_1ht98vqfq",
+      "firstName": "निहाल सिंह",
+      "lastName": "महला",
+      "amount": 500,
+      "village": "Dungrana",
+      "date": "2025-11-17",
+      "paymentDone": false
+    },
+    {
+      "id": "_asf0bwobz",
+      "firstName": "भूप",
+      "lastName": "महला",
+      "amount": 1200,
+      "village": "Dungrana",
+      "date": "2025-11-17",
+      "paymentDone": false
+    },
+    {
+      "id": "_a3ostda7e",
+      "firstName": "गिरधारी",
+      "lastName": "कुम्हार",
+      "amount": 1200,
+      "village": "Kalana",
+      "date": "2025-11-17",
+      "paymentDone": false
+    },
+    {
+      "id": "_b8bt9rzf3",
+      "firstName": "कालू",
+      "lastName": "कुम्हार",
+      "amount": 1200,
+      "village": "Kalana",
+      "date": "2025-11-17",
+      "paymentDone": false
+    },
+    {
+      "id": "_jes1x527z",
+      "firstName": "जगदीश",
+      "lastName": "महला",
+      "amount": 2200,
+      "village": "Dungrana",
+      "date": "2025-11-16",
+      "paymentDone": true
+    },
+    {
+      "id": "_ojrhbvlfa",
+      "firstName": "सुरजभान",
+      "lastName": "कड़वासरा",
+      "amount": 1200,
+      "village": "Kalana",
+      "date": "2025-11-16",
+      "paymentDone": true
+    },
+    {
+      "id": "_9b4smbjmt",
+      "firstName": "भादर",
+      "lastName": "कुम्हार",
+      "amount": 1700,
+      "village": "Kalana",
+      "date": "2025-11-14",
+      "paymentDone": true
+    },
+    {
+      "id": "_d2wihdiia",
+      "firstName": "मंगलाराम",
+      "lastName": "शर्मा",
+      "amount": 1800,
+      "village": "Kalana",
+      "date": "2025-11-14",
+      "paymentDone": false
+    },
+    {
+      "id": "_okhnmg13d",
+      "firstName": "रोशन",
+      "lastName": "स्वामी",
+      "amount": 1500,
+      "village": "Kalana",
+      "date": "2025-11-14",
+      "paymentDone": false
+    },
+    {
+      "id": "_1nw1c2tl8",
+      "firstName": "मानाराम",
+      "lastName": "कंस्वा",
+      "amount": 2000,
+      "village": "Kalana",
+      "date": "2025-11-13",
+      "paymentDone": true
+    },
+    {
+      "id": "_ctp1pvxcn",
+      "firstName": "पृथ्वी",
+      "lastName": "गुज़र",
+      "amount": 600,
+      "village": "Kalana",
+      "date": "2025-11-13",
+      "paymentDone": true
+    },
+    {
+      "id": "_kvhsomosl",
+      "firstName": "धन्नाराम",
+      "lastName": "कंस्वा",
+      "amount": 3400,
+      "village": "Dungrana",
+      "date": "2025-11-12",
+      "paymentDone": true
+    },
+    {
+      "id": "_erqwzrdao",
+      "firstName": "भागाराम",
+      "lastName": "कंस्वा",
+      "amount": 2000,
+      "village": "Kalana",
+      "date": "2025-11-12",
+      "paymentDone": false
+    },
+    {
+      "id": "_f4zu6j1xo",
+      "firstName": "रामेशर",
+      "lastName": "सहू",
+      "amount": 2900,
+      "village": "Rakhi",
+      "date": "2025-11-09",
+      "paymentDone": true
+    },
+    {
+      "id": "_o8vz9cggi",
+      "firstName": "मनोहर",
+      "lastName": "डाक्टर",
+      "amount": 1000,
+      "village": "Dungrana",
+      "date": "2025-11-08",
+      "paymentDone": false
+    },
+    {
+      "id": "_p0j37ep1l",
+      "firstName": "धर्माराम",
+      "lastName": "लोर",
+      "amount": 1500,
+      "village": "Dungrana",
+      "date": "2025-11-08",
+      "paymentDone": false
+    },
+    {
+      "id": "_dkxfz8ye3",
+      "firstName": "धर्मपाल",
+      "lastName": "मोठसरा",
+      "amount": 2000,
+      "village": "Dungrana",
+      "date": "2025-11-08",
+      "paymentDone": false
+    },
+    {
+      "id": "_l2tsl0dro",
+      "firstName": "वीरभान",
+      "lastName": "महला",
+      "amount": 1500,
+      "village": "Dungrana",
+      "date": "2025-11-07",
+      "paymentDone": true
+    },
+    {
+      "id": "_p5qjh02p7",
+      "firstName": "लीलाराम",
+      "lastName": "महला",
+      "amount": 1400,
+      "village": "Dungrana",
+      "date": "2025-11-07",
+      "paymentDone": true
+    },
+    {
+      "id": "_v9dgdvmr9",
+      "firstName": "रामस्वरूप",
+      "lastName": "कुम्हार",
+      "amount": 1500,
+      "village": "Kalana",
+      "date": "2025-11-07",
+      "paymentDone": false
+    },
+    {
+      "id": "_0mljiixhm",
+      "firstName": "भंवरलाल",
+      "lastName": "सिद्डिया",
+      "amount": 1000,
+      "village": "Kalana",
+      "date": "2025-11-07",
+      "paymentDone": false
+    },
+    {
+      "id": "_zvt4v3oa1",
+      "firstName": "रामकार",
+      "lastName": "कुम्हार",
+      "amount": 1200,
+      "village": "Dungrana",
+      "date": "2025-11-06",
+      "paymentDone": true
+    },
+    {
+      "id": "_ia3v34j1w",
+      "firstName": "सतीश",
+      "lastName": "शर्मा",
+      "amount": 1000,
+      "village": "Kalana",
+      "date": "2025-11-06",
+      "paymentDone": false
+    },
+    {
+      "id": "_xliw163nx",
+      "firstName": "भागाराम",
+      "lastName": "घोटवाल",
+      "amount": 1800,
+      "village": "Kalana",
+      "date": "2025-11-05",
+      "paymentDone": true
+    },
+    {
+      "id": "_r8uj4r33v",
+      "firstName": "लीलाराम",
+      "lastName": "चोपड़ा",
+      "amount": 1100,
+      "village": "Dungrana",
+      "date": "2025-11-04",
+      "paymentDone": true
+    },
+    {
+      "id": "_0k96nv56i",
+      "firstName": "पालाराम",
+      "lastName": "कस्वा",
+      "amount": 1500,
+      "village": "Kalana",
+      "date": "2025-11-02",
+      "paymentDone": false
+    },
+    {
+      "id": "_inu74xn97",
+      "firstName": "हसराज",
+      "lastName": "ठेकेदार (भाई)",
+      "amount": 700,
+      "village": "Kalana",
+      "date": "2025-11-01",
+      "paymentDone": true
+    },
+    {
+      "id": "_jtdgf0edz",
+      "firstName": "प्रकाश",
+      "lastName": "ठाकर",
+      "amount": 700,
+      "village": "Kalana",
+      "date": "2025-11-01",
+      "paymentDone": true
+    },
+    {
+      "id": "_mhnadrng5",
+      "firstName": "सादू",
+      "lastName": "कुम्हार",
+      "amount": 700,
+      "village": "Dungrana",
+      "date": "2025-10-29",
+      "paymentDone": true
+    },
+    {
+      "id": "_63pet0e7d",
+      "firstName": "बनवारी",
+      "lastName": "छिप्पा",
+      "amount": 1000,
+      "village": "Kalana",
+      "date": "2025-10-28",
+      "paymentDone": true
+    },
+    {
+      "id": "_7mpdssjc4",
+      "firstName": "सुभाष",
+      "lastName": "चौपड़ा",
+      "amount": 1500,
+      "village": "Kalana",
+      "date": "2025-10-28",
+      "paymentDone": false
+    },
+    {
+      "id": "_x88h3wbjs",
+      "firstName": "रामजी",
+      "lastName": "खाती",
+      "amount": 1400,
+      "village": "Kalana",
+      "date": "2025-10-26",
+      "paymentDone": true
+    },
+    {
+      "id": "_xpjhcx6jm",
+      "firstName": "भागाराम",
+      "lastName": "कालीरावणा",
+      "amount": 900,
+      "village": "Kalana",
+      "date": "2025-10-26",
+      "paymentDone": false
+    },
+    {
+      "id": "_ojyp3y1wf",
+      "firstName": "रामेश्वर",
+      "lastName": "नेहरा",
+      "amount": 500,
+      "village": "Kalana",
+      "date": "2025-10-25",
+      "paymentDone": true
+    },
+    {
+      "id": "_2f47zt5ow",
+      "firstName": "गोपाल",
+      "lastName": "मोठसरा",
+      "amount": 900,
+      "village": "Dungrana",
+      "date": "2026-04-18",
       "paymentDone": false
     }
   ],
@@ -2578,6 +2587,12 @@
       "type": "User Creation",
       "message": "User created with amount 1000 and village Kalana",
       "timestamp": "2026-04-17T02:13:10.326Z"
+    },
+    {
+      "userId": "_2f47zt5ow",
+      "type": "User Creation",
+      "message": "User setup done for 900 at Dungrana",
+      "timestamp": "2026-05-17T17:07:42.357Z"
     }
   ]
 }
