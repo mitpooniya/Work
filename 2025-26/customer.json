@@ -1259,6 +1259,15 @@
       "village": "Dungrana",
       "date": "2026-04-18",
       "paymentDone": false
+    },
+    {
+      "id": "_tnyksaagy",
+      "firstName": "लाल",
+      "lastName": "दद",
+      "amount": 500,
+      "village": "Dungrana",
+      "date": "2026-05-18",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2635,6 +2644,12 @@
       "type": "Gateway Action",
       "message": "Full Payment cleared. Status set to true. Balance kept at: ₹800",
       "timestamp": "2026-05-18T18:13:50.607Z"
+    },
+    {
+      "userId": "_tnyksaagy",
+      "type": "User Spawning",
+      "message": "Initialization parameter created with balance: ₹500 allocated at Dungrana sector",
+      "timestamp": "2026-05-18T18:16:52.431Z"
     }
   ]
 }
