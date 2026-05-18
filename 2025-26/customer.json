@@ -358,7 +358,7 @@
       "amount": 1500,
       "village": "Dungrana",
       "date": "2026-01-09",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_xmr2ao7bi",
@@ -2611,6 +2611,12 @@
       "type": "Gateway Action",
       "message": "Overwrote balance configuration from ₹6500 to ₹1400",
       "timestamp": "2026-05-18T17:20:33.188Z"
+    },
+    {
+      "userId": "_kqvh9e1um",
+      "type": "Gateway Action",
+      "message": "Full Payment cleared. Status set to true. Balance kept at: ₹1500",
+      "timestamp": "2026-05-18T17:38:41.217Z"
     }
   ]
 }
