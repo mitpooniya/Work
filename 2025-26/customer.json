@@ -1264,7 +1264,7 @@
       "id": "_tnyksaagy",
       "firstName": "लाल",
       "lastName": "दद",
-      "amount": 500,
+      "amount": 1500,
       "village": "Dungrana",
       "date": "2026-05-18",
       "paymentDone": false
@@ -2650,6 +2650,12 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹500 allocated at Dungrana sector",
       "timestamp": "2026-05-18T18:16:52.431Z"
+    },
+    {
+      "userId": "_tnyksaagy",
+      "type": "Gateway Action",
+      "message": "Overwrote balance configuration from ₹500 to ₹1500",
+      "timestamp": "2026-05-18T18:17:27.345Z"
     }
   ]
 }
