@@ -70,7 +70,7 @@
       "amount": 800,
       "village": "Dungrana",
       "date": "2026-04-06",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_ce5yvn446",
@@ -2629,6 +2629,12 @@
       "type": "Gateway Action",
       "message": "Full Payment cleared. Status set to true. Balance kept at: ₹700",
       "timestamp": "2026-05-18T18:01:59.501Z"
+    },
+    {
+      "userId": "_y57kleh3m",
+      "type": "Gateway Action",
+      "message": "Full Payment cleared. Status set to true. Balance kept at: ₹800",
+      "timestamp": "2026-05-18T18:13:50.607Z"
     }
   ]
 }
