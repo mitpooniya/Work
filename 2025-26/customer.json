@@ -1060,7 +1060,7 @@
       "amount": 2000,
       "village": "Kalana",
       "date": "2025-11-12",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_f4zu6j1xo",
@@ -2599,6 +2599,12 @@
       "type": "Gateway Swipe Transaction",
       "message": "Full Payment settled via deduction swipe. Input: ₹2000",
       "timestamp": "2026-05-18T12:07:46.367Z"
+    },
+    {
+      "userId": "_erqwzrdao",
+      "type": "Gateway Action",
+      "message": "Full Payment cleared. Status set to true. Balance kept at: ₹2000",
+      "timestamp": "2026-05-18T17:19:23.230Z"
     }
   ]
 }
