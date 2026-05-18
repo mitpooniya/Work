@@ -814,7 +814,7 @@
       "id": "_hh4a137qz",
       "firstName": "साबाराम",
       "lastName": "धाणक",
-      "amount": 6500,
+      "amount": 1400,
       "village": "Kalana",
       "date": "2025-11-29",
       "paymentDone": false
@@ -2605,6 +2605,12 @@
       "type": "Gateway Action",
       "message": "Full Payment cleared. Status set to true. Balance kept at: ₹2000",
       "timestamp": "2026-05-18T17:19:23.230Z"
+    },
+    {
+      "userId": "_hh4a137qz",
+      "type": "Gateway Action",
+      "message": "Overwrote balance configuration from ₹6500 to ₹1400",
+      "timestamp": "2026-05-18T17:20:33.188Z"
     }
   ]
 }
