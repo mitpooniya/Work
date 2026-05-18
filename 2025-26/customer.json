@@ -49,10 +49,10 @@
       "id": "_9ftxtmez6",
       "firstName": "सांवरमल",
       "lastName": "किराडा",
-      "amount": 2000,
+      "amount": 0,
       "village": "Other",
       "date": "2026-04-12",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_hxiqadgy1",
@@ -2593,6 +2593,12 @@
       "type": "User Creation",
       "message": "User setup done for 900 at Dungrana",
       "timestamp": "2026-05-17T17:07:42.357Z"
+    },
+    {
+      "userId": "_9ftxtmez6",
+      "type": "Gateway Swipe Transaction",
+      "message": "Full Payment settled via deduction swipe. Input: ₹2000",
+      "timestamp": "2026-05-18T12:07:46.367Z"
     }
   ]
 }
