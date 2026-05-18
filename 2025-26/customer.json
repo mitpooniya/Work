@@ -1259,6 +1259,15 @@
       "village": "Dungrana",
       "date": "2026-04-18",
       "paymentDone": false
+    },
+    {
+      "id": "_pvtrgzoba",
+      "firstName": "राजस्थान",
+      "lastName": "मुझे",
+      "amount": 1500,
+      "village": "Dungrana",
+      "date": "2026-05-18",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2599,6 +2608,12 @@
       "type": "Gateway Swipe Transaction",
       "message": "Full Payment settled via deduction swipe. Input: ₹2000",
       "timestamp": "2026-05-18T12:07:46.367Z"
+    },
+    {
+      "userId": "_pvtrgzoba",
+      "type": "User Spawning",
+      "message": "Initialization parameter created with balance: ₹1500 allocated at Dungrana sector",
+      "timestamp": "2026-05-18T12:58:03.719Z"
     }
   ]
 }
