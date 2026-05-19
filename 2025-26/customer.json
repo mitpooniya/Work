@@ -1286,6 +1286,15 @@
       "village": "Rakhi",
       "date": "2026-04-21",
       "paymentDone": true
+    },
+    {
+      "id": "_3msbcnob3",
+      "firstName": "अमीलाल",
+      "lastName": "लोर",
+      "amount": 2000,
+      "village": "Gunjasari",
+      "date": "2026-04-24",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2692,6 +2701,12 @@
       "type": "Gateway Action",
       "message": "Full Payment cleared. Status set to true. Balance kept at: ₹1900",
       "timestamp": "2026-05-19T11:00:01.139Z"
+    },
+    {
+      "userId": "_3msbcnob3",
+      "type": "User Spawning",
+      "message": "Initialization parameter created with balance: ₹2000 allocated at Gunjasari sector",
+      "timestamp": "2026-05-19T11:00:43.767Z"
     }
   ]
 }
