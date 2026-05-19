@@ -1313,6 +1313,15 @@
       "village": "Kalana",
       "date": "2026-04-28",
       "paymentDone": false
+    },
+    {
+      "id": "_of29d4bcu",
+      "firstName": "सिंगाराम",
+      "lastName": "गोदारा",
+      "amount": 1200,
+      "village": "Dungrana",
+      "date": "2026-04-30",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2743,6 +2752,12 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹3000 allocated at Kalana sector",
       "timestamp": "2026-05-19T11:02:40.800Z"
+    },
+    {
+      "userId": "_of29d4bcu",
+      "type": "User Spawning",
+      "message": "Initialization parameter created with balance: ₹1200 allocated at Dungrana sector",
+      "timestamp": "2026-05-19T11:03:30.907Z"
     }
   ]
 }
