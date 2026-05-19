@@ -1259,6 +1259,15 @@
       "village": "Dungrana",
       "date": "2026-04-18",
       "paymentDone": false
+    },
+    {
+      "id": "_aihkqao61",
+      "firstName": "छोटूराम",
+      "lastName": "महला",
+      "amount": 1500,
+      "village": "Dungrana",
+      "date": "2026-04-19",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2635,6 +2644,12 @@
       "type": "Gateway Action",
       "message": "Full Payment cleared. Status set to true. Balance kept at: ₹800",
       "timestamp": "2026-05-18T18:13:50.607Z"
+    },
+    {
+      "userId": "_aihkqao61",
+      "type": "User Spawning",
+      "message": "Initialization parameter created with balance: ₹1500 allocated at Dungrana sector",
+      "timestamp": "2026-05-19T10:56:27.900Z"
     }
   ]
 }
