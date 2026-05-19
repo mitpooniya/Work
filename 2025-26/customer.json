@@ -130,7 +130,7 @@
       "id": "_fg68g79e4",
       "firstName": "ख्याली",
       "lastName": "कुम्हार",
-      "amount": 500,
+      "amount": 2500,
       "village": "Kalana",
       "date": "2026-03-01",
       "paymentDone": false
@@ -2941,6 +2941,12 @@
       "type": "Gateway Action",
       "message": "Full Payment cleared. Status set to true. Balance kept at: ₹1200",
       "timestamp": "2026-05-19T11:53:01.700Z"
+    },
+    {
+      "userId": "_fg68g79e4",
+      "type": "Gateway Action",
+      "message": "Overwrote balance configuration from ₹500 to ₹2500",
+      "timestamp": "2026-05-19T11:54:27.675Z"
     }
   ]
 }
