@@ -1358,6 +1358,15 @@
       "village": "Kalana",
       "date": "2026-05-08",
       "paymentDone": false
+    },
+    {
+      "id": "_id38hsbkd",
+      "firstName": "भूराराम",
+      "lastName": "लोर",
+      "amount": 600,
+      "village": "Gunjasari",
+      "date": "2026-05-10",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2830,6 +2839,12 @@
       "type": "Gateway Action",
       "message": "Full Payment cleared. Status set to true. Balance kept at: ₹2000",
       "timestamp": "2026-05-19T11:08:47.989Z"
+    },
+    {
+      "userId": "_id38hsbkd",
+      "type": "User Spawning",
+      "message": "Initialization parameter created with balance: ₹600 allocated at Gunjasari sector",
+      "timestamp": "2026-05-19T11:09:40.304Z"
     }
   ]
 }
