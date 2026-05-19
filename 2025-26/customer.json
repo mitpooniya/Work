@@ -1309,7 +1309,7 @@
       "id": "_q1iv1a6im",
       "firstName": "निहाल",
       "lastName": "नेहरा",
-      "amount": 3100,
+      "amount": 3000,
       "village": "Kalana",
       "date": "2026-04-28",
       "paymentDone": false
@@ -3061,6 +3061,12 @@
       "type": "Gateway Action",
       "message": "Full Payment cleared. Status set to true. Balance kept at: ₹2000",
       "timestamp": "2026-05-19T12:25:14.238Z"
+    },
+    {
+      "userId": "_q1iv1a6im",
+      "type": "Gateway Action",
+      "message": "Overwrote balance configuration from ₹3100 to ₹3000",
+      "timestamp": "2026-05-19T12:26:27.712Z"
     }
   ]
 }
