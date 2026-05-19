@@ -1277,6 +1277,15 @@
       "village": "Dungrana",
       "date": "2026-04-20",
       "paymentDone": false
+    },
+    {
+      "id": "_y85nsdj7i",
+      "firstName": "शंकर",
+      "lastName": "पूनिया",
+      "amount": 1900,
+      "village": "Rakhi",
+      "date": "2026-04-21",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2671,6 +2680,12 @@
       "type": "Gateway Action",
       "message": "Full Payment cleared. Status set to true. Balance kept at: ₹1500",
       "timestamp": "2026-05-19T10:59:08.668Z"
+    },
+    {
+      "userId": "_y85nsdj7i",
+      "type": "User Spawning",
+      "message": "Initialization parameter created with balance: ₹1900 allocated at Rakhi sector",
+      "timestamp": "2026-05-19T10:59:52.877Z"
     }
   ]
 }
