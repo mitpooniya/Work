@@ -346,10 +346,10 @@
       "id": "_swg7ip5za",
       "firstName": "मेहरचंद",
       "lastName": "चोपड़ा",
-      "amount": 500,
+      "amount": 600,
       "village": "Kalana",
       "date": "2026-01-15",
-      "paymentDone": true
+      "paymentDone": false
     },
     {
       "id": "_kqvh9e1um",
@@ -3019,6 +3019,12 @@
       "type": "Gateway Action",
       "message": "Full Payment cleared. Status set to true. Balance kept at: ₹500",
       "timestamp": "2026-05-19T12:20:15.258Z"
+    },
+    {
+      "userId": "_swg7ip5za",
+      "type": "Gateway Action",
+      "message": "Overwrote balance configuration from ₹500 to ₹600",
+      "timestamp": "2026-05-19T12:20:36.202Z"
     }
   ]
 }
