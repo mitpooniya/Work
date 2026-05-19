@@ -1367,6 +1367,15 @@
       "village": "Gunjasari",
       "date": "2026-05-10",
       "paymentDone": false
+    },
+    {
+      "id": "_pkp4lv5gq",
+      "firstName": "हरि",
+      "lastName": "चोपड़ा",
+      "amount": 1200,
+      "village": "Dungrana",
+      "date": "2026-05-10",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2845,6 +2854,12 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹600 allocated at Gunjasari sector",
       "timestamp": "2026-05-19T11:09:40.304Z"
+    },
+    {
+      "userId": "_pkp4lv5gq",
+      "type": "User Spawning",
+      "message": "Initialization parameter created with balance: ₹1200 allocated at Dungrana sector",
+      "timestamp": "2026-05-19T11:10:15.850Z"
     }
   ]
 }
