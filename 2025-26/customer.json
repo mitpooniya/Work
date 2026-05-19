@@ -1349,6 +1349,15 @@
       "village": "Dungrana",
       "date": "2026-05-01",
       "paymentDone": false
+    },
+    {
+      "id": "_smkrg51r8",
+      "firstName": "मुंशी",
+      "lastName": "धाणक",
+      "amount": 2000,
+      "village": "Kalana",
+      "date": "2026-05-08",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2809,6 +2818,12 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹2000 allocated at Dungrana sector",
       "timestamp": "2026-05-19T11:06:14.446Z"
+    },
+    {
+      "userId": "_smkrg51r8",
+      "type": "User Spawning",
+      "message": "Initialization parameter created with balance: ₹2000 allocated at Kalana sector",
+      "timestamp": "2026-05-19T11:07:01.164Z"
     }
   ]
 }
