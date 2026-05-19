@@ -3013,6 +3013,12 @@
       "type": "Gateway Action",
       "message": "Full Payment cleared. Status set to true. Balance kept at: ₹1700",
       "timestamp": "2026-05-19T12:19:24.513Z"
+    },
+    {
+      "userId": "_swg7ip5za",
+      "type": "Gateway Action",
+      "message": "Full Payment cleared. Status set to true. Balance kept at: ₹500",
+      "timestamp": "2026-05-19T12:20:15.258Z"
     }
   ]
 }
