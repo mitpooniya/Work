@@ -187,7 +187,7 @@
       "amount": 2000,
       "village": "Kalana",
       "date": "2026-02-14",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_f224f2rdl",
@@ -2824,6 +2824,12 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹2000 allocated at Kalana sector",
       "timestamp": "2026-05-19T11:07:01.164Z"
+    },
+    {
+      "userId": "_8u36zz9ev",
+      "type": "Gateway Action",
+      "message": "Full Payment cleared. Status set to true. Balance kept at: ₹2000",
+      "timestamp": "2026-05-19T11:08:47.989Z"
     }
   ]
 }
