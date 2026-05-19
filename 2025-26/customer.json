@@ -34,7 +34,7 @@
       "amount": 1600,
       "village": "Dungrana",
       "date": "2026-04-14",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_ui1xxvt4q",
@@ -2899,6 +2899,12 @@
       "type": "Standard Manual Updates",
       "message": "Last Name modified from \"नेहरा\" to \"मारोठिया\"; Village moved from Kalana to Dungrana",
       "timestamp": "2026-05-19T11:44:15.484Z"
+    },
+    {
+      "userId": "_8heqz7trc",
+      "type": "Gateway Action",
+      "message": "Full Payment cleared. Status set to true. Balance kept at: ₹1600",
+      "timestamp": "2026-05-19T11:44:23.293Z"
     }
   ]
 }
