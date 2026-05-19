@@ -30,9 +30,9 @@
     {
       "id": "_8heqz7trc",
       "firstName": "रामेश्वर",
-      "lastName": "नेहरा",
+      "lastName": "मारोठिया",
       "amount": 1600,
-      "village": "Kalana",
+      "village": "Dungrana",
       "date": "2026-04-14",
       "paymentDone": false
     },
@@ -2893,6 +2893,12 @@
       "type": "Gateway Action",
       "message": "Full Payment cleared. Status set to true. Balance kept at: ₹1000",
       "timestamp": "2026-05-19T11:42:29.606Z"
+    },
+    {
+      "userId": "_8heqz7trc",
+      "type": "Standard Manual Updates",
+      "message": "Last Name modified from \"नेहरा\" to \"मारोठिया\"; Village moved from Kalana to Dungrana",
+      "timestamp": "2026-05-19T11:44:15.484Z"
     }
   ]
 }
