@@ -1375,7 +1375,7 @@
       "amount": 1200,
       "village": "Dungrana",
       "date": "2026-05-10",
-      "paymentDone": false
+      "paymentDone": true
     }
   ],
   "history": [
@@ -2860,6 +2860,12 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹1200 allocated at Dungrana sector",
       "timestamp": "2026-05-19T11:10:15.850Z"
+    },
+    {
+      "userId": "_pkp4lv5gq",
+      "type": "Gateway Action",
+      "message": "Full Payment cleared. Status set to true. Balance kept at: ₹1200",
+      "timestamp": "2026-05-19T11:10:27.786Z"
     }
   ]
 }
