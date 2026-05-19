@@ -1285,7 +1285,7 @@
       "amount": 1900,
       "village": "Rakhi",
       "date": "2026-04-21",
-      "paymentDone": false
+      "paymentDone": true
     }
   ],
   "history": [
@@ -2686,6 +2686,12 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹1900 allocated at Rakhi sector",
       "timestamp": "2026-05-19T10:59:52.877Z"
+    },
+    {
+      "userId": "_y85nsdj7i",
+      "type": "Gateway Action",
+      "message": "Full Payment cleared. Status set to true. Balance kept at: ₹1900",
+      "timestamp": "2026-05-19T11:00:01.139Z"
     }
   ]
 }
