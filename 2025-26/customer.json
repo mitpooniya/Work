@@ -157,7 +157,7 @@
       "id": "_aofbhsca9",
       "firstName": "विकास",
       "lastName": "मोठसरा",
-      "amount": 1000,
+      "amount": 3000,
       "village": "Dungrana",
       "date": "2026-02-26",
       "paymentDone": false
@@ -3043,6 +3043,12 @@
       "type": "Gateway Action",
       "message": "Full Payment cleared. Status set to true. Balance kept at: ₹600",
       "timestamp": "2026-05-19T12:21:56.059Z"
+    },
+    {
+      "userId": "_aofbhsca9",
+      "type": "Gateway Action",
+      "message": "Overwrote balance configuration from ₹1000 to ₹3000",
+      "timestamp": "2026-05-19T12:23:37.290Z"
     }
   ]
 }
