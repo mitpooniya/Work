@@ -2881,6 +2881,12 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹1200 allocated at Kalana sector",
       "timestamp": "2026-05-19T11:20:31.637Z"
+    },
+    {
+      "userId": "_t3hamdhig",
+      "type": "Gateway Action",
+      "message": "Full Payment cleared. Status set to true. Balance kept at: ₹700",
+      "timestamp": "2026-05-19T11:40:09.425Z"
     }
   ]
 }
