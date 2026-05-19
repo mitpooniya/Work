@@ -895,7 +895,7 @@
       "id": "_pw3r6kl6v",
       "firstName": "भंवरलाल",
       "lastName": "कुम्हार",
-      "amount": 1000,
+      "amount": 2300,
       "village": "Kalana",
       "date": "2025-11-22",
       "paymentDone": false
@@ -2983,6 +2983,12 @@
       "type": "Gateway Action",
       "message": "Full Payment cleared. Status set to true. Balance kept at: ₹1800",
       "timestamp": "2026-05-19T12:07:52.967Z"
+    },
+    {
+      "userId": "_pw3r6kl6v",
+      "type": "Gateway Action",
+      "message": "Overwrote balance configuration from ₹1000 to ₹2300",
+      "timestamp": "2026-05-19T12:10:03.285Z"
     }
   ]
 }
