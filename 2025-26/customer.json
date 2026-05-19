@@ -1264,7 +1264,7 @@
       "id": "_b2mlulm0h",
       "firstName": "all",
       "lastName": "j",
-      "amount": 200,
+      "amount": 2100,
       "village": "Dungrana",
       "date": "2026-05-19",
       "paymentDone": false
@@ -2650,6 +2650,12 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹200 allocated at Dungrana sector",
       "timestamp": "2026-05-19T06:43:08.406Z"
+    },
+    {
+      "userId": "_b2mlulm0h",
+      "type": "Gateway Action",
+      "message": "Overwrote balance configuration from ₹200 to ₹2100",
+      "timestamp": "2026-05-19T07:02:02.701Z"
     }
   ]
 }
