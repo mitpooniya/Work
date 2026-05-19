@@ -1331,6 +1331,15 @@
       "village": "Dungrana",
       "date": "2026-04-30",
       "paymentDone": false
+    },
+    {
+      "id": "_5tsuv7s1c",
+      "firstName": "देवीलाल",
+      "lastName": "भामू",
+      "amount": 1200,
+      "village": "Dungrana",
+      "date": "2026-05-01",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2773,6 +2782,12 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹500 allocated at Dungrana sector",
       "timestamp": "2026-05-19T11:04:17.610Z"
+    },
+    {
+      "userId": "_5tsuv7s1c",
+      "type": "User Spawning",
+      "message": "Initialization parameter created with balance: ₹1200 allocated at Dungrana sector",
+      "timestamp": "2026-05-19T11:05:07.565Z"
     }
   ]
 }
