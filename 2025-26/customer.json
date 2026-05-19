@@ -1259,15 +1259,6 @@
       "village": "Dungrana",
       "date": "2026-04-18",
       "paymentDone": false
-    },
-    {
-      "id": "_b2mlulm0h",
-      "firstName": "all",
-      "lastName": "j",
-      "amount": 2100,
-      "village": "Dungrana",
-      "date": "2026-05-19",
-      "paymentDone": true
     }
   ],
   "history": [
@@ -2644,24 +2635,6 @@
       "type": "Gateway Action",
       "message": "Full Payment cleared. Status set to true. Balance kept at: ₹800",
       "timestamp": "2026-05-18T18:13:50.607Z"
-    },
-    {
-      "userId": "_b2mlulm0h",
-      "type": "User Spawning",
-      "message": "Initialization parameter created with balance: ₹200 allocated at Dungrana sector",
-      "timestamp": "2026-05-19T06:43:08.406Z"
-    },
-    {
-      "userId": "_b2mlulm0h",
-      "type": "Gateway Action",
-      "message": "Overwrote balance configuration from ₹200 to ₹2100",
-      "timestamp": "2026-05-19T07:02:02.701Z"
-    },
-    {
-      "userId": "_b2mlulm0h",
-      "type": "Gateway Action",
-      "message": "Full Payment cleared. Status set to true. Balance kept at: ₹2100",
-      "timestamp": "2026-05-19T07:02:32.366Z"
     }
   ]
 }
