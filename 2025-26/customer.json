@@ -61,7 +61,7 @@
       "amount": 3000,
       "village": "Rakhi",
       "date": "2026-04-10",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_y57kleh3m",
@@ -2965,6 +2965,12 @@
       "type": "Gateway Action",
       "message": "Overwrote balance configuration from ₹500 to ₹1200",
       "timestamp": "2026-05-19T12:01:24.138Z"
+    },
+    {
+      "userId": "_hxiqadgy1",
+      "type": "Gateway Action",
+      "message": "Full Payment cleared. Status set to true. Balance kept at: ₹3000",
+      "timestamp": "2026-05-19T12:03:26.700Z"
     }
   ]
 }
