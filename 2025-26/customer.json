@@ -1312,7 +1312,7 @@
       "amount": 3000,
       "village": "Kalana",
       "date": "2026-04-28",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_of29d4bcu",
@@ -2923,6 +2923,12 @@
       "type": "Gateway Action",
       "message": "Full Payment cleared. Status set to true. Balance kept at: ₹500",
       "timestamp": "2026-05-19T11:51:02.448Z"
+    },
+    {
+      "userId": "_q1iv1a6im",
+      "type": "Gateway Action",
+      "message": "Full Payment cleared. Status set to true. Balance kept at: ₹3000",
+      "timestamp": "2026-05-19T11:51:18.345Z"
     }
   ]
 }
