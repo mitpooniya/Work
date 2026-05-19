@@ -1268,6 +1268,15 @@
       "village": "Dungrana",
       "date": "2026-04-19",
       "paymentDone": false
+    },
+    {
+      "id": "_7hka9lf1z",
+      "firstName": "राजेंद्र",
+      "lastName": "झाझडिया",
+      "amount": 800,
+      "village": "Dungrana",
+      "date": "2026-04-20",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2650,6 +2659,12 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹1500 allocated at Dungrana sector",
       "timestamp": "2026-05-19T10:56:27.900Z"
+    },
+    {
+      "userId": "_7hka9lf1z",
+      "type": "User Spawning",
+      "message": "Initialization parameter created with balance: ₹800 allocated at Dungrana sector",
+      "timestamp": "2026-05-19T10:57:56.245Z"
     }
   ]
 }
