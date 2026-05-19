@@ -1294,7 +1294,7 @@
       "amount": 2000,
       "village": "Gunjasari",
       "date": "2026-04-24",
-      "paymentDone": false
+      "paymentDone": true
     }
   ],
   "history": [
@@ -2707,6 +2707,12 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹2000 allocated at Gunjasari sector",
       "timestamp": "2026-05-19T11:00:43.767Z"
+    },
+    {
+      "userId": "_3msbcnob3",
+      "type": "Gateway Action",
+      "message": "Full Payment cleared. Status set to true. Balance kept at: ₹2000",
+      "timestamp": "2026-05-19T11:00:52.676Z"
     }
   ]
 }
