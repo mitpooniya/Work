@@ -1304,6 +1304,15 @@
       "village": "Dungrana",
       "date": "2026-04-27",
       "paymentDone": false
+    },
+    {
+      "id": "_q1iv1a6im",
+      "firstName": "निहाल",
+      "lastName": "नेहरा",
+      "amount": 3000,
+      "village": "Kalana",
+      "date": "2026-04-28",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2728,6 +2737,12 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹1000 allocated at Dungrana sector",
       "timestamp": "2026-05-19T11:02:03.883Z"
+    },
+    {
+      "userId": "_q1iv1a6im",
+      "type": "User Spawning",
+      "message": "Initialization parameter created with balance: ₹3000 allocated at Kalana sector",
+      "timestamp": "2026-05-19T11:02:40.800Z"
     }
   ]
 }
