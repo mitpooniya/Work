@@ -1015,7 +1015,7 @@
       "amount": 1800,
       "village": "Kalana",
       "date": "2025-11-14",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_okhnmg13d",
@@ -2977,6 +2977,12 @@
       "type": "Gateway Action",
       "message": "Overwrote balance configuration from ₹1000 to ₹2200",
       "timestamp": "2026-05-19T12:05:30.420Z"
+    },
+    {
+      "userId": "_d2wihdiia",
+      "type": "Gateway Action",
+      "message": "Full Payment cleared. Status set to true. Balance kept at: ₹1800",
+      "timestamp": "2026-05-19T12:07:52.967Z"
     }
   ]
 }
