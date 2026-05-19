@@ -76,7 +76,7 @@
       "id": "_ce5yvn446",
       "firstName": "च्याण",
       "lastName": "ताखर",
-      "amount": 508,
+      "amount": 500,
       "village": "Dungrana",
       "date": "2026-04-06",
       "paymentDone": false
@@ -3049,6 +3049,12 @@
       "type": "Gateway Action",
       "message": "Overwrote balance configuration from ₹1000 to ₹3000",
       "timestamp": "2026-05-19T12:23:37.290Z"
+    },
+    {
+      "userId": "_ce5yvn446",
+      "type": "Gateway Action",
+      "message": "Overwrote balance configuration from ₹508 to ₹500",
+      "timestamp": "2026-05-19T12:24:28.549Z"
     }
   ]
 }
