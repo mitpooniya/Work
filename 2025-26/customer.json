@@ -472,7 +472,7 @@
       "id": "_uwiji6ewg",
       "firstName": "सुभाष",
       "lastName": "धाणक",
-      "amount": 500,
+      "amount": 1200,
       "village": "Kalana",
       "date": "2025-12-25",
       "paymentDone": false
@@ -2959,6 +2959,12 @@
       "type": "Gateway Action",
       "message": "Full Payment cleared. Status set to true. Balance kept at: ₹1500",
       "timestamp": "2026-05-19T11:58:49.238Z"
+    },
+    {
+      "userId": "_uwiji6ewg",
+      "type": "Gateway Action",
+      "message": "Overwrote balance configuration from ₹500 to ₹1200",
+      "timestamp": "2026-05-19T12:01:24.138Z"
     }
   ]
 }
