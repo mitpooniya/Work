@@ -760,10 +760,10 @@
       "id": "_v57n4atgh",
       "firstName": "रामकार",
       "lastName": "सिदड़िया",
-      "amount": 1000,
+      "amount": 1500,
       "village": "Kalana",
       "date": "2025-12-08",
-      "paymentDone": true
+      "paymentDone": false
     },
     {
       "id": "_a7atxtzfh",
@@ -2989,6 +2989,12 @@
       "type": "Gateway Action",
       "message": "Overwrote balance configuration from ₹1000 to ₹2300",
       "timestamp": "2026-05-19T12:10:03.285Z"
+    },
+    {
+      "userId": "_v57n4atgh",
+      "type": "Gateway Action",
+      "message": "Overwrote balance configuration from ₹1000 to ₹1500",
+      "timestamp": "2026-05-19T12:14:24.278Z"
     }
   ]
 }
