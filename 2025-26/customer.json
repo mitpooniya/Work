@@ -1322,6 +1322,15 @@
       "village": "Dungrana",
       "date": "2026-04-30",
       "paymentDone": false
+    },
+    {
+      "id": "_w9hlb8wpq",
+      "firstName": "रामसिंह",
+      "lastName": "मूण्ड",
+      "amount": 500,
+      "village": "Dungrana",
+      "date": "2026-04-30",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2758,6 +2767,12 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹1200 allocated at Dungrana sector",
       "timestamp": "2026-05-19T11:03:30.907Z"
+    },
+    {
+      "userId": "_w9hlb8wpq",
+      "type": "User Spawning",
+      "message": "Initialization parameter created with balance: ₹500 allocated at Dungrana sector",
+      "timestamp": "2026-05-19T11:04:17.610Z"
     }
   ]
 }
