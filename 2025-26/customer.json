@@ -1376,6 +1376,15 @@
       "village": "Dungrana",
       "date": "2026-05-10",
       "paymentDone": true
+    },
+    {
+      "id": "_fvjj0g760",
+      "firstName": "देवीलाल",
+      "lastName": "नाई",
+      "amount": 1200,
+      "village": "Kalana",
+      "date": "2026-05-14",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2866,6 +2875,12 @@
       "type": "Gateway Action",
       "message": "Full Payment cleared. Status set to true. Balance kept at: ₹1200",
       "timestamp": "2026-05-19T11:10:27.786Z"
+    },
+    {
+      "userId": "_fvjj0g760",
+      "type": "User Spawning",
+      "message": "Initialization parameter created with balance: ₹1200 allocated at Kalana sector",
+      "timestamp": "2026-05-19T11:20:31.637Z"
     }
   ]
 }
