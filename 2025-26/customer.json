@@ -310,7 +310,7 @@
       "id": "_tr2bdkn3i",
       "firstName": "इंद्राज",
       "lastName": "चोपड़ा",
-      "amount": 1100,
+      "amount": 600,
       "village": "Kalana",
       "date": "2026-01-17",
       "paymentDone": false
@@ -3025,6 +3025,12 @@
       "type": "Gateway Action",
       "message": "Overwrote balance configuration from ₹500 to ₹600",
       "timestamp": "2026-05-19T12:20:36.202Z"
+    },
+    {
+      "userId": "_tr2bdkn3i",
+      "type": "Gateway Action",
+      "message": "Overwrote balance configuration from ₹1100 to ₹600",
+      "timestamp": "2026-05-19T12:21:17.918Z"
     }
   ]
 }
