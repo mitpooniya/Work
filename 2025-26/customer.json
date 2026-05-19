@@ -1295,6 +1295,15 @@
       "village": "Gunjasari",
       "date": "2026-04-24",
       "paymentDone": true
+    },
+    {
+      "id": "_zr7bvwcnh",
+      "firstName": "लीलाराम",
+      "lastName": "मूण्ड",
+      "amount": 1000,
+      "village": "Dungrana",
+      "date": "2026-04-27",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -2713,6 +2722,12 @@
       "type": "Gateway Action",
       "message": "Full Payment cleared. Status set to true. Balance kept at: ₹2000",
       "timestamp": "2026-05-19T11:00:52.676Z"
+    },
+    {
+      "userId": "_zr7bvwcnh",
+      "type": "User Spawning",
+      "message": "Initialization parameter created with balance: ₹1000 allocated at Dungrana sector",
+      "timestamp": "2026-05-19T11:02:03.883Z"
     }
   ]
 }
