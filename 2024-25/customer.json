@@ -4,7 +4,7 @@
       "id": "_fg1blt8nf",
       "firstName": "Poo",
       "lastName": "Kk",
-      "amount": 308,
+      "amount": 310,
       "village": "Kalana",
       "date": "2024-10-14",
       "paymentDone": false
@@ -31,6 +31,12 @@
       "type": "Imported Spawning",
       "message": "Imported from old season with updated balance: ₹3000 allocated at Dungrana sector",
       "timestamp": "2026-10-14T03:09:27.102Z"
+    },
+    {
+      "userId": "_fg1blt8nf",
+      "type": "Standard Manual Updates",
+      "message": "Amount modified from ₹308 to ₹310",
+      "timestamp": "2026-10-14T03:21:06.203Z"
     }
   ]
 }
