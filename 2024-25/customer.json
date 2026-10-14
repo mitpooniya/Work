@@ -8,6 +8,16 @@
       "village": "Kalana",
       "date": "2024-10-14",
       "paymentDone": false
+    },
+    {
+      "id": "_kohgf2u11",
+      "firstName": "भूराराम",
+      "lastName": "लोर",
+      "number": "9610484848",
+      "amount": 800,
+      "village": "Gunjasari",
+      "date": "2026-10-14",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -22,6 +32,12 @@
       "type": "Standard Manual Updates",
       "message": "Amount modified from ₹308 to ₹310",
       "timestamp": "2026-10-14T03:21:06.203Z"
+    },
+    {
+      "userId": "_kohgf2u11",
+      "type": "Imported from Old Season",
+      "message": "भूराराम balance is 600 and after import 800 (Old Date: 10/05/2026)",
+      "timestamp": "2026-10-14T03:36:48.904Z"
     }
   ]
 }
