@@ -1366,7 +1366,7 @@
       "amount": 600,
       "village": "Gunjasari",
       "date": "2026-05-10",
-      "paymentDone": true
+      "paymentDone": false
     },
     {
       "id": "_pkp4lv5gq",
@@ -3109,6 +3109,12 @@
       "type": "Imported to New Season",
       "message": "Imported to season 2024-25. Balance marked as paid in 2025-26.",
       "timestamp": "2026-10-14T03:22:05.461Z"
+    },
+    {
+      "userId": "_id38hsbkd",
+      "type": "Status Change",
+      "message": "Status changed from Paid to Pending",
+      "timestamp": "2026-10-14T03:34:47.728Z"
     }
   ]
 }
