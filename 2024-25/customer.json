@@ -14,10 +14,10 @@
       "firstName": "भूराराम",
       "lastName": "लोर",
       "number": "9610484848",
-      "amount": 800,
+      "amount": 700,
       "village": "Gunjasari",
       "date": "2026-10-14",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_5pesrjvig",
@@ -92,6 +92,12 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹4700 allocated at Kalana sector",
       "timestamp": "2026-10-14T03:54:51.127Z"
+    },
+    {
+      "userId": "_kohgf2u11",
+      "type": "Payment Completed",
+      "message": "Marked as paid. Amount adjusted from ₹800 to ₹700",
+      "timestamp": "2026-10-14T03:55:51.070Z"
     }
   ]
 }
