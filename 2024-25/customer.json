@@ -10,16 +10,6 @@
       "paymentDone": false
     },
     {
-      "id": "_kohgf2u11",
-      "firstName": "भूराराम",
-      "lastName": "लोर",
-      "number": "9610484848",
-      "amount": 700,
-      "village": "Gunjasari",
-      "date": "2026-10-14",
-      "paymentDone": true
-    },
-    {
       "id": "_5pesrjvig",
       "firstName": "Opp",
       "lastName": "Shsh",
@@ -64,12 +54,6 @@
       "timestamp": "2026-10-14T03:21:06.203Z"
     },
     {
-      "userId": "_kohgf2u11",
-      "type": "Imported from Old Season",
-      "message": "भूराराम balance is 600 and after import 800 (Old Date: 10/05/2026)",
-      "timestamp": "2026-10-14T03:36:48.904Z"
-    },
-    {
       "userId": "_5pesrjvig",
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹700 allocated at Dungrana sector",
@@ -92,12 +76,6 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹4700 allocated at Kalana sector",
       "timestamp": "2026-10-14T03:54:51.127Z"
-    },
-    {
-      "userId": "_kohgf2u11",
-      "type": "Payment Completed",
-      "message": "Marked as paid. Amount adjusted from ₹800 to ₹700",
-      "timestamp": "2026-10-14T03:55:51.070Z"
     }
   ]
 }
