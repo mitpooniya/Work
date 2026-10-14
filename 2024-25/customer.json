@@ -8,6 +8,15 @@
       "village": "Kalana",
       "date": "2024-10-14",
       "paymentDone": false
+    },
+    {
+      "id": "_0d7hh48ks",
+      "firstName": "रामस्वरूप",
+      "lastName": "कुम्हार",
+      "amount": 1500,
+      "village": "Kalana",
+      "date": "2024-10-14",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -16,6 +25,12 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹308 allocated at Kalana sector",
       "timestamp": "2026-10-14T03:07:50.967Z"
+    },
+    {
+      "userId": "_0d7hh48ks",
+      "type": "Imported Spawning",
+      "message": "Imported from old season with updated balance: ₹1500 allocated at Kalana sector",
+      "timestamp": "2026-10-14T03:08:49.368Z"
     }
   ]
 }
