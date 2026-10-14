@@ -1366,7 +1366,7 @@
       "amount": 600,
       "village": "Gunjasari",
       "date": "2026-05-10",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_pkp4lv5gq",
@@ -3103,6 +3103,12 @@
       "type": "Gateway Action",
       "message": "Full Payment cleared. Status set to true. Balance kept at: ₹800",
       "timestamp": "2026-08-05T13:36:08.829Z"
+    },
+    {
+      "userId": "_id38hsbkd",
+      "type": "Imported to New Season",
+      "message": "Imported to season 2024-25. Balance marked as paid in 2025-26.",
+      "timestamp": "2026-10-14T03:22:05.461Z"
     }
   ]
 }
