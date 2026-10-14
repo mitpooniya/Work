@@ -28,6 +28,16 @@
       "village": "Dungrana",
       "date": "2026-10-13",
       "paymentDone": true
+    },
+    {
+      "id": "_jiwm4uay4",
+      "firstName": "Seh",
+      "lastName": "Bwhe",
+      "number": "4646164646",
+      "amount": 100,
+      "village": "Dungrana",
+      "date": "2026-10-14",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -60,6 +70,12 @@
       "type": "Payment Completed",
       "message": "Marked as paid. Amount adjusted from ₹700 to ₹700",
       "timestamp": "2026-10-14T03:49:59.505Z"
+    },
+    {
+      "userId": "_jiwm4uay4",
+      "type": "User Spawning",
+      "message": "Initialization parameter created with balance: ₹100 allocated at Dungrana sector",
+      "timestamp": "2026-10-14T03:50:17.377Z"
     }
   ]
 }
