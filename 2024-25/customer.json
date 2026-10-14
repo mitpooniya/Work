@@ -1,0 +1,21 @@
+{
+  "customers": [
+    {
+      "id": "_fg1blt8nf",
+      "firstName": "Poo",
+      "lastName": "Kk",
+      "amount": 308,
+      "village": "Kalana",
+      "date": "2024-10-14",
+      "paymentDone": false
+    }
+  ],
+  "history": [
+    {
+      "userId": "_fg1blt8nf",
+      "type": "User Spawning",
+      "message": "Initialization parameter created with balance: ₹308 allocated at Kalana sector",
+      "timestamp": "2026-10-14T03:07:50.967Z"
+    }
+  ]
+}
