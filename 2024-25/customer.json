@@ -17,7 +17,7 @@
       "amount": 700,
       "village": "Dungrana",
       "date": "2026-10-13",
-      "paymentDone": true
+      "paymentDone": false
     },
     {
       "id": "_0ikl4ycax",
@@ -60,6 +60,12 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹4700 allocated at Kalana sector",
       "timestamp": "2026-10-14T03:54:51.127Z"
+    },
+    {
+      "userId": "_5pesrjvig",
+      "type": "Status Change",
+      "message": "Status changed from Paid to Pending",
+      "timestamp": "2026-10-15T04:10:30.685Z"
     }
   ]
 }
