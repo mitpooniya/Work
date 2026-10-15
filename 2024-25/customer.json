@@ -9,16 +9,6 @@
       "village": "Dungrana",
       "date": "2026-10-15",
       "paymentDone": false
-    },
-    {
-      "id": "_z9cn36yng",
-      "firstName": "Bh",
-      "lastName": "Ghh",
-      "number": "null",
-      "amount": 900,
-      "village": "Dungrana",
-      "date": "2026-10-10",
-      "paymentDone": false
     }
   ],
   "history": [
@@ -27,12 +17,6 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹700 allocated at Dungrana sector",
       "timestamp": "2026-10-15T04:14:39.103Z"
-    },
-    {
-      "userId": "_z9cn36yng",
-      "type": "Imported from Old Season",
-      "message": "Bh balance is 700 and after import 900 (Old Date: 15/10/2026)",
-      "timestamp": "2026-10-15T04:15:04.015Z"
     }
   ]
 }
