@@ -10,16 +10,6 @@
       "paymentDone": false
     },
     {
-      "id": "_5pesrjvig",
-      "firstName": "Opp",
-      "lastName": "Shsh",
-      "number": "null",
-      "amount": 800,
-      "village": "Dungrana",
-      "date": "2026-10-13",
-      "paymentDone": false
-    },
-    {
       "id": "_0ikl4ycax",
       "firstName": "Gggs",
       "lastName": "Hshsh",
@@ -44,34 +34,10 @@
       "timestamp": "2026-10-14T03:21:06.203Z"
     },
     {
-      "userId": "_5pesrjvig",
-      "type": "User Spawning",
-      "message": "Initialization parameter created with balance: ₹700 allocated at Dungrana sector",
-      "timestamp": "2026-10-14T03:49:26.911Z"
-    },
-    {
-      "userId": "_5pesrjvig",
-      "type": "Payment Completed",
-      "message": "Marked as paid. Amount adjusted from ₹700 to ₹700",
-      "timestamp": "2026-10-14T03:49:59.505Z"
-    },
-    {
       "userId": "_0ikl4ycax",
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹4700 allocated at Kalana sector",
       "timestamp": "2026-10-14T03:54:51.127Z"
-    },
-    {
-      "userId": "_5pesrjvig",
-      "type": "Status Change",
-      "message": "Status changed from Paid to Pending",
-      "timestamp": "2026-10-15T04:10:30.685Z"
-    },
-    {
-      "userId": "_5pesrjvig",
-      "type": "Standard Manual Updates",
-      "message": "Amount modified from ₹700 to ₹800",
-      "timestamp": "2026-10-15T04:10:49.620Z"
     }
   ]
 }
