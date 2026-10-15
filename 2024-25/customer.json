@@ -14,7 +14,7 @@
       "firstName": "Opp",
       "lastName": "Shsh",
       "number": "null",
-      "amount": 700,
+      "amount": 800,
       "village": "Dungrana",
       "date": "2026-10-13",
       "paymentDone": false
@@ -66,6 +66,12 @@
       "type": "Status Change",
       "message": "Status changed from Paid to Pending",
       "timestamp": "2026-10-15T04:10:30.685Z"
+    },
+    {
+      "userId": "_5pesrjvig",
+      "type": "Standard Manual Updates",
+      "message": "Amount modified from ₹700 to ₹800",
+      "timestamp": "2026-10-15T04:10:49.620Z"
     }
   ]
 }
