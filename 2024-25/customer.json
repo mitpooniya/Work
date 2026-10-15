@@ -1,22 +1,4 @@
 {
-  "customers": [
-    {
-      "id": "_jrm2k1ibh",
-      "firstName": "Bh",
-      "lastName": "Ghh",
-      "number": "null",
-      "amount": 700,
-      "village": "Dungrana",
-      "date": "2026-10-15",
-      "paymentDone": false
-    }
-  ],
-  "history": [
-    {
-      "userId": "_jrm2k1ibh",
-      "type": "User Spawning",
-      "message": "Initialization parameter created with balance: ₹700 allocated at Dungrana sector",
-      "timestamp": "2026-10-15T04:14:39.103Z"
-    }
-  ]
+  "customers": [],
+  "history": []
 }
