@@ -9,6 +9,16 @@
       "village": "Kalana",
       "date": "2026-10-21",
       "paymentDone": false
+    },
+    {
+      "id": "_z98dekb7f",
+      "firstName": "दयाराम",
+      "lastName": "नेहरा",
+      "number": "null",
+      "amount": 1000,
+      "village": "Kalana",
+      "date": "2026-10-21",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -17,6 +27,12 @@
       "type": "Imported from 2025-26",
       "message": "मोहरसिंह balance is 1000 and after import 1500 (Old Date: 16/04/2026)",
       "timestamp": "2026-10-21T15:31:28.628Z"
+    },
+    {
+      "userId": "_z98dekb7f",
+      "type": "User Spawning",
+      "message": "Initialization parameter created with balance: ₹1000 allocated at Kalana sector",
+      "timestamp": "2026-10-21T15:55:30.926Z"
     }
   ]
 }
