@@ -29,6 +29,16 @@
       "village": "Dungrana",
       "date": "2026-10-21",
       "paymentDone": false
+    },
+    {
+      "id": "_brv6pqlza",
+      "firstName": "सुखाराम",
+      "lastName": "चोपड़ा",
+      "number": "null",
+      "amount": 1200,
+      "village": "Dungrana",
+      "date": "2026-10-21",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -49,6 +59,12 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹1500 allocated at Dungrana sector",
       "timestamp": "2026-10-21T15:56:20.152Z"
+    },
+    {
+      "userId": "_brv6pqlza",
+      "type": "User Spawning",
+      "message": "Initialization parameter created with balance: ₹1200 allocated at Dungrana sector",
+      "timestamp": "2026-10-21T15:57:08.534Z"
     }
   ]
 }
