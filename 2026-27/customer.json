@@ -19,6 +19,16 @@
       "village": "Kalana",
       "date": "2026-10-21",
       "paymentDone": false
+    },
+    {
+      "id": "_wehc8gy2n",
+      "firstName": "भूप",
+      "lastName": "महला",
+      "number": "null",
+      "amount": 1500,
+      "village": "Dungrana",
+      "date": "2026-10-21",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -33,6 +43,12 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹1000 allocated at Kalana sector",
       "timestamp": "2026-10-21T15:55:30.926Z"
+    },
+    {
+      "userId": "_wehc8gy2n",
+      "type": "User Spawning",
+      "message": "Initialization parameter created with balance: ₹1500 allocated at Dungrana sector",
+      "timestamp": "2026-10-21T15:56:20.152Z"
     }
   ]
 }
