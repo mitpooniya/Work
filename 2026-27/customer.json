@@ -1,4 +1,22 @@
 {
-  "customers": [],
-  "history": []
+  "customers": [
+    {
+      "id": "_x4ezl8rkq",
+      "firstName": "मोहरसिंह",
+      "lastName": "स्वामी",
+      "number": "null",
+      "amount": 1500,
+      "village": "Kalana",
+      "date": "2026-10-21",
+      "paymentDone": false
+    }
+  ],
+  "history": [
+    {
+      "userId": "_x4ezl8rkq",
+      "type": "Imported from 2025-26",
+      "message": "मोहरसिंह balance is 1000 and after import 1500 (Old Date: 16/04/2026)",
+      "timestamp": "2026-10-21T15:31:28.628Z"
+    }
+  ]
 }
