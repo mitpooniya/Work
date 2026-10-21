@@ -3115,6 +3115,12 @@
       "type": "Status Change",
       "message": "Status changed from Paid to Pending",
       "timestamp": "2026-10-14T03:34:47.728Z"
+    },
+    {
+      "userId": "_7nsxbrpue",
+      "type": "Season Migration",
+      "message": "Moved to 2026-27 season",
+      "timestamp": "2026-10-21T15:31:25.041Z"
     }
   ]
 }
