@@ -49,6 +49,16 @@
       "village": "Kalana",
       "date": "2026-10-23",
       "paymentDone": false
+    },
+    {
+      "id": "_pzl41tg29",
+      "firstName": "फोजी",
+      "lastName": "लाम्बा",
+      "number": "null",
+      "amount": 1700,
+      "village": "Kalana",
+      "date": "2026-10-23",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -81,6 +91,12 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹1500 allocated at Kalana sector",
       "timestamp": "2026-10-24T13:58:52.910Z"
+    },
+    {
+      "userId": "_pzl41tg29",
+      "type": "User Spawning",
+      "message": "Initialization parameter created with balance: ₹1700 allocated at Kalana sector",
+      "timestamp": "2026-10-24T13:59:25.701Z"
     }
   ]
 }
