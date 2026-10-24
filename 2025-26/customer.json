@@ -1348,7 +1348,7 @@
       "amount": 2000,
       "village": "Dungrana",
       "date": "2026-05-01",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_smkrg51r8",
@@ -3121,6 +3121,12 @@
       "type": "Season Migration",
       "message": "Moved to 2026-27 season",
       "timestamp": "2026-10-21T15:31:25.041Z"
+    },
+    {
+      "userId": "_txtzet2dc",
+      "type": "Payment Completed",
+      "message": "Marked as paid. Amount adjusted from ₹2000 to ₹2000",
+      "timestamp": "2026-10-24T14:09:24.760Z"
     }
   ]
 }
