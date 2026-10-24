@@ -529,7 +529,7 @@
       "amount": 1500,
       "village": "Dungrana",
       "date": "2025-12-21",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_nbd7v0nno",
@@ -3127,6 +3127,12 @@
       "type": "Payment Completed",
       "message": "Marked as paid. Amount adjusted from ₹2000 to ₹2000",
       "timestamp": "2026-10-24T14:09:24.760Z"
+    },
+    {
+      "userId": "_fjp2q2pu5",
+      "type": "Payment Completed",
+      "message": "Marked as paid. Amount adjusted from ₹1500 to ₹1500",
+      "timestamp": "2026-10-24T14:11:16.909Z"
     }
   ]
 }
