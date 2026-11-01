@@ -109,6 +109,16 @@
       "village": "Dungrana",
       "date": "2026-11-01",
       "paymentDone": false
+    },
+    {
+      "id": "_gdga67wh7",
+      "firstName": "वीरभान",
+      "lastName": "महला",
+      "number": "null",
+      "amount": 300,
+      "village": "Dungrana",
+      "date": "2026-11-01",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -177,6 +187,12 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹1000 allocated at Dungrana sector",
       "timestamp": "2026-11-01T15:46:29.744Z"
+    },
+    {
+      "userId": "_gdga67wh7",
+      "type": "User Spawning",
+      "message": "Initialization parameter created with balance: ₹300 allocated at Dungrana sector",
+      "timestamp": "2026-11-01T15:47:04.016Z"
     }
   ]
 }
