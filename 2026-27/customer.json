@@ -99,6 +99,16 @@
       "village": "Rakhi",
       "date": "2026-10-30",
       "paymentDone": false
+    },
+    {
+      "id": "_p3edpryq3",
+      "firstName": "लीलाराम",
+      "lastName": "महला",
+      "number": "null",
+      "amount": 1000,
+      "village": "Dungrana",
+      "date": "2026-11-01",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -161,6 +171,12 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹800 allocated at Rakhi sector",
       "timestamp": "2026-11-01T15:45:25.311Z"
+    },
+    {
+      "userId": "_p3edpryq3",
+      "type": "User Spawning",
+      "message": "Initialization parameter created with balance: ₹1000 allocated at Dungrana sector",
+      "timestamp": "2026-11-01T15:46:29.744Z"
     }
   ]
 }
