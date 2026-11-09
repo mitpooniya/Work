@@ -58,7 +58,7 @@
       "amount": 1700,
       "village": "Kalana",
       "date": "2026-10-23",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_31u4fg66g",
@@ -215,6 +215,12 @@
       "type": "Payment Completed",
       "message": "Marked as paid. Amount adjusted from ₹600 to ₹600",
       "timestamp": "2026-11-02T04:19:07.149Z"
+    },
+    {
+      "userId": "_pzl41tg29",
+      "type": "Payment Completed",
+      "message": "Marked as paid. Amount adjusted from ₹1700 to ₹1700",
+      "timestamp": "2026-11-09T15:57:31.318Z"
     }
   ]
 }
