@@ -129,6 +129,16 @@
       "village": "Dungrana",
       "date": "2026-11-01",
       "paymentDone": true
+    },
+    {
+      "id": "_0ixb2augj",
+      "firstName": "शीशपाल",
+      "lastName": "चोपड़ा",
+      "number": "null",
+      "amount": 500,
+      "village": "Kalana",
+      "date": "2026-11-09",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -227,6 +237,12 @@
       "type": "Standard Manual Updates",
       "message": "Amount modified from ₹1500 to ₹800",
       "timestamp": "2026-11-09T15:57:48.208Z"
+    },
+    {
+      "userId": "_0ixb2augj",
+      "type": "User Spawning",
+      "message": "Initialization parameter created with balance: ₹500 allocated at Kalana sector",
+      "timestamp": "2026-11-09T16:00:54.594Z"
     }
   ]
 }
