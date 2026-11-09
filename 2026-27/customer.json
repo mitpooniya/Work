@@ -45,7 +45,7 @@
       "firstName": "आदराम",
       "lastName": "लाम्बा",
       "number": "null",
-      "amount": 1500,
+      "amount": 800,
       "village": "Kalana",
       "date": "2026-10-23",
       "paymentDone": false
@@ -221,6 +221,12 @@
       "type": "Payment Completed",
       "message": "Marked as paid. Amount adjusted from ₹1700 to ₹1700",
       "timestamp": "2026-11-09T15:57:31.318Z"
+    },
+    {
+      "userId": "_rjwi6ctn9",
+      "type": "Standard Manual Updates",
+      "message": "Amount modified from ₹1500 to ₹800",
+      "timestamp": "2026-11-09T15:57:48.208Z"
     }
   ]
 }
