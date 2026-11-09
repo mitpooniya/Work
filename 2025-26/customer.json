@@ -562,7 +562,7 @@
       "id": "_8cg331ipf",
       "firstName": "लिलाराम",
       "lastName": "कंस्वा",
-      "amount": 800,
+      "amount": 5800,
       "village": "Rakhi",
       "date": "2025-12-19",
       "paymentDone": true,
@@ -3230,6 +3230,12 @@
       "type": "Payment Completed",
       "message": "Marked as paid. Amount adjusted from ₹800 to ₹800",
       "timestamp": "2026-11-09T02:58:06.238Z"
+    },
+    {
+      "userId": "_8cg331ipf",
+      "type": "Standard Manual Updates",
+      "message": "Amount modified from ₹800 to ₹5800",
+      "timestamp": "2026-11-09T02:59:20.345Z"
     }
   ]
 }
