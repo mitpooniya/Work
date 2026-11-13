@@ -159,6 +159,16 @@
       "village": "Dungrana",
       "date": "2026-11-11",
       "paymentDone": false
+    },
+    {
+      "id": "_vxl4pwcjq",
+      "firstName": "भीम",
+      "lastName": "चोपड़ा",
+      "number": "null",
+      "amount": 1400,
+      "village": "Dungrana",
+      "date": "2026-11-11",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -275,6 +285,12 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹1300 allocated at Dungrana sector",
       "timestamp": "2026-11-13T17:45:27.169Z"
+    },
+    {
+      "userId": "_vxl4pwcjq",
+      "type": "User Spawning",
+      "message": "Initialization parameter created with balance: ₹1400 allocated at Dungrana sector",
+      "timestamp": "2026-11-13T17:46:05.017Z"
     }
   ]
 }
