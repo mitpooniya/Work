@@ -209,6 +209,16 @@
       "village": "Kalana",
       "date": "2026-11-13",
       "paymentDone": false
+    },
+    {
+      "id": "_cspsf7mb2",
+      "firstName": "महेंद्र",
+      "lastName": "कस्वा",
+      "number": "null",
+      "amount": 1000,
+      "village": "Kalana",
+      "date": "2026-11-13",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -355,6 +365,12 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹2400 allocated at Kalana sector",
       "timestamp": "2026-11-13T17:49:30.353Z"
+    },
+    {
+      "userId": "_cspsf7mb2",
+      "type": "User Spawning",
+      "message": "Initialization parameter created with balance: ₹1000 allocated at Kalana sector",
+      "timestamp": "2026-11-13T17:49:56.134Z"
     }
   ]
 }
