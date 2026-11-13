@@ -189,6 +189,16 @@
       "village": "Kalana",
       "date": "2026-11-12",
       "paymentDone": false
+    },
+    {
+      "id": "_wagkiyq9a",
+      "firstName": "भागाराम",
+      "lastName": "छिप्पा",
+      "number": "null",
+      "amount": 1000,
+      "village": "Dungrana",
+      "date": "2026-11-13",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -323,6 +333,12 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹500 allocated at Kalana sector",
       "timestamp": "2026-11-13T17:47:41.630Z"
+    },
+    {
+      "userId": "_wagkiyq9a",
+      "type": "User Spawning",
+      "message": "Initialization parameter created with balance: ₹1000 allocated at Dungrana sector",
+      "timestamp": "2026-11-13T17:48:48.620Z"
     }
   ]
 }
