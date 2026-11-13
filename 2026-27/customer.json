@@ -149,6 +149,16 @@
       "village": "Kalana",
       "date": "2026-11-09",
       "paymentDone": false
+    },
+    {
+      "id": "_12soflgyy",
+      "firstName": "कोहरसिह",
+      "lastName": "मुण्ड",
+      "number": "null",
+      "amount": 1300,
+      "village": "Dungrana",
+      "date": "2026-11-11",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -259,6 +269,12 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹400 allocated at Kalana sector",
       "timestamp": "2026-11-09T16:04:13.386Z"
+    },
+    {
+      "userId": "_12soflgyy",
+      "type": "User Spawning",
+      "message": "Initialization parameter created with balance: ₹1300 allocated at Dungrana sector",
+      "timestamp": "2026-11-13T17:45:27.169Z"
     }
   ]
 }
