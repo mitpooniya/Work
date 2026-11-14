@@ -367,8 +367,9 @@
       "amount": 300,
       "village": "Dungrana",
       "date": "2026-01-09",
-      "paymentDone": true,
-      "paidAt": "2026-11-14T15:57:10.913Z"
+      "paymentDone": false,
+      "paidAt": "2026-11-14T15:57:10.913Z",
+      "number": "null"
     },
     {
       "id": "_degbvf1l3",
@@ -3255,6 +3256,12 @@
       "type": "Payment Completed",
       "message": "Marked as paid from Analytics. Amount: ₹300 -> ₹300",
       "timestamp": "2026-11-14T15:57:10.913Z"
+    },
+    {
+      "userId": "_xmr2ao7bi",
+      "type": "Record Updated",
+      "message": "Mobile Number updated; Payment status reverted to PENDING",
+      "timestamp": "2026-11-14T16:00:12.586Z"
     }
   ]
 }
