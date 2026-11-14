@@ -1367,7 +1367,7 @@
       "amount": 600,
       "village": "Gunjasari",
       "date": "2026-05-10",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_pkp4lv5gq",
@@ -3236,6 +3236,12 @@
       "type": "Standard Manual Updates",
       "message": "Amount modified from ₹800 to ₹5800",
       "timestamp": "2026-11-09T02:59:20.345Z"
+    },
+    {
+      "userId": "_id38hsbkd",
+      "type": "Payment Completed",
+      "message": "Marked as paid. Amount adjusted from ₹600 to ₹600",
+      "timestamp": "2026-11-14T13:45:32.172Z"
     }
   ]
 }
