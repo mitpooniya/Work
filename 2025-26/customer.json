@@ -1386,16 +1386,6 @@
       "village": "Kalana",
       "date": "2026-05-14",
       "paymentDone": true
-    },
-    {
-      "id": "_iau5yl9p2",
-      "firstName": "निहाल",
-      "lastName": "कस्वा",
-      "number": "null",
-      "amount": 700,
-      "village": "Kalana",
-      "date": "2026-11-14",
-      "paymentDone": false
     }
   ],
   "history": [
@@ -3258,12 +3248,6 @@
       "type": "Payment Completed",
       "message": "Marked as paid. Amount adjusted from ₹600 to ₹600",
       "timestamp": "2026-11-14T13:48:27.141Z"
-    },
-    {
-      "userId": "_iau5yl9p2",
-      "type": "User Spawning",
-      "message": "Initialization parameter created with balance: ₹700 allocated at Kalana sector",
-      "timestamp": "2026-11-14T13:52:04.106Z"
     }
   ]
 }
