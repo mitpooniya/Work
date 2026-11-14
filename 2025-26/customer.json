@@ -1388,16 +1388,6 @@
       "paymentDone": true
     },
     {
-      "id": "_17ikycy6c",
-      "firstName": "रामसिंह",
-      "lastName": "लोर",
-      "number": "null",
-      "amount": 2100,
-      "village": "Gunjasari",
-      "date": "2026-11-14",
-      "paymentDone": false
-    },
-    {
       "id": "_iau5yl9p2",
       "firstName": "निहाल",
       "lastName": "कस्वा",
@@ -3268,12 +3258,6 @@
       "type": "Payment Completed",
       "message": "Marked as paid. Amount adjusted from ₹600 to ₹600",
       "timestamp": "2026-11-14T13:48:27.141Z"
-    },
-    {
-      "userId": "_17ikycy6c",
-      "type": "User Spawning",
-      "message": "Initialization parameter created with balance: ₹2100 allocated at Gunjasari sector",
-      "timestamp": "2026-11-14T13:50:36.817Z"
     },
     {
       "userId": "_iau5yl9p2",
