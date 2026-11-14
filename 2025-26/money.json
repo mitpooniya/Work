@@ -518,8 +518,8 @@
     },
     {
       "date": "2026-11-14",
-      "inCash": 2000,
-      "dieselExp": 1000,
+      "inCash": 0,
+      "dieselExp": 0,
       "otherExp": 0
     }
   ]
