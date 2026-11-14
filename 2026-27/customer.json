@@ -219,6 +219,16 @@
       "village": "Kalana",
       "date": "2026-11-13",
       "paymentDone": false
+    },
+    {
+      "id": "_fi8nime52",
+      "firstName": "रामसिंह",
+      "lastName": "लोर",
+      "number": "null",
+      "amount": 2100,
+      "village": "Gunjasari",
+      "date": "2026-11-14",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -377,6 +387,12 @@
       "type": "Payment Completed",
       "message": "Marked as paid. Amount adjusted from ₹1500 to ₹1500",
       "timestamp": "2026-11-14T13:47:11.286Z"
+    },
+    {
+      "userId": "_fi8nime52",
+      "type": "Customer Created",
+      "message": "Record created with balance ₹2100 at Gunjasari sector on 14/11/2026",
+      "timestamp": "2026-11-14T14:37:31.004Z"
     }
   ]
 }
