@@ -8,7 +8,7 @@
       "amount": 1500,
       "village": "Kalana",
       "date": "2026-10-21",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_z98dekb7f",
@@ -371,6 +371,12 @@
       "type": "User Spawning",
       "message": "Initialization parameter created with balance: ₹1000 allocated at Kalana sector",
       "timestamp": "2026-11-13T17:49:56.134Z"
+    },
+    {
+      "userId": "_x4ezl8rkq",
+      "type": "Payment Completed",
+      "message": "Marked as paid. Amount adjusted from ₹1500 to ₹1500",
+      "timestamp": "2026-11-14T13:47:11.286Z"
     }
   ]
 }
