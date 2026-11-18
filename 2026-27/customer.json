@@ -279,6 +279,16 @@
       "village": "Rakhi",
       "date": "2026-11-17",
       "paymentDone": false
+    },
+    {
+      "id": "_07frlgmgs",
+      "firstName": "लिछु",
+      "lastName": "खाती",
+      "number": "null",
+      "amount": 700,
+      "village": "Kalana",
+      "date": "2026-11-18",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -473,6 +483,12 @@
       "type": "Customer Created",
       "message": "Record created with balance ₹1500 at Rakhi sector on 17/11/2026",
       "timestamp": "2026-11-18T15:12:16.576Z"
+    },
+    {
+      "userId": "_07frlgmgs",
+      "type": "Customer Created",
+      "message": "Record created with balance ₹700 at Kalana sector on 18/11/2026",
+      "timestamp": "2026-11-18T15:12:47.793Z"
     }
   ]
 }
