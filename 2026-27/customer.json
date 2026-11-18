@@ -289,6 +289,16 @@
       "village": "Kalana",
       "date": "2026-11-18",
       "paymentDone": false
+    },
+    {
+      "id": "_sy5wyg22t",
+      "firstName": "बृजपाल",
+      "lastName": "नेहरा",
+      "number": "null",
+      "amount": 700,
+      "village": "Kalana",
+      "date": "2026-11-18",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -489,6 +499,12 @@
       "type": "Customer Created",
       "message": "Record created with balance ₹700 at Kalana sector on 18/11/2026",
       "timestamp": "2026-11-18T15:12:47.793Z"
+    },
+    {
+      "userId": "_sy5wyg22t",
+      "type": "Customer Created",
+      "message": "Record created with balance ₹700 at Kalana sector on 18/11/2026",
+      "timestamp": "2026-11-18T15:14:01.125Z"
     }
   ]
 }
