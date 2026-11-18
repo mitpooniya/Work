@@ -309,6 +309,16 @@
       "village": "Kalana",
       "date": "2026-11-18",
       "paymentDone": false
+    },
+    {
+      "id": "_31qkf9pav",
+      "firstName": "दीपाराम",
+      "lastName": "धायल",
+      "number": "null",
+      "amount": 800,
+      "village": "Kalana",
+      "date": "2026-11-18",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -521,6 +531,12 @@
       "type": "Customer Created",
       "message": "Record created with balance ₹500 at Kalana sector on 18/11/2026",
       "timestamp": "2026-11-18T15:14:23.011Z"
+    },
+    {
+      "userId": "_31qkf9pav",
+      "type": "Customer Created",
+      "message": "Record created with balance ₹800 at Kalana sector on 18/11/2026",
+      "timestamp": "2026-11-18T15:15:38.754Z"
     }
   ]
 }
