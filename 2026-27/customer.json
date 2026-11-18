@@ -319,6 +319,16 @@
       "village": "Kalana",
       "date": "2026-11-18",
       "paymentDone": false
+    },
+    {
+      "id": "_731ge5yhu",
+      "firstName": "लीछु",
+      "lastName": "पड़गड",
+      "number": "null",
+      "amount": 500,
+      "village": "Kalana",
+      "date": "2026-11-18",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -537,6 +547,12 @@
       "type": "Customer Created",
       "message": "Record created with balance ₹800 at Kalana sector on 18/11/2026",
       "timestamp": "2026-11-18T15:15:38.754Z"
+    },
+    {
+      "userId": "_731ge5yhu",
+      "type": "Customer Created",
+      "message": "Record created with balance ₹500 at Kalana sector on 18/11/2026",
+      "timestamp": "2026-11-18T15:16:41.730Z"
     }
   ]
 }
