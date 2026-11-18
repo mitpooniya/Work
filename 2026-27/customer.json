@@ -269,6 +269,16 @@
       "village": "Dungrana",
       "date": "2026-11-16",
       "paymentDone": false
+    },
+    {
+      "id": "_g84fa0wg4",
+      "firstName": "रामपत",
+      "lastName": "पुनिया",
+      "number": "null",
+      "amount": 1500,
+      "village": "Rakhi",
+      "date": "2026-11-17",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -457,6 +467,12 @@
       "type": "Customer Created",
       "message": "Record created with balance ₹800 at Dungrana sector on 16/11/2026",
       "timestamp": "2026-11-18T15:11:39.023Z"
+    },
+    {
+      "userId": "_g84fa0wg4",
+      "type": "Customer Created",
+      "message": "Record created with balance ₹1500 at Rakhi sector on 17/11/2026",
+      "timestamp": "2026-11-18T15:12:16.576Z"
     }
   ]
 }
