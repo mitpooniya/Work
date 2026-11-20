@@ -450,7 +450,8 @@
       "amount": 1000,
       "village": "Kalana",
       "date": "2025-12-26",
-      "paymentDone": false
+      "paymentDone": true,
+      "number": "null"
     },
     {
       "id": "_50gea1b6a",
@@ -3262,6 +3263,12 @@
       "type": "Record Updated",
       "message": "Mobile Number updated; Payment status reverted to PENDING",
       "timestamp": "2026-11-14T16:00:12.586Z"
+    },
+    {
+      "userId": "_tt7ke68f4",
+      "type": "Record Updated",
+      "message": "Mobile Number updated; Payment marked as PAID (₹1000)",
+      "timestamp": "2026-11-20T17:33:49.657Z"
     }
   ]
 }
