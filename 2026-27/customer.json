@@ -330,6 +330,16 @@
       "village": "Kalana",
       "date": "2026-11-18",
       "paymentDone": false
+    },
+    {
+      "id": "_ui0wvlvq0",
+      "firstName": "महावीर",
+      "lastName": "नायक",
+      "number": "null",
+      "amount": 600,
+      "village": "Dungrana",
+      "date": "2026-11-20",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -560,6 +570,12 @@
       "type": "Payment Completed",
       "message": "Marked as paid from Analytics. Amount: ₹1400 -> ₹1400",
       "timestamp": "2026-11-18T15:20:28.016Z"
+    },
+    {
+      "userId": "_ui0wvlvq0",
+      "type": "Customer Created",
+      "message": "Record created with balance ₹600 at Dungrana sector on 20/11/2026",
+      "timestamp": "2026-11-20T17:32:08.253Z"
     }
   ]
 }
