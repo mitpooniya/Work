@@ -340,6 +340,16 @@
       "village": "Dungrana",
       "date": "2026-11-20",
       "paymentDone": false
+    },
+    {
+      "id": "_fwoldqqe2",
+      "firstName": "गांधी",
+      "lastName": "ढाका",
+      "number": "null",
+      "amount": 1000,
+      "village": "Kalana",
+      "date": "2026-11-20",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -576,6 +586,12 @@
       "type": "Customer Created",
       "message": "Record created with balance ₹600 at Dungrana sector on 20/11/2026",
       "timestamp": "2026-11-20T17:32:08.253Z"
+    },
+    {
+      "userId": "_fwoldqqe2",
+      "type": "Customer Created",
+      "message": "Record created with balance ₹1000 at Kalana sector on 20/11/2026",
+      "timestamp": "2026-11-20T17:34:41.013Z"
     }
   ]
 }
