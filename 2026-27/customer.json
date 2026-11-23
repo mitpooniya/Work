@@ -78,7 +78,7 @@
       "amount": 500,
       "village": "Dungrana",
       "date": "2026-10-30",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_bvvihbhua",
@@ -608,6 +608,12 @@
       "type": "Customer Created",
       "message": "Record created with balance ₹1500 at Kalana sector on 20/11/2026",
       "timestamp": "2026-11-20T17:35:49.459Z"
+    },
+    {
+      "userId": "_k1skotodd",
+      "type": "Record Updated",
+      "message": "Payment marked as PAID (₹500)",
+      "timestamp": "2026-11-23T14:07:12.005Z"
     }
   ]
 }
