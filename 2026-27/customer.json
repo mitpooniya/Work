@@ -360,6 +360,16 @@
       "village": "Kalana",
       "date": "2026-11-20",
       "paymentDone": false
+    },
+    {
+      "id": "_me0zavv2f",
+      "firstName": "हरिसिंह",
+      "lastName": "धाणक",
+      "number": "null",
+      "amount": 3000,
+      "village": "Kalana",
+      "date": "2026-11-23",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -614,6 +624,12 @@
       "type": "Record Updated",
       "message": "Payment marked as PAID (₹500)",
       "timestamp": "2026-11-23T14:07:12.005Z"
+    },
+    {
+      "userId": "_me0zavv2f",
+      "type": "Imported from 2025-26",
+      "message": "हरिसिंह balance was ₹1100 and after import ₹3000 (Old Date: 24/12/2025)",
+      "timestamp": "2026-11-23T14:08:30.854Z"
     }
   ]
 }
