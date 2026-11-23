@@ -668,7 +668,8 @@
       "amount": 500,
       "village": "Kalana",
       "date": "2025-12-14",
-      "paymentDone": false
+      "paymentDone": true,
+      "paidAt": "2026-11-23T14:23:13.590Z"
     },
     {
       "id": "_seoo18322",
@@ -3275,6 +3276,12 @@
       "type": "Session Migration",
       "message": "Moved to 2026-27 session",
       "timestamp": "2026-11-23T14:08:28.974Z"
+    },
+    {
+      "userId": "_ff9289y6f",
+      "type": "Payment Completed",
+      "message": "Marked as paid from Analytics. Amount: ₹500 -> ₹500",
+      "timestamp": "2026-11-23T14:23:13.590Z"
     }
   ]
 }
