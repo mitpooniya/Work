@@ -3269,6 +3269,12 @@
       "type": "Record Updated",
       "message": "Mobile Number updated; Payment marked as PAID (₹1000)",
       "timestamp": "2026-11-20T17:33:49.657Z"
+    },
+    {
+      "userId": "_9c39frnnn",
+      "type": "Session Migration",
+      "message": "Moved to 2026-27 session",
+      "timestamp": "2026-11-23T14:08:28.974Z"
     }
   ]
 }
