@@ -488,7 +488,8 @@
       "amount": 1100,
       "village": "Kalana",
       "date": "2025-12-24",
-      "paymentDone": false
+      "paymentDone": true,
+      "paidAt": "2026-11-23T14:26:30.552Z"
     },
     {
       "id": "_hgwpypoww",
@@ -3296,6 +3297,12 @@
       "type": "Payment Completed",
       "message": "Marked as paid from Analytics. Amount: ₹1200 -> ₹1200",
       "timestamp": "2026-11-23T14:23:35.330Z"
+    },
+    {
+      "userId": "_9c39frnnn",
+      "type": "Payment Completed",
+      "message": "Marked as paid from Analytics. Amount: ₹1100 -> ₹1100",
+      "timestamp": "2026-11-23T14:26:30.552Z"
     }
   ]
 }
