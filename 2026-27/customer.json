@@ -359,7 +359,7 @@
       "amount": 1500,
       "village": "Kalana",
       "date": "2026-11-20",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_me0zavv2f",
@@ -716,6 +716,12 @@
       "type": "Customer Created",
       "message": "Record created with balance ₹700 at Rakhi sector on 25/11/2026",
       "timestamp": "2026-11-26T13:48:01.483Z"
+    },
+    {
+      "userId": "_er3vxlpra",
+      "type": "Record Updated",
+      "message": "Payment marked as PAID (₹1500)",
+      "timestamp": "2026-11-26T13:51:46.504Z"
     }
   ]
 }
