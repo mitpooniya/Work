@@ -400,6 +400,16 @@
       "village": "Dungrana",
       "date": "2026-11-24",
       "paymentDone": false
+    },
+    {
+      "id": "_el1cpujf9",
+      "firstName": "सुभाष",
+      "lastName": "चोपड़ा",
+      "number": "null",
+      "amount": 700,
+      "village": "Rakhi",
+      "date": "2026-11-24",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -684,6 +694,12 @@
       "type": "Customer Created",
       "message": "Record created with balance ₹1000 at Dungrana sector on 24/11/2026",
       "timestamp": "2026-11-26T13:47:01.217Z"
+    },
+    {
+      "userId": "_el1cpujf9",
+      "type": "Customer Created",
+      "message": "Record created with balance ₹700 at Rakhi sector on 24/11/2026",
+      "timestamp": "2026-11-26T13:47:36.507Z"
     }
   ]
 }
