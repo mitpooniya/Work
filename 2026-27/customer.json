@@ -410,6 +410,16 @@
       "village": "Rakhi",
       "date": "2026-11-24",
       "paymentDone": false
+    },
+    {
+      "id": "_rllllqm5y",
+      "firstName": "काशी",
+      "lastName": "चोपड़ा",
+      "number": "null",
+      "amount": 700,
+      "village": "Rakhi",
+      "date": "2026-11-25",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -700,6 +710,12 @@
       "type": "Customer Created",
       "message": "Record created with balance ₹700 at Rakhi sector on 24/11/2026",
       "timestamp": "2026-11-26T13:47:36.507Z"
+    },
+    {
+      "userId": "_rllllqm5y",
+      "type": "Customer Created",
+      "message": "Record created with balance ₹700 at Rakhi sector on 25/11/2026",
+      "timestamp": "2026-11-26T13:48:01.483Z"
     }
   ]
 }
