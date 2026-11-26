@@ -98,7 +98,7 @@
       "amount": 800,
       "village": "Rakhi",
       "date": "2026-10-30",
-      "paymentDone": false
+      "paymentDone": true
     },
     {
       "id": "_p3edpryq3",
@@ -630,6 +630,12 @@
       "type": "Imported from 2025-26",
       "message": "हरिसिंह balance was ₹1100 and after import ₹3000 (Old Date: 24/12/2025)",
       "timestamp": "2026-11-23T14:08:30.854Z"
+    },
+    {
+      "userId": "_qwgzcctfz",
+      "type": "Record Updated",
+      "message": "Payment marked as PAID (₹800)",
+      "timestamp": "2026-11-26T09:44:28.107Z"
     }
   ]
 }
