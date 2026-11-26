@@ -430,6 +430,16 @@
       "village": "Kalana",
       "date": "2026-11-26",
       "paymentDone": false
+    },
+    {
+      "id": "_q2pm5dftk",
+      "firstName": "पृथ्वी",
+      "lastName": "नेहरा",
+      "number": "null",
+      "amount": 600,
+      "village": "Kalana",
+      "date": "2026-11-26",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -738,6 +748,12 @@
       "type": "Imported from 2025-26",
       "message": "राजेन्द्र balance was ₹2000 and after import ₹3000 (Old Date: 04/02/2026)",
       "timestamp": "2026-11-26T13:52:18.514Z"
+    },
+    {
+      "userId": "_q2pm5dftk",
+      "type": "Customer Created",
+      "message": "Record created with balance ₹600 at Kalana sector on 26/11/2026",
+      "timestamp": "2026-11-26T13:53:52.327Z"
     }
   ]
 }
