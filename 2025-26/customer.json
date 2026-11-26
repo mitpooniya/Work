@@ -3310,6 +3310,12 @@
       "type": "Payment Completed",
       "message": "Marked as paid from Analytics. Amount: ₹1500 -> ₹1500",
       "timestamp": "2026-11-23T14:26:35.618Z"
+    },
+    {
+      "userId": "_3jnzuefku",
+      "type": "Session Migration",
+      "message": "Moved to 2026-27 session",
+      "timestamp": "2026-11-26T13:52:16.576Z"
     }
   ]
 }
