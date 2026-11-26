@@ -380,6 +380,16 @@
       "village": "Dungrana",
       "date": "2026-11-24",
       "paymentDone": false
+    },
+    {
+      "id": "_o1zhyaxoo",
+      "firstName": "नौरंग",
+      "lastName": "महला",
+      "number": "null",
+      "amount": 1000,
+      "village": "Dungrana",
+      "date": "2026-11-24",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -652,6 +662,12 @@
       "type": "Customer Created",
       "message": "Record created with balance ₹1200 at Dungrana sector on 24/11/2026",
       "timestamp": "2026-11-26T13:46:08.649Z"
+    },
+    {
+      "userId": "_o1zhyaxoo",
+      "type": "Customer Created",
+      "message": "Record created with balance ₹1000 at Dungrana sector on 24/11/2026",
+      "timestamp": "2026-11-26T13:46:33.499Z"
     }
   ]
 }
