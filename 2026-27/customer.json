@@ -370,6 +370,16 @@
       "village": "Kalana",
       "date": "2026-11-23",
       "paymentDone": false
+    },
+    {
+      "id": "_628gjkxvr",
+      "firstName": "हरदत",
+      "lastName": "झाझडिया",
+      "number": "null",
+      "amount": 1200,
+      "village": "Dungrana",
+      "date": "2026-11-24",
+      "paymentDone": false
     }
   ],
   "history": [
@@ -636,6 +646,12 @@
       "type": "Record Updated",
       "message": "Payment marked as PAID (₹800)",
       "timestamp": "2026-11-26T09:44:28.107Z"
+    },
+    {
+      "userId": "_628gjkxvr",
+      "type": "Customer Created",
+      "message": "Record created with balance ₹1200 at Dungrana sector on 24/11/2026",
+      "timestamp": "2026-11-26T13:46:08.649Z"
     }
   ]
 }
